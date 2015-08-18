@@ -1,0 +1,343 @@
+\documentclass{article}
+
+\usepackage{fancyhdr}
+\usepackage{extramarks}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+
+%
+% Basic Document Settings
+%
+
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1}
+
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName}
+\chead{\hmwkClass\ (\hmwkClassInstructor): \hmwkTitle}
+\rhead{\firstxmark}
+\lfoot{\lastxmark}
+\cfoot{\thepage}
+
+\renewcommand\headrulewidth{0.4pt}
+\renewcommand\footrulewidth{0.4pt}
+
+\setlength\parindent{0pt}
+
+%
+% Create Problem Sections
+%
+
+\newcommand{\enterProblemHeader}[1]{
+    \nobreak\extramarks{}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+}
+
+\newcommand{\exitProblemHeader}[1]{
+    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+    \stepcounter{#1}
+    \nobreak\extramarks{Problem \arabic{#1}}{}\nobreak{}
+}
+
+\setcounter{secnumdepth}{0}
+\newcounter{partCounter}
+\newcounter{homeworkProblemCounter}
+\setcounter{homeworkProblemCounter}{1}
+\nobreak\extramarks{Problem \arabic{homeworkProblemCounter}}{}\nobreak{}
+
+%
+% Homework Problem Environment
+%
+% This environment takes an optional argument. When given, it will adjust the
+% problem counter. This is useful for when the problems given for your
+% assignment aren't sequential. See the last 3 problems of this template for an
+% example.
+%
+\newenvironment{homeworkProblem}[1][-1]{
+    \ifnum#1>0
+        \setcounter{homeworkProblemCounter}{#1}
+    \fi
+    \section{Problem \arabic{homeworkProblemCounter}}
+    \setcounter{partCounter}{1}
+    \enterProblemHeader{homeworkProblemCounter}
+}{
+    \exitProblemHeader{homeworkProblemCounter}
+}
+
+%
+% Homework Details
+%   - Title
+%   - Due date
+%   - Class
+%   - Section/Time
+%   - Instructor
+%   - Author
+%
+
+\newcommand{\hmwkTitle}{Homework}
+%\newcommand{\hmwkDueDate}{February 12, 2014}
+\newcommand{\hmwkClass}{PBST}
+\newcommand{\hmwkClassInstructor}{B V Rao}
+\newcommand{\hmwkAuthorName}{Ashutosh Kumar}
+
+%
+% Title Page
+%
+
+\title{
+    \vspace{2in}
+    \textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\
+    \vspace{0.1in}\large{\textit{\hmwkClassInstructor}}
+    \vspace{3in}
+}
+
+\author{\textbf{\hmwkAuthorName}}
+\date{}
+
+\renewcommand{\part}[1]{\textbf{\large Part \Alph{partCounter}}\stepcounter{partCounter}\\}
+
+%
+% Various Helper Commands
+%
+
+% Useful for algorithms
+\newcommand{\alg}[1]{\textsc{\bfseries \footnotesize #1}}
+
+% For derivatives
+\newcommand{\deriv}[1]{\frac{\mathrm{d}}{\mathrm{d}x} (#1)}
+
+% For partial derivatives
+\newcommand{\pderiv}[2]{\frac{\partial}{\partial #1} (#2)}
+
+% Integral dx
+\newcommand{\dx}{\mathrm{d}x}
+
+% Alias for the Solution section header
+\newcommand{\solution}{\textbf{\large Solution}}
+
+% Probability commands: Expectation, Variance, Covariance, Bias
+\newcommand{\E}{\mathrm{E}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\Cov}{\mathrm{Cov}}
+\newcommand{\Bias}{\mathrm{Bias}}
+
+\begin{document}
+
+\maketitle
+
+\pagebreak
+
+\begin{homeworkProblem}
+    A poker hand means a set of five cards selected at random from usual deck of playing cards.
+
+    \begin{enumerate}
+        \item Find the probability that it is a \textbf{Royal Flush} - means that it consists of ten, jack, queen, king, ace of one suit.
+        \item Find the probability that it is \textbf{Four of a kind} - means that there are four cards of equal face value.
+        \item Find the probability that it is a \textbf{Full house} - means that it consists of one pair and one triple of cards with equal face values.
+        \item Find the probability that it is a \textbf{Straight} - means that it consists of five cards in a sequence regardless of suit.
+        \item Find the probability that it consists of three cards of equal face value and two other cards but not a full house.
+        \item Find the probability that it consists of two distinct pairs and another card but does not fall into previous categories
+        \item Find the probability that it consists of a pair and three other cards but does not fall into previous categories
+    \end{enumerate}
+
+\solution
+	\\
+    1.
+    \\
+    2.
+    \\
+    3.
+    \\
+    4.
+    \\
+    5.
+    \\
+    6.
+    \\
+    7.
+    
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+In how many ways can eight rooks be placed on a chess board so that none can take another and none is on the white diagonal
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+A number $X$ is chosen at random from the set $\{0,1,2,\ldots,10^n-1\}$.
+Find the probability that $X$ is a \textit{k}-digit number. A number $a$ is a \textit{k}-digit number if it is of the form $a = \sum_{0}^{k-1}{a_i 10^i}$ where $a_i$ are integers from 0 to 9 and $a_{k-1}$ is not zero
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+One mapping is selected at random from the set of all mappings of $\{1,2,\ldots,n\}$.
+\begin{enumerate}
+\item What is the probability that the selected mapping transforms each of the $n$ elements into 1?
+\item What is the probability that element $i$ has exactly $k$ pre-images (Here $i$ and $k$ are pre-assigned) ?
+\item What is the probability that the element $i$ is transformed into $j$ ?
+\item What is the probability that the elements $i_1,i_2$ and $i_3$ (assume distinct) are transformed into $j_1,j_2$ and $j_3$ respectively?
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+One permutation is selected at random from the set of all permutations of $\{1,2,\ldots,n\}$.
+\begin{enumerate}
+\item What is the probability that the identity permutation is chosen?
+\item What is the probability that the selected permutation transforms $i_1,i_2,\ldots,i_k$ into $j_1,j_2,\ldots,j_k$ respectively?
+\item What is the probability that the permutation keeps $i$ fixed?
+\item What is the probability that the elements 1,2 and 3 form a cycle in that order? (in some order?)
+\item What is the probability that all the elements form a cycle?
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+\begin{enumerate}
+\item Prove that in \textbf{Polya urn model}, chance of red ball is $r/(r+g)$ at any stage.
+\item Show that red at stage m and green at stage $n \neq m$ equals $rg/\{(r+g)(r+g+1)\}$.
+\item Do you think this will be the case in \textbf{Friedmans' model} where you add a ball of opposite colour?
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+A \textbf{tournament} is said to have \textit{k}-leader property if for every set of k players there is one who beats them all. Consider a random tournament with $n$ players. Fix $k$ players. (Tournament on $n$ vertices is a directed graph, having exactly one arrow between each pair of vertices.)
+\begin{enumerate}
+\item Show that the event \textbf{"No player beats all these k"}, has probability $(1-2^{-k})^{n-k}$
+\item Consequently, if ${n \choose k}(1-2^{-k})^{n-k} < 1$, then there is a \textit{k}-leader tournament with $n$ players.
+\item Show that for all large $n$ this inequality holds and hence \textit{k}-leader tournaments are possible
+\item If $f(k)$ is the least such n, show that f(1) = 3 and f(2) = 7. 
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+Three dice are rolled. Given that no two show the same face, find the conditional probability that at least one is an ace(?)
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+In a bolt factory; machines $A$, $B$ and $C$ manufacture 25, 35 and 40 percent of the total. Of their outputs 5, 4 and 2 percent are defective. A bolt selected at random is found to be defective. Given this what is the probability that it was manufactured by machine A? by B? by C?
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+A die has four red faces and two white faces and a second die has two red and four white faces. A fair coin is flipped once. If it falls heads, we keep on throwing the first die and if it falls tails, we keep on throwing the second die.
+\begin{enumerate}
+\item Show that the probability of red at any throw is $\frac{1}{2}$
+\item If the first two throws result in red what is the conditional probability of red at the third throw?
+\item If red turns up at the first n throws, what is the conditional probability that the first die is being used?
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+An urn contains 3 white, 5 black and 2 red balls. Two persons draw balls in turn, without replacement. The first person to draw a white ball before the appearance of a red ball wins the game. However, if a red ball is drawn by anyone before the appearance of a white ball, then the game is declared a tie. Calculate the probability that:
+\begin{enumerate}
+\item The person who beings the game wins.
+\item The other person wins.
+\item The game ends in a tie.
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+I have two boxes. Box I has 4 red and 2 green balls while box II has 2 red and 4 green balls. I pick a ball at random from box I and put in box II; Then I pick a ball at random from box II and put in box I. Now I pick one ball from each box. What are the chances that they are of the same colour?
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+I throw a fair die. If 4, 5 or 6 show up, I put $X$ as that value. If 1, 2 or 3 show up, I roll the die again and then put $X$ as the sum of the two face obtained. Calculate the distribution of $X$.
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+For any events $A_i,\ldots,A_n$ in an experiment show $P(\bigcup A_i) \leq \sum{P(A_i)}$. This is called union bound (or Boole's inequality)\\ For any two events $A$ and $B$ show that $$P(A\cap B) \geq P(A) + P(B) - 1$$
+This is called a Bonferroni inequality.\\
+The inclusion-exclusion formula we proved for probability of union of events is sometimes called Poincare formula.
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+Fix $0 < p < 1$. Then $G(n,p)$ is the (undirected) random graph model where we have $n$ vertices and where edges are chosen independently each with probability $p$. Let $q_n$ be the probability that the graph is disconnected. Show $$q_n \leq \frac{1}{2} \sum_{k=1}^{n-1}{n \choose k}(1-p)^{k(n-k)} \leq \sum_{k=1}^{[n/2]}{(n(1-p)^{n/2})^k} \to 0$$
+Thus $1-q_n \to 1$. This is expressed by saying that, in this model, almost every graph is connected. A better way to think is that, as $n$ becomes large, our random graph is connected with overwhelming probability.
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+In an experiment $P(A) = 0.4$ and $P(A \cup B) = 0.7$. Determine $P(A)$ and $P(B)$ if:
+\begin{enumerate}
+\item $A, B$ are independent.
+\item $A, B$ are disjoint.
+\end{enumerate}
+\solution
+\begin{enumerate}
+\item Since A, B are independent, we know that $P(A \cap B) = P(A)P(B)$. \\ Also, we know that $P(A \cup B) = P(A) + P(B) - P(A \cap B)$ \\ \\ On substituting, we get $ 0.7 = 0.4 + P(B) - 0.4\times P(B)$ \\ $\implies$ $0.3 = P(B) - 0.4 \times P(B)$ \\ $\implies$ $0.3 = 0.6 \times P(B)$
+\\ $\implies$ $P(B) = 0.5$
+\\
+\item Since A, B are disjoint, we know that $P(A \cap B) = 0$
+\\
+$0.7 = 0.4 + P(B)$
+\\
+$\implies$ $P(B) = 0.3$
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+A cancer diagnostic test is $95\%$ accurate both on those who have cancer and those who do not. Assume that 0.005 of some population have cancer. A person is selected at random and test shows he has cancer. Given this, what are the chances that he actually has cancer.
+\end{homeworkProblem}
+
+\pagebreak
+
+
+\begin{homeworkProblem}
+Banach carries (alright, assume he is alive!) two match boxes, each with 50 sticks, one in each pocket. When he needs, he selects one pocket and takes one match from that box. 
+\begin{enumerate}
+\item Today for the first time he found that the box he picked is empty. What are the chances that the other box contains exactly $k$ matches? 
+\item Today for the first time he is emptying a box. What are the chances that the other box contains exactly $k$ matches?
+\end{enumerate}
+\end{homeworkProblem}
+
+\end{document}
