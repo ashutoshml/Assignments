@@ -3,7 +3,9 @@
 \usepackage{fancyhdr}
 \usepackage{extramarks}
 \usepackage{amsmath}
+\usepackage[hidelinks]{hyperref}
 \usepackage{amsthm}
+\usepackage{cancel}
 \usepackage{amsfonts}
 
 %
@@ -235,8 +237,42 @@ A \textbf{tournament} is said to have \textit{k}-leader property if for every se
 
 
 \begin{homeworkProblem}
-Three dice are rolled. Given that no two show the same face, find the conditional probability that at least one is an ace(?)
+Three dice are rolled. Given that no two show the same face, find the conditional probability that at least one is an ace\\~\\
+\solution \\
+\begin{equation}\label{8:condProb}
+P(A|B) = \frac{P(A\cap B)}{P(A)}
+\end{equation}
+Let us first calculate the probability that of the three dice no two show the same face. Call that probability $P(A)$\\
+For the first die, no of possibilities =  6 \\
+For the second die, no of possibilities =  5 \\
+For the third die, no of possibilities =  4 \\
+
+We know that total number of outcomes of the a three dice system are $6^3$\\
+Hence, we have $$P(A) = \frac{6\cdot5\cdot4}{6^3}$$
+
+We now calculate the probability that one of them is an ace.\\
+There are three exclusive cases for this:\\
+a) Ace belongs to the first dice, \\ b) Ace belongs to the second dice, \\c) Ace belongs to the third dice.\\
+
+Let us solve the a) case. The rest have similar arguments.\\
+Given that ace is fixed in the first place, we have \\
+For the second die, no of possibilities =  5 \\
+For the third die, no of possibilities =  4 \\
+
+A similar argument holds for the other cases.\\
+Hence, we have
+\[
+P(A\cap B) = \frac{3\cdot1\cdot5\cdot4}{6^3}
+\]
+
+Using \eqref{8:condProb}{}, we have: 
+\[
+	P(A|B) = \frac{3\cdot1\cdot \cancel{5} \cdot \cancel{4}}	{6\cdot \cancel{5} \cdot \cancel{4}}
+\]
+\[\implies P(A|B) = \frac{1}{2}\]
+
 \end{homeworkProblem}
+
 
 \pagebreak
 
@@ -339,5 +375,147 @@ Banach carries (alright, assume he is alive!) two match boxes, each with 50 stic
 \item Today for the first time he is emptying a box. What are the chances that the other box contains exactly $k$ matches?
 \end{enumerate}
 \end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+In Chandrasekhar model, starting with zero balls (on day zero), the probability of having k balls on day one, two, three are respectively
+\[ 
+e^{-\lambda}\lambda^{k}/k!;\qquad e^{\lambda(1+q)}[\lambda(1+q)]^{k}/k!;\qquad e^{\lambda(1+q+q^2)}[\lambda(1+q+q^2)]^{k}/k! 
+\]
+We did the first two. Do the third. Test your understanding by proving for day n using induction.
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+I roll a die twice. Find the distribution of:
+\begin{enumerate}
+\item The sum of the two scores obtained
+\item Score 1 minus score 2
+\item Maximum of the two scores
+\item Minimum of the two scores
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+I toss a fair coin four times. Find the distribution of:\\
+Number of head minus number of tails
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+I roll a fair die 100 times. Let $X$ be the number of times face 3 appears. Find the distribution of $X$. What if the die was biased: chance of face $i$ is $p_i$. Find the distribution of $Y$ = number of times even face appears.
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+I have a fair die and a biased die for which chance of face $i$ is proportional to $i$. I take a coin whose chance of heads is 0.3. I toss it. If heads up, I roll fair die. If tails up, I roll the biased die. Find the distribution of the face.
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+Suppose $A_1,A_2,\ldots,A_8$ are independent events. Show that:
+\[
+A_1 \cup A_2,\qquad A_3 \cap A_4,\qquad A_5^c \cup A_6^c,\qquad A_7^c \cap A_8^c
+\]
+are independent.
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+I have a coin whose chance of heads is $p$. I toss it $n$ times (unless stated otherwise, tosses are independent). What is the most probable number of heads?
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+Two dice (unless stated otherwise, dice are fair) are thrown eight times. Find the probability of getting a score of 8 exactly four times. Here score in a throw is the sum of the faces on the two dice.
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+Game of \textbf{craps} is played as follows.\\ The player throws two dice. If score is 7 or 11, then he wins. If it is 2,3,or 12 then he loses. If it is anything else, he \textit{continues throwing until he either throws the same score again or a seven. In the first case he wins and in the second case he looses. Calculate the probability of winning}
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+In a society there are equal number of males and females. A proportion $\alpha (0 < \alpha < 1)$ of males are colour blind and a proportion $\alpha^{2}$ of females are colour blind. A person is chosen at random and found to be colour blind. Given this what are the chances that the person is a male?
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+A magician has a fair coin and a two-headed coin. He selects a coin and tosses it once. He gets $H$. Given this what are the chances that the coin is fair? He tosses a second time and gets $T$. Given this what are the chances that the coin is fair?
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+I give a letter to my friend to mail to you. The chances he forgets to mail are 0.1. Given that he mailed, the chances that it is not delivered by the post office to CMI are 0.1. Given that it is delivered to CMI, the chances you are not handed the letter are 0.1.\\
+You did not receive the letter. Given this what are the chances that my friend forgot to mail? What are the chances my friend mailed but the post office did not deliver to CMI? What are the chances CMI got it but was not given to you?
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+I select two members at random, one after the other, from the set $\{1,2,3,4,5\}$ independently and make a rectangle with those as sides. Find the distribution of the area of the rectangle. Do both cases:
+\begin{enumerate}
+\item With replacement
+\item Without replacement
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+Let $G = (V,E)$ be a graph (given to you). Choose points of $V$ at random, each with probability 1/2. Let $T$ be the random set so obtained. Call an edge 'crossing edge' if one end is in $T$ and the other in $V-T$. Since $T$ is random, the number $X$ of crossing edges is a random variable. Show that $\E(X) = e/2$ where $e$ is the number of edges, that is, cardinality of E.\\
+Deduce that a graph with $n$ vertices and $e$ edges must have a bipartite subgraph with at least $e/2$ edges.\\
+Here a subgraph of $(V,E)$ means $(V^*,E^*)$ where $V^* \subset V; \: E^* \subset E$. A graph $(V,E)$ is bipartite if $V=V_1 \cup V_2$ with 
+\begin{enumerate}
+\item $V_1 \neq \emptyset$ and $V_2 \neq \emptyset;$
+\item $V_1 \cap V_2 = \emptyset$ and 
+\item Every edge has one vertex in $V_1$ and other in $V_2$
+\end{enumerate}
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+Consider a Erdos-Renyi random graph, where each edge is chosen, independent of others, with probability $p$. Say that a pair of vertices (unordered) is good, if either they are joined OR they are joined to a common vertex. Let $X$ be the number of bad (not good) pairs. Since the graph is random, $X$ is a random variable. Show that
+\[
+\E(X) \leq {n \choose 2} {(1 - p^2)}^{n-2} \to 0
+\]
+Deduce that $P(X \geq 1) \to 0$. Conclude that almost every graph has diameter 2.\\
+Diameter of a graph is the largest possible distance between pairs of vertices and distance between a pair of vertices is the number of edges in the shortest path joining them (if no such path exists between a pair of vertices then the distance between them is $\infty$).
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+The four students in Msc(App), each toss a fair coin twice. Student $i$ obtains $X_i$, number of heads. I make a $2 \times 2$ matrix with rows $(X_1,X_2)$ and $(X_3,X_4)$. What are the chances that this matrix is non-singular?\\What are the chances that this matrix is symmetric?
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+Consider the set $S = \{0,1,2,\ldots,11\}$ with addition and multiplication modulo 12. I pick a number at random from $S$. What are the chances that it has a multiplicative inverse?
+\end{homeworkProblem}
+
+\pagebreak
+
+\begin{homeworkProblem}
+To pick a subset of $X=\{1,2,3,4,5\}$ at random I must write down all the 32 subsets of $X$ and pick one of them at random.\\
+Someone told me that I can toss a fair coin \textit{for each} $i (1 \leq i \leq 5)$ and pick $i$ when heads comes up and do not pick $i$ when tails come up. The set so obtained is a random subset.\\ Do you agree?
+\end{homeworkProblem}
+
 
 \end{document}
