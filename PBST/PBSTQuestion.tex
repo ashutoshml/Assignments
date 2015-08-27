@@ -1,143 +1,36 @@
-\documentclass{article}
+% --------------------------------------------------------------
+% This is all preamble stuff that you don't have to worry about.
+% Head down to where it says "Start here"
+% --------------------------------------------------------------
+ 
+\documentclass[12pt]{article}
 
-\usepackage{fancyhdr}
-\usepackage{extramarks}
-\usepackage{amsmath}
-\usepackage[hidelinks]{hyperref}
-\usepackage{amsthm}
-\usepackage{cancel}
-\usepackage{amsfonts}
-
-%
-% Basic Document Settings
-%
-
-\topmargin=-0.45in
-\evensidemargin=0in
-\oddsidemargin=0in
-\textwidth=6.5in
-\textheight=9.0in
-\headsep=0.25in
-
-\linespread{1.1}
-
-\pagestyle{fancy}
-\lhead{\hmwkAuthorName}
-\chead{\hmwkClass\ (\hmwkClassInstructor): \hmwkTitle}
-\rhead{\firstxmark}
-\lfoot{\lastxmark}
-\cfoot{\thepage}
-
-\renewcommand\headrulewidth{0.4pt}
-\renewcommand\footrulewidth{0.4pt}
-
-\setlength\parindent{0pt}
-
-%
-% Create Problem Sections
-%
-
-\newcommand{\enterProblemHeader}[1]{
-    \nobreak\extramarks{}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
-    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
-}
-
-\newcommand{\exitProblemHeader}[1]{
-    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
-    \stepcounter{#1}
-    \nobreak\extramarks{Problem \arabic{#1}}{}\nobreak{}
-}
-
-\setcounter{secnumdepth}{0}
-\newcounter{partCounter}
-\newcounter{homeworkProblemCounter}
-\setcounter{homeworkProblemCounter}{1}
-\nobreak\extramarks{Problem \arabic{homeworkProblemCounter}}{}\nobreak{}
-
-%
-% Homework Problem Environment
-%
-% This environment takes an optional argument. When given, it will adjust the
-% problem counter. This is useful for when the problems given for your
-% assignment aren't sequential. See the last 3 problems of this template for an
-% example.
-%
-\newenvironment{homeworkProblem}[1][-1]{
-    \ifnum#1>0
-        \setcounter{homeworkProblemCounter}{#1}
-    \fi
-    \section{Problem \arabic{homeworkProblemCounter}}
-    \setcounter{partCounter}{1}
-    \enterProblemHeader{homeworkProblemCounter}
-}{
-    \exitProblemHeader{homeworkProblemCounter}
-}
-
-%
-% Homework Details
-%   - Title
-%   - Due date
-%   - Class
-%   - Section/Time
-%   - Instructor
-%   - Author
-%
-
-\newcommand{\hmwkTitle}{Homework}
-%\newcommand{\hmwkDueDate}{February 12, 2014}
-\newcommand{\hmwkClass}{PBST}
-\newcommand{\hmwkClassInstructor}{B V Rao}
-\newcommand{\hmwkAuthorName}{Ashutosh Kumar}
-
-%
-% Title Page
-%
-
-\title{
-    \vspace{2in}
-    \textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\
-    \vspace{0.1in}\large{\textit{\hmwkClassInstructor}}
-    \vspace{3in}
-}
-
-\author{\textbf{\hmwkAuthorName}}
-\date{}
-
-\renewcommand{\part}[1]{\textbf{\large Part \Alph{partCounter}}\stepcounter{partCounter}\\}
-
-%
-% Various Helper Commands
-%
-
-% Useful for algorithms
-\newcommand{\alg}[1]{\textsc{\bfseries \footnotesize #1}}
-
-% For derivatives
-\newcommand{\deriv}[1]{\frac{\mathrm{d}}{\mathrm{d}x} (#1)}
-
-% For partial derivatives
-\newcommand{\pderiv}[2]{\frac{\partial}{\partial #1} (#2)}
-
-% Integral dx
-\newcommand{\dx}{\mathrm{d}x}
-
-% Alias for the Solution section header
-\newcommand{\solution}{\textbf{\large Solution}}
-
-% Probability commands: Expectation, Variance, Covariance, Bias
-\newcommand{\E}{\mathrm{E}}
-\newcommand{\Var}{\mathrm{Var}}
-\newcommand{\Cov}{\mathrm{Cov}}
-\newcommand{\Bias}{\mathrm{Bias}}
-
+\usepackage[margin=0.7in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{tikz}
+\usepackage{multirow}
+\usepackage{verbatim}
+ 
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+ 
+\newenvironment{question}[2][Question]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\renewcommand*{\proofname}{Solution}
+ 
 \begin{document}
-
+ 
+% --------------------------------------------------------------
+%                         Start here
+% --------------------------------------------------------------
+ 
+\title{PBST Assignment}%replace X with the appropriate number
+\author{Ashutosh Kumar\\ %replace with your name
+MCS201402} %if necessary, replace with your course title
+ 
 \maketitle
-
-\pagebreak
-
-\begin{homeworkProblem}
-    A poker hand means a set of five cards selected at random from usual deck of playing cards.
+ 
+\begin{question}{1}  A poker hand means a set of five cards selected at random from usual deck of playing cards.
 
     \begin{enumerate}
         \item Find the probability that it is a \textbf{Royal Flush} - means that it consists of ten, jack, queen, king, ace of one suit.
@@ -149,43 +42,18 @@
         \item Find the probability that it consists of a pair and three other cards but does not fall into previous categories
     \end{enumerate}
 
-\solution
-	\\
-    1.
-    \\
-    2.
-    \\
-    3.
-    \\
-    4.
-    \\
-    5.
-    \\
-    6.
-    \\
-    7.
-    
-\end{homeworkProblem}
-
-\pagebreak
-
-
-\begin{homeworkProblem}
+\end{question}
+ 
+\begin{question}{2}
 In how many ways can eight rooks be placed on a chess board so that none can take another and none is on the white diagonal
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{3}
 A number $X$ is chosen at random from the set $\{0,1,2,\ldots,10^n-1\}$.
 Find the probability that $X$ is a \textit{k}-digit number. A number $a$ is a \textit{k}-digit number if it is of the form $a = \sum_{0}^{k-1}{a_i 10^i}$ where $a_i$ are integers from 0 to 9 and $a_{k-1}$ is not zero
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{4}
 One mapping is selected at random from the set of all mappings of $\{1,2,\ldots,n\}$.
 \begin{enumerate}
 \item What is the probability that the selected mapping transforms each of the $n$ elements into 1?
@@ -193,12 +61,9 @@ One mapping is selected at random from the set of all mappings of $\{1,2,\ldots,
 \item What is the probability that the element $i$ is transformed into $j$ ?
 \item What is the probability that the elements $i_1,i_2$ and $i_3$ (assume distinct) are transformed into $j_1,j_2$ and $j_3$ respectively?
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{5}
 One permutation is selected at random from the set of all permutations of $\{1,2,\ldots,n\}$.
 \begin{enumerate}
 \item What is the probability that the identity permutation is chosen?
@@ -207,23 +72,17 @@ One permutation is selected at random from the set of all permutations of $\{1,2
 \item What is the probability that the elements 1,2 and 3 form a cycle in that order? (in some order?)
 \item What is the probability that all the elements form a cycle?
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{6}
 \begin{enumerate}
 \item Prove that in \textbf{Polya urn model}, chance of red ball is $r/(r+g)$ at any stage.
 \item Show that red at stage m and green at stage $n \neq m$ equals $rg/\{(r+g)(r+g+1)\}$.
 \item Do you think this will be the case in \textbf{Friedmans' model} where you add a ball of opposite colour?
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{7}
 A \textbf{tournament} is said to have \textit{k}-leader property if for every set of k players there is one who beats them all. Consider a random tournament with $n$ players. Fix $k$ players. (Tournament on $n$ vertices is a directed graph, having exactly one arrow between each pair of vertices.)
 \begin{enumerate}
 \item Show that the event \textbf{"No player beats all these k"}, has probability $(1-2^{-k})^{n-k}$
@@ -231,164 +90,82 @@ A \textbf{tournament} is said to have \textit{k}-leader property if for every se
 \item Show that for all large $n$ this inequality holds and hence \textit{k}-leader tournaments are possible
 \item If $f(k)$ is the least such n, show that f(1) = 3 and f(2) = 7. 
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
+\begin{question}{8}
+Three dice are rolled. Given that no two show the same face, find the conditional probability that at least one is an ace
+\end{question}
 
-
-\begin{homeworkProblem}
-Three dice are rolled. Given that no two show the same face, find the conditional probability that at least one is an ace\\~\\
-\solution \\
-\begin{equation}\label{8:condProb}
-P(A|B) = \frac{P(A\cap B)}{P(A)}
-\end{equation}
-Let us first calculate the probability that of the three dice no two show the same face. Call that probability $P(A)$\\
-For the first die, no of possibilities =  6 \\
-For the second die, no of possibilities =  5 \\
-For the third die, no of possibilities =  4 \\
-
-We know that total number of outcomes of the a three dice system are $6^3$\\
-Hence, we have $$P(A) = \frac{6\cdot5\cdot4}{6^3}$$
-
-We now calculate the probability that one of them is an ace.\\
-There are three exclusive cases for this:\\
-a) Ace belongs to the first dice, \\ b) Ace belongs to the second dice, \\c) Ace belongs to the third dice.\\
-
-Let us solve the a) case. The rest have similar arguments.\\
-Given that ace is fixed in the first place, we have \\
-For the second die, no of possibilities =  5 \\
-For the third die, no of possibilities =  4 \\
-
-A similar argument holds for the other cases.\\
-Hence, we have
-\[
-P(A\cap B) = \frac{3\cdot1\cdot5\cdot4}{6^3}
-\]
-
-Using \eqref{8:condProb}{}, we have: 
-\[
-	P(A|B) = \frac{3\cdot1\cdot \cancel{5} \cdot \cancel{4}}	{6\cdot \cancel{5} \cdot \cancel{4}}
-\]
-\[\implies P(A|B) = \frac{1}{2}\]
-
-\end{homeworkProblem}
-
-
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{9}
 In a bolt factory; machines $A$, $B$ and $C$ manufacture 25, 35 and 40 percent of the total. Of their outputs 5, 4 and 2 percent are defective. A bolt selected at random is found to be defective. Given this what is the probability that it was manufactured by machine A? by B? by C?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{10}
 A die has four red faces and two white faces and a second die has two red and four white faces. A fair coin is flipped once. If it falls heads, we keep on throwing the first die and if it falls tails, we keep on throwing the second die.
 \begin{enumerate}
 \item Show that the probability of red at any throw is $\frac{1}{2}$
 \item If the first two throws result in red what is the conditional probability of red at the third throw?
 \item If red turns up at the first n throws, what is the conditional probability that the first die is being used?
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{11}
 An urn contains 3 white, 5 black and 2 red balls. Two persons draw balls in turn, without replacement. The first person to draw a white ball before the appearance of a red ball wins the game. However, if a red ball is drawn by anyone before the appearance of a white ball, then the game is declared a tie. Calculate the probability that:
 \begin{enumerate}
 \item The person who beings the game wins.
 \item The other person wins.
 \item The game ends in a tie.
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{12}
 I have two boxes. Box I has 4 red and 2 green balls while box II has 2 red and 4 green balls. I pick a ball at random from box I and put in box II; Then I pick a ball at random from box II and put in box I. Now I pick one ball from each box. What are the chances that they are of the same colour?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{13}
 I throw a fair die. If 4, 5 or 6 show up, I put $X$ as that value. If 1, 2 or 3 show up, I roll the die again and then put $X$ as the sum of the two face obtained. Calculate the distribution of $X$.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{14}
 For any events $A_i,\ldots,A_n$ in an experiment show $P(\bigcup A_i) \leq \sum{P(A_i)}$. This is called union bound (or Boole's inequality)\\ For any two events $A$ and $B$ show that $$P(A\cap B) \geq P(A) + P(B) - 1$$
 This is called a Bonferroni inequality.\\
 The inclusion-exclusion formula we proved for probability of union of events is sometimes called Poincare formula.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{15}
 Fix $0 < p < 1$. Then $G(n,p)$ is the (undirected) random graph model where we have $n$ vertices and where edges are chosen independently each with probability $p$. Let $q_n$ be the probability that the graph is disconnected. Show $$q_n \leq \frac{1}{2} \sum_{k=1}^{n-1}{n \choose k}(1-p)^{k(n-k)} \leq \sum_{k=1}^{[n/2]}{(n(1-p)^{n/2})^k} \to 0$$
 Thus $1-q_n \to 1$. This is expressed by saying that, in this model, almost every graph is connected. A better way to think is that, as $n$ becomes large, our random graph is connected with overwhelming probability.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{16}
 In an experiment $P(A) = 0.4$ and $P(A \cup B) = 0.7$. Determine $P(A)$ and $P(B)$ if:
 \begin{enumerate}
 \item $A, B$ are independent.
 \item $A, B$ are disjoint.
 \end{enumerate}
-\solution
-\begin{enumerate}
-\item Since A, B are independent, we know that $P(A \cap B) = P(A)P(B)$. \\ Also, we know that $P(A \cup B) = P(A) + P(B) - P(A \cap B)$ \\ \\ On substituting, we get $ 0.7 = 0.4 + P(B) - 0.4\times P(B)$ \\ $\implies$ $0.3 = P(B) - 0.4 \times P(B)$ \\ $\implies$ $0.3 = 0.6 \times P(B)$
-\\ $\implies$ $P(B) = 0.5$
-\\
-\item Since A, B are disjoint, we know that $P(A \cap B) = 0$
-\\
-$0.7 = 0.4 + P(B)$
-\\
-$\implies$ $P(B) = 0.3$
-\end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{17}
 A cancer diagnostic test is $95\%$ accurate both on those who have cancer and those who do not. Assume that 0.005 of some population have cancer. A person is selected at random and test shows he has cancer. Given this, what are the chances that he actually has cancer.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-
-\begin{homeworkProblem}
+\begin{question}{18}
 Banach carries (alright, assume he is alive!) two match boxes, each with 50 sticks, one in each pocket. When he needs, he selects one pocket and takes one match from that box. 
 \begin{enumerate}
 \item Today for the first time he found that the box he picked is empty. What are the chances that the other box contains exactly $k$ matches? 
 \item Today for the first time he is emptying a box. What are the chances that the other box contains exactly $k$ matches?
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{19}
 In Chandrasekhar model, starting with zero balls (on day zero), the probability of having k balls on day one, two, three are respectively
 \[ 
 e^{-\lambda}\lambda^{k}/k!;\qquad e^{\lambda(1+q)}[\lambda(1+q)]^{k}/k!;\qquad e^{\lambda(1+q+q^2)}[\lambda(1+q+q^2)]^{k}/k! 
 \]
 We did the first two. Do the third. Test your understanding by proving for day n using induction.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{20}
 I roll a die twice. Find the distribution of:
 \begin{enumerate}
 \item The sum of the two scores obtained
@@ -396,88 +173,64 @@ I roll a die twice. Find the distribution of:
 \item Maximum of the two scores
 \item Minimum of the two scores
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{21}
 I toss a fair coin four times. Find the distribution of:\\
 Number of head minus number of tails
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{22}
 I roll a fair die 100 times. Let $X$ be the number of times face 3 appears. Find the distribution of $X$. What if the die was biased: chance of face $i$ is $p_i$. Find the distribution of $Y$ = number of times even face appears.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{23}
 I have a fair die and a biased die for which chance of face $i$ is proportional to $i$. I take a coin whose chance of heads is 0.3. I toss it. If heads up, I roll fair die. If tails up, I roll the biased die. Find the distribution of the face.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{24}
 Suppose $A_1,A_2,\ldots,A_8$ are independent events. Show that:
 \[
 A_1 \cup A_2,\qquad A_3 \cap A_4,\qquad A_5^c \cup A_6^c,\qquad A_7^c \cap A_8^c
 \]
 are independent.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{25}
 I have a coin whose chance of heads is $p$. I toss it $n$ times (unless stated otherwise, tosses are independent). What is the most probable number of heads?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{26}
 Two dice (unless stated otherwise, dice are fair) are thrown eight times. Find the probability of getting a score of 8 exactly four times. Here score in a throw is the sum of the faces on the two dice.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{27}
 Game of \textbf{craps} is played as follows.\\ The player throws two dice. If score is 7 or 11, then he wins. If it is 2,3,or 12 then he loses. If it is anything else, he \textit{continues throwing until} he either throws the same score again or a seven. In the first case he wins and in the second case he looses. Calculate the probability of winning
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{28}
 In a society there are equal number of males and females. A proportion $\alpha (0 < \alpha < 1)$ of males are colour blind and a proportion $\alpha^{2}$ of females are colour blind. A person is chosen at random and found to be colour blind. Given this what are the chances that the person is a male?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{29}
 A magician has a fair coin and a two-headed coin. He selects a coin and tosses it once. He gets $H$. Given this what are the chances that the coin is fair? He tosses a second time and gets $T$. Given this what are the chances that the coin is fair?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{30}
 I give a letter to my friend to mail to you. The chances he forgets to mail are 0.1. Given that he mailed, the chances that it is not delivered by the post office to CMI are 0.1. Given that it is delivered to CMI, the chances you are not handed the letter are 0.1.\\
 You did not receive the letter. Given this what are the chances that my friend forgot to mail? What are the chances my friend mailed but the post office did not deliver to CMI? What are the chances CMI got it but was not given to you?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{31}
 I select two members at random, one after the other, from the set $\{1,2,3,4,5\}$ independently and make a rectangle with those as sides. Find the distribution of the area of the rectangle. Do both cases:
 \begin{enumerate}
 \item With replacement
 \item Without replacement
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
-Let $G = (V,E)$ be a graph (given to you). Choose points of $V$ at random, each with probability 1/2. Let $T$ be the random set so obtained. Call an edge 'crossing edge' if one end is in $T$ and the other in $V-T$. Since $T$ is random, the number $X$ of crossing edges is a random variable. Show that $\E(X) = e/2$ where $e$ is the number of edges, that is, cardinality of E.\\
+\begin{question}{32}
+Let $G = (V,E)$ be a graph (given to you). Choose points of $V$ at random, each with probability 1/2. Let $T$ be the random set so obtained. Call an edge 'crossing edge' if one end is in $T$ and the other in $V-T$. Since $T$ is random, the number $X$ of crossing edges is a random variable. Show that $E(X) = e/2$ where $e$ is the number of edges, that is, cardinality of E.\\
 Deduce that a graph with $n$ vertices and $e$ edges must have a bipartite subgraph with at least $e/2$ edges.\\
 Here a subgraph of $(V,E)$ means $(V^*,E^*)$ where $V^* \subset V; \: E^* \subset E$. A graph $(V,E)$ is bipartite if $V=V_1 \cup V_2$ with 
 \begin{enumerate}
@@ -485,106 +238,74 @@ Here a subgraph of $(V,E)$ means $(V^*,E^*)$ where $V^* \subset V; \: E^* \subse
 \item $V_1 \cap V_2 = \emptyset$ and 
 \item Every edge has one vertex in $V_1$ and other in $V_2$
 \end{enumerate}
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{33}
 Consider a Erdos-Renyi random graph, where each edge is chosen, independent of others, with probability $p$. Say that a pair of vertices (unordered) is good, if either they are joined OR they are joined to a common vertex. Let $X$ be the number of bad (not good) pairs. Since the graph is random, $X$ is a random variable. Show that
 \[
-\E(X) \leq {n \choose 2} {(1 - p^2)}^{n-2} \to 0
+E(X) \leq {n \choose 2} {(1 - p^2)}^{n-2} \to 0
 \]
 Deduce that $P(X \geq 1) \to 0$. Conclude that almost every graph has diameter 2.\\
 Diameter of a graph is the largest possible distance between pairs of vertices and distance between a pair of vertices is the number of edges in the shortest path joining them (if no such path exists between a pair of vertices then the distance between them is $\infty$).
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{34}
 The four students in Msc(App), each toss a fair coin twice. Student $i$ obtains $X_i$, number of heads. I make a $2 \times 2$ matrix with rows $(X_1,X_2)$ and $(X_3,X_4)$. What are the chances that this matrix is non-singular?\\What are the chances that this matrix is symmetric?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{35}
 Consider the set $S = \{0,1,2,\ldots,11\}$ with addition and multiplication modulo 12. I pick a number at random from $S$. What are the chances that it has a multiplicative inverse?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{36}
 To pick a subset of $X=\{1,2,3,4,5\}$ at random I must write down all the 32 subsets of $X$ and pick one of them at random.\\
 Someone told me that I can toss a fair coin \textit{for each} $i (1 \leq i \leq 5)$ and pick $i$ when heads comes up and do not pick $i$ when tails come up. The set so obtained is a random subset.\\ Do you agree?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{37}
 Roll a fair die 10 times. Let $X_1$ be the number of times face one comes up and $X_5$ be the number of times face five comes up. Find the joint distribution of $(X_1,X_5)$; their means and variances and covariances. How does this change if the die was biased?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{38}
 A die is thrown twice (independently). Let $X$ be the first score and $Y$ be the maximum of the two scores. Find their joint distribution, means and variances and covariances.\\
 Draw actually the bivariate table and develop appreciation. Ask yourself if $X$ were the second score, how would the table have looked. If $Y$ were min, how would the table have looked. If $X$ were min and $Y$ were max, how would the table have looked?
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{39}
 (Labour intensive) In five tosses of a fair coin, let $X$ = number of heads, $Y$ = number of head runs, $Z$ = length of the largest head run.\\
 Find the joint distribution of $(X,Y)$, their means, variances, and covariance. Do the same for $(X,Z)$ and $(Y,Z)$
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{40}
 (Practice in calculating probabilities) Let $X,Y,Z$ be independent geometric $G(p)$ variables. Find $P(X=Y);\;P(X \geq 2Y);\;P(X+Y \leq Z)$. \\ Suppose $U = max\{X,Y\}$ and $V=X-Y$. Show that $U$ and $V$ are independent.
-\end{homeworkProblem}
+\end{question}
 
-
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{41}
 Let $X_1,X_2$ be a sample of size 2 with replacement from $\{1,2,\ldots,100\}$. Let $U = max\{X_1,X_2\}$. Find the distribution of $U$ and its mean. Do the same for $min\{X_1,X_2\}$.\\What if it were sample of size three,four?
-\end{homeworkProblem}
+\end{question}
 
-
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{42}
 I have 100 people. I sample with replacement till I obtain seven different persons and then stop. Let $N$ be the size of the sample. Observe that $N$ is a random variable. Find $E(N)$
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{43}
 I have 100 persons from each of the 15 different states (total 1500). I take a sample of size 100 with replacement and $N$ is the number of states not represented in the sample. Find $E(N)$
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{44}
 What is the most probable value of a Poisson($\lambda$) variable
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{45}
 (Should remind you of a similar thing about events) Suppose $X_1,\ldots,X_{10}$ are independent random variables. Let $Y_1=X_1+X_2;\; Y_2=exp\{X_7\};\; Y_3 = \sin(X_3/\{1 + X_4^2\});\; Y_4 = \cos(X_6-X_5)$\\ Show that $Y_1,Y_2,Y_3,Y_4$ are independent.
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{46}
 (Wanted: Ability to think clearly and calculate) In a sequence of Bernoulli trials, let $X$ be the length of the run started by the first trial. Find the distribution of $X$, its mean, variance.\\
 Let $Y$ be the length of the second run. Find the joint distribution of $(X,Y)$. Find the mean and variance of $Y$
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{47}
 (Appears abstract non-sense, but simple, leads to probabilistic feeling) Let $X_1,X_2,\ldots,X_100$ be independent strictly positive random variables have a common distribution. Let $E(X_1) = a$ 	and $E(1/X_1) = b$ be finite.\\
 Let $S_n = X_1 + X_2 + \ldots + X_n$. Show that $E(1/S_n)$ is finite.\\
 Show that
@@ -594,16 +315,16 @@ E(\frac{X_k}{S_n}) = \frac{1}{n}\;\; k = 1,2,\ldots,n.
 \[
 E(\frac{S_m}{S_n} = \frac{m}{n}\; (m \leq n);\; = 1 + (m-n)aE\frac{1}{S_n}\; (m \geq n)
 \]
-\end{homeworkProblem}
+\end{question}
 
-\pagebreak
-
-\begin{homeworkProblem}
+\begin{question}{48}
 (Useful in statistics) Let $X_1,\ldots,X_n$ be independent random variables having common distribution with mean $\mu$ and variance $\sigma^2$. Show
 \[
 E(\frac{1}{n-1}\sum_1^n{(X_i - \bar{X})^2} = \sigma^2;\; where\; \bar{X} = \frac{X_1 + X_2 + \ldots + X_n}{n}
 \]
-\end{homeworkProblem}
-
-
+\end{question}
+% --------------------------------------------------------------
+%     You don't have to mess with anything below this line.
+% --------------------------------------------------------------
+ 
 \end{document}

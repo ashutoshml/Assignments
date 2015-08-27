@@ -1,0 +1,74 @@
+% --------------------------------------------------------------
+% This is all preamble stuff that you don't have to worry about.
+% Head down to where it says "Start here"
+% --------------------------------------------------------------
+ 
+\documentclass[12pt]{article}
+
+\usepackage[margin=0.7in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{tikz}
+\usepackage{multirow}
+\usepackage{verbatim}
+ 
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+ 
+\newenvironment{question}[2][Question]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\renewcommand*{\proofname}{Solution}
+ 
+\begin{document}
+ 
+% --------------------------------------------------------------
+%                         Start here
+% --------------------------------------------------------------
+ 
+\title{Optimization Assignment 1}%replace X with the appropriate number
+\author{Ashutosh Kumar\\ %replace with your name
+MCS201402} %if necessary, replace with your course title
+ 
+\maketitle
+ 
+\begin{question}{1} %You can use theorem, exercise, problem, or question here.  Modify x.yz to be whatever number you are proving
+Minimize : $(x_1 - 3x_2)$. Subject to:
+\begin{equation}\label{q1:e1}
+-x_1 + 2x_2 \leq 6
+\end{equation} 
+\begin{equation}\label{q1:e2}
+x_1 + x_2 \leq 5 
+\end{equation}
+\begin{equation}\label{q1:e3}
+x_1,x_2 \geq 0
+\end{equation}
+Also, write down the dual problem and get an optimal solution
+\end{question}
+ 
+\begin{question}{2}
+Let 
+\(
+S = \{(x_1,x_2,x_3) \mid x_1 - 2x_2 \leq 3;\; 2x_2 + 3x_3 \geq 4\}
+\)
+\begin{enumerate}
+\item Is it a convex set? 
+\item Does it have a direction vector $d$?
+\item Find an extreme point of $S$?
+\end{enumerate}
+\end{question}
+ 
+\begin{question}{3}
+Let \(
+ A = \begin{bmatrix}
+ -1 & 2 & 0 & 1 \\
+ 1 & 1 & 1 & 0
+ \end{bmatrix}
+ \).
+ \\ Let S = \( \{(x_1,x_2,x_3) \mid -x_1 + 2x_2 +x_3 = 6;\; x_1+x_2 +x_4=5;\; x_1,x_2,x_3,x_4 \geq 0\} \)\\ \\
+Write down all extreme solutions of $S$
+\end{question}
+ 
+% --------------------------------------------------------------
+%     You don't have to mess with anything below this line.
+% --------------------------------------------------------------
+ 
+\end{document}
