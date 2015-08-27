@@ -2,7 +2,7 @@
 
 This repository contains all the assignments given to us in the courses that I am taking in the third semester at CMI.
 
-For now it holds the following assignemnts:
+For now it holds the following assignments:
 * Probability and Statistics
 * Optimization
 
