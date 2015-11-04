@@ -1,0 +1,60 @@
+NON-TRIVIAL Problems:
+ARRAYS:
+1) You are given a read only array of n integers from 1 to n.
+Each integer appears exactly once except A which appears twice and B which is missing.
+Return A and B.
+Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+Note that in your output A should precede B.
+
+Idea: Calculate diff of sum and squares of sum. Perform index wise difference to prevent overflows.
+Solve Simulataneous equations.
+
+2)Given a list of non negative integers, arrange them such that they form the largest number.
+For example:
+Given [3, 30, 34, 5, 9], the largest formed number is 9534330.
+
+Idea: Compare string. Lexical ordering. User defined sort.
+
+3)A hotel manager has to process N advance bookings of rooms for the next season. His hotel has K rooms. Bookings contain an arrival date and a departure date. He wants to find out whether there are enough rooms in the hotel to satisfy the demand. Write a program that solves this problem in time O(N log N) .
+
+Idea: Sort each array and check for exit and entry of each. The maximum should not exceed K.
+
+4)Given an unsorted integer array, find the first missing positive integer.
+
+Idea: Rearrange to first put the non positive elements on one side and the positive on the other. Then use numbers as indexes and reverse sign of index. Check which is still positive and display.
+
+5) Rearrange a given array so that Arr[i] becomes Arr[Arr[i]] with O(1) extra space.
+Input : [1, 0]
+Return : [0, 1]
+
+Idea: Remember old values and also keep new.
+
+And then for every element, do Arr[i] = B[B[i]]
+Lets restate what we just said for extra space :
+If we could somehow store 2 numbers in every index ( that is, Arr[i] can contani the old value, and the new value somehow ), then the problem becomes very easy. 
+NewValue of Arr[i] = OldValue of Arr[OldValue of Arr[i]]
+
+Now, we will do a slight trick to encode 2 numbers in one index. 
+This trick assumes that N * N does not overflow.
+1) Increase every Array element Arr[i] by (Arr[Arr[i]] % n)*n.
+2) Divide every element by N.
+Given a number as 
+ A = B + C * N if ( B, C < N ) A % N = B A / N = C <----REMEMBER THIS!!
+
+BINARY SEARCH:
+6) (HIGHLY SEXY APPLICATION of BSEARCH) N number of books are given. 
+The ith book has Pi number of pages. 
+You have to allocate books to M number of students so that maximum number of pages alloted to a student is minimum. A book will be allocated to exactly one student. Each student has to be allocated atleast one book.
+P : [12, 34, 67, 90]
+M : 2
+Output : 113
+There are 2 number of students. Books can be distributed in following fashion : 
+  1) [12] and [34, 67, 90]
+      Max number of pages is allocated to student 2 with 34 + 67 + 90 = 191 pages
+  2) [12, 34] and [67, 90]
+      Max number of pages is allocated to student 2 with 67 + 90 = 157 pages 
+  3) [12, 34, 67] and [90]
+      Max number of pages is allocated to student 1 with 12 + 34 + 67 = 113 pages
+Of the 3 cases, Option 3 has the minimum pages = 113. 
+
+Idea: Can you find how many number of students we need if we fix that one student can read atmost V number of pages ?
