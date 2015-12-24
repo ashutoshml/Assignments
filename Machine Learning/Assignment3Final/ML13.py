@@ -160,7 +160,7 @@ def main():
         lines.append(np.asarray(pts));
     projMat, projectionpts = plotProj(pointsG,lines,n,10,d,1); # Gaussian points
     meant = np.dot(projMat, np.zeros(d));
-    covt = np.dot(projMat,np.eye(d));
+    covt = np.dot(np.dot(projMat,np.eye(d)),projMat);
     mean,cov = meanVar(projectionpts,10);
 
     print("Open file Solution1.txt for solution");
@@ -194,6 +194,7 @@ def main():
          target.write("covariance matrix for " + str(i+1));
          target.write("\n");
          target.write(str(cov[i]));
+         target.write("\n");
          target.write("distance from the theoretical value:");
          target.write(str(np.linalg.norm(cov[i]-covt)));
          target.write("\n");
@@ -230,6 +231,7 @@ def main():
          target.write("covariance matrix for " + str(i+1));
          target.write("\n");
          target.write(str(cov[i]));
+         target.write("\n");
          target.write("distance from the theoretical value:");
          target.write(str(np.linalg.norm(cov[i]-covt)));
          target.write("\n");
