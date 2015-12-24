@@ -142,13 +142,13 @@ def main():
     xaxis = [0.15];
     print("For dimension = 50 and for surface points, we observe that the no of points inside the band(Bandwidth = 0.15-Theoretical):");
     pointinband = pointCalculator(points,n,d,northPole,1,xaxis,1,0.15);
-    print(pointinband[0]);
+    print(pointinband[0][1]);
     print("See that most of the points are in the band");
     print"";
     
     print("For dimension = 50 and for internal points, we observe that the points inside the band(Bandwidth = 0.15-Theoretical):");
     pointinband = pointCalculator(pointsInternal,n,d,northPole,1,xaxis,1,0.15);
-    print(pointinband[0]);
+    print(pointinband[0][1]);
     print("See that most of the points are in the band");
     print"";
 
