@@ -86,6 +86,11 @@ def main():
     print "Initial Text:";
     print(inputCipher);
 
+    '''
+    Initially calculated frequency of each characters,
+    to match it with the statistical frequency of characters that appear in most
+    English words.
+    '''
     frequent = frequencyCalculator(inputCipher);
     print "Frequencies of various characters in the cipher is :";
     print frequent;
@@ -93,18 +98,39 @@ def main():
     sorted_freq = sortFreqOnValue(frequent);
     statFrequencyofCharacters = readFromFileAsList(filenameFreq);
 
+    '''
+    Sorted the character data based on frequency values and initialized it based on
+    frequency of characters in english words(statistical data).
+    '''
     print "\nInitial Substitution based on popularity of characters in a text:";
     initialSub = initialReplace(statFrequencyofCharacters,sorted_freq);
     print initialSub;
 
+    '''
+    After analyzing various words (assuming the letter E took the correct position)
+    replaced each letter with a letter which made a sensible english letter (trial and error).
+    Calculating a digram or trigram seemed like an overkill for this question.
+    '''
     analyzedSub = analyzedReplace(filenameReplace);
     print "\nFinal Substitution:";
     print analyzedSub;
 
+    '''
+    Used the above substitution rule to replace each cipher character by the analyzed character
+    '''
     decipher = decipheredText(analyzedSub, inputCipher);
 
     print "\nDeciphered Text:";
     print decipher;
+
+    '''
+    For text without spaces, the general idea would be to first calculate frequency, digram and trigram
+    and analyze the cipher text after initial substitution. For certain words which when joined together
+    form a new word itself, the word will/will not be separated based on the context.
+    For eg., the deciphered word might look like "alphabeta" which may either mean "alpha beta" or "alphabet a"
+    In science context, we may assume that it to be alpha beta.
+    In case of normal english plaintext, we may assume it to be alphabet a.
+    '''
 
 if __name__ == "__main__":
     main();

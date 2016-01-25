@@ -79,7 +79,7 @@ def decipheredText(replace, inputString):
     return decipher;
 
 def ngram(inputString,n):
-    digramFrequency = {}
+    ngramFrequency = {}
     inputString = inputString.replace("-\n","");
     inputString = inputString.replace("\n"," ");
     for i in range(0,len(inputString)-n+1):
@@ -93,12 +93,12 @@ def ngram(inputString,n):
                 break;
 
         if (flag == 0):
-            if(stringKey in digramFrequency):
-                digramFrequency[stringKey] = digramFrequency[stringKey] + 1;
+            if(stringKey in ngramFrequency):
+                ngramFrequency[stringKey] = ngramFrequency[stringKey] + 1;
             else:
-                digramFrequency[stringKey] = 1;
+                ngramFrequency[stringKey] = 1;
 
-    return digramFrequency;
+    return ngramFrequency;
 
 def Caesar(filename):
     cipher = open(filename,"r+");
@@ -138,19 +138,34 @@ def main():
     inputCipher = readFromFileAsString(filenameCipher);
     statisticalFrequencyOfCharacters = readFromFileAsList(filenameFreq);
 
+    '''
+    Read initial cipher text
+    '''
     print "Initial Text:";
     print(inputCipher);
 
+
+    '''
+    Initially calculated frequency of each characters,
+    to match it with the statistical frequency of characters that appear in most
+    English words.
+    '''
     frequent = frequencyCalculator(inputCipher);
     print "Frequencies of various characters in the cipher is :";
     print frequent;
 
+    '''
+    Digram
+    '''
     print("\nFrequencies of two successive characters is:");
     digramFreq = ngram(inputCipher,2);
     print sortFreqOnValue(digramFreq);
     print("\nOpen file diGramQuestion1.txt to see frequency of two successive characters in a better format.");
     printToFile("diGramQuestion1.txt",sortFreqOnValue(digramFreq));
 
+    '''
+    Trigram
+    '''
     print("\nFrequencies of three successive characters is:");
     trigramFreq = ngram(inputCipher,3);
     print sortFreqOnValue(trigramFreq);
@@ -160,14 +175,26 @@ def main():
     sorted_freq = sortFreqOnValue(frequent);
     statFrequencyofCharacters = readFromFileAsList(filenameFreq);
 
+    '''
+    Sorted the character data based on frequency values and initialized it based on
+    frequency of characters in english words(statistical data).
+    '''
     print "\nInitial Substitution based on popularity of characters in a text:";
     initialSub = initialReplace(statFrequencyofCharacters,sorted_freq);
     print initialSub;
 
+    '''
+    After analyzing various words (assuming the letter E took the correct position)
+    replaced each letter with a letter which made a sensible english letter (trial and error).
+    After some iterations, it became clear that it is a Caesar cipher
+    '''
     analyzedSub = analyzedReplace(filenameReplace);
     print "\nFinal Substitution:";
     print analyzedSub;
 
+    '''
+    Used the above substitution rule to replace each cipher character by the analyzed character
+    '''
     decipher = decipheredText(analyzedSub, inputCipher);
 
     print "\nDeciphered Text:";
