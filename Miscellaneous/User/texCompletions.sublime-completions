@@ -1,0 +1,12 @@
+{
+   "scope": "text.tex.latex",
+   "completions":
+   [
+      { "trigger": "tex", "contents": "\\documentclass{${1:article}}\n\\usepackage{amsmath}\n\\begin{document}\n$2\n\\end{document}"},
+      { "trigger": "bmatrix", "contents": "\\[\nM = \n\t\\begin{bmatrix}\n\t\t$1 & $2 & $3\\\\ \n\t\t$4 & $5 & $6\\\\ \n\t\t$7 & $8 & $9\n\t\\end{bmatrix}\n\\]"},
+      { "trigger": "it", "contents": "\\textit{$1}"},
+      { "trigger": "bold", "contents": "\\textbf{$1}"},
+      { "trigger": "emph", "contents": "\\textsc{$1}"}
+   ]
+}
+

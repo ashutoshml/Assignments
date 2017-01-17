@@ -1,0 +1,9 @@
+{
+   "scope": "source.java",
+   "completions":
+   [
+      { "trigger": "java", "contents":"import java.io.*;\n\nclass ${1:Test}{\n\tpublic static void main(String args[]) throws IOException{\n\t\tBufferedReader br = new BufferedReader(newInputStreamReader(System.in)); \n$2\n\t}\n}"},
+      { "trigger": "posfor", "contents": "for(${1:int} ${2:i} = ${3:0};${2:i} <= ${4:100}; ++${2:i}){\n\t${5:contents}\n}"},
+      { "trigger": "negfor", "contents": "for(${1:int} ${2:i} = ${3:100};${2:i} >= ${4:0}; --${2:i}){\n\t${5:contents}\n}"}
+   ]
+}

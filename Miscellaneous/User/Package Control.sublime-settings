@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Jedi - Python autocompletion",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"Package Control",
+		"Python Breakpoints",
+		"Terminal"
+	]
+}
