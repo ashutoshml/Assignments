@@ -2,7 +2,7 @@
    "scope": "source.python",
    "completions":
    [
-      { "trigger": "pyth", "contents":"import numpy as np\nimport os\nimport glob\nimport sys\nimport theano\n\ndef main():\n\t${1:main}\n\nif __name__==\"__main__\":\n\tmain()"},
+      { "trigger": "pyth", "contents":"from __future__ import print_function\n\nimport numpy as np\nimport os\nfrom theano.sandbox.rng_mrg import MRG_RandomStreams as RandomStreams\nfrom logistic_sgd import load_data\nfrom utils import tile_raster_images\nimport timeit\nimport theano.tensor as T\nimport glob\nimport sys\nimport theano\n\ntry:\n\timport PIL.Image as Image \nexcept ImportError:\n\timport Image\n\ndef main():\n\t${1:main}\n\nif __name__==\"__main__\":\n\tmain()"},
       { "trigger": "forloop", "contents": "for ${1:i} in range(${2:5}):\n\t${3:content}"}
    ]
 }
