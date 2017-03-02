@@ -1,4 +1,5 @@
 import re
+import time
 
 
 def readTrainTxt(filename):
@@ -42,7 +43,7 @@ def removeFancyCharacters(positive, negative):
     return positive, negative
 
 
-def dictionaryDef(wordList, length, phrases):
+def listDef(wordList, length, phrases):
     for i in range(length):
         statement = phrases[i]
         words = statement.split()
@@ -55,8 +56,8 @@ def captureWordList(positive, negative):
     lengthPos = len(positive)
     lengthNeg = len(negative)
     wordList = []
-    wordList = dictionaryDef(wordList, lengthPos, positive)
-    wordList = dictionaryDef(wordList, lengthNeg, negative)
+    wordList = listDef(wordList, lengthPos, positive)
+    wordList = listDef(wordList, lengthNeg, negative)
     return wordList
 
 
@@ -128,6 +129,7 @@ def test(fileTest, ccd0, ccd1):
 
 
 def main():
+    t = time.time()
     fileTrain = "ass1-train_data.txt"
     fileTest = "ass1-test_data-2.txt"
     ccd0, ccd1 = train(fileTrain)
@@ -135,6 +137,7 @@ def main():
     predictLabelsTest, accuracyTest = test(fileTest, ccd0, ccd1)
     print "Prediction Accuracy on train set: " + str(accuracyTrain)
     print "Prediction Accuracy on test set: " + str(accuracyTest)
+    print "Total time taken: " + str(time.time() - t)
 
 
 if __name__ == '__main__':
