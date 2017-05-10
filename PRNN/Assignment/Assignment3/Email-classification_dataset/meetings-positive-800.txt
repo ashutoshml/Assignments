@@ -1,0 +1,2687 @@
+Let''s talk tomorrow or sometime
+tomorrow=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">tomorrow</TIMEX3>
+
+Tomorrow Noon works for me as well.
+Tomorrow Noon=<TIMEX3 range="(2013-11-18T12:00:00.000,2013-11-18T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-18T12:00">Tomorrow Noon</TIMEX3>
+
+See you all tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">tomorrow</TIMEX3>
+
+Warmly welcome and see you again next week.
+next week=<TIMEX3 range="(2013-11-18,2013-11-24,P1W)" tid="t1" type="DATE" value="2013-W47">next week</TIMEX3>
+
+Lets meet up tomorrow morning as usual at xxx, determine if anything else hinders us from starting operations by Dec 1st.
+tomorrow morning=<TIMEX3 range="(2013-11-18T06:00:00.000,2013-11-18T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-18TMO">tomorrow morning</TIMEX3>
+Dec 1st=<TIMEX3 range="(2013-12-01,2013-12-01,P1D)" tid="t2" type="DATE" value="2013-12-01">Dec 1st</TIMEX3>
+
+Lets catch up sometime tomorrow?
+tomorrow=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">tomorrow</TIMEX3>
+
+do send me the deck and we could speak tomorrow say at yy?
+tomorrow=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">tomorrow</TIMEX3>
+
+Else I shall meet you tomorrow in office.
+tomorrow=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">tomorrow</TIMEX3>
+
+Let me know if we can chat next week sometime
+next week=<TIMEX3 range="(2013-11-18,2013-11-24,P1W)" tid="t1" type="DATE" value="2013-W47">next week</TIMEX3>
+
+Will call this week
+this week=<TIMEX3 range="(2013-11-11,2013-11-17,P1W)" tid="t1" type="DATE" value="2013-W46">this week</TIMEX3>
+
+Just confirming the call at 5pm today.
+5pm today=<TIMEX3 range="(2013-11-18T17:00:00.000,2013-11-18T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-18T17">5pm today</TIMEX3>
+
+Can we catch up today on skype to discuss and close these issues.
+today=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">today</TIMEX3>
+
+Do you think we can meet today ?
+today=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">today</TIMEX3>
+
+Would you be free tomorrow at 7:30 on xxxxx?
+tomorrow at 7:30=<TIMEX3 range="(2013-11-19T07:30:00.000,2013-11-19T07:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-19T07:30">tomorrow at 7:30</TIMEX3>
+
+11PM works!!
+
+I regret to say that the meet up scheduled tomorrow, has to be rescheduled.
+tomorrow=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">tomorrow</TIMEX3>
+
+Thanks See you tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">tomorrow</TIMEX3>
+
+Can you please reschedule xxxxxx for an earlier time, anytime during the week is fine?
+the week=<TIMEX3 range="(2013-11-18,2013-11-24,P1W)" tid="t1" type="DATE" value="2013-W47">the week</TIMEX3>
+
+We will catch up tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">tomorrow</TIMEX3>
+
+Confirmed for 3-5pm Tuesday.
+5pm Tuesday=<TIMEX3 range="(2013-11-19-WXX-2T17:00:00.000,2013-11-19-WXX-2T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-19T17">5pm Tuesday</TIMEX3>
+
+call me tomorrow yyyyyyyyyyyyy
+tomorrow=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">tomorrow</TIMEX3>
+
+We will have to do Tuesday or Wednesday, I am flying out of town for the xxxxxxxxxxxx holiday Thursday.
+Tuesday=<TIMEX3 range="(2013-11-12-WXX-2,2013-11-12-WXX-2,P1D)" tid="t1" type="DATE" value="2013-11-12">Tuesday</TIMEX3>
+Wednesday=<TIMEX3 range="(2013-11-20-WXX-3,2013-11-20-WXX-3,P1D)" tid="t2" type="DATE" value="2013-11-20">Wednesday</TIMEX3>
+Thursday=<TIMEX3 range="(2013-11-21-WXX-4,2013-11-21-WXX-4,P1D)" tid="t3" type="DATE" value="2013-11-21">Thursday</TIMEX3>
+
+How about meeting at Single Barrel tomorrow evening?
+tomorrow evening=<TIMEX3 range="(2013-11-19T18:00:00.000,2013-11-19T20,PT2H)" tid="t1" type="TIME" value="2013-11-19TEV">tomorrow evening</TIMEX3>
+
+We can SMS tomorrow after y and discuss in real time when to meet!!
+tomorrow=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">tomorrow</TIMEX3>
+
+xxxxxxx is set for Thursday at 5 pm at xx brewery outside apple campus.
+Thursday at 5 pm=<TIMEX3 range="(2013-11-21-WXX-4T17:00:00.000,2013-11-21-WXX-4T17:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-21T17:00">Thursday at 5 pm</TIMEX3>
+
+I will call you tomorrow to sync up.
+tomorrow=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">tomorrow</TIMEX3>
+
+Let''s catch up today to discus
+today=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">today</TIMEX3>
+
+Can we meet up sometime today ?
+today=<TIMEX3 range="(2013-11-18,2013-11-18,P1D)" tid="t1" type="DATE" value="2013-11-18">today</TIMEX3>
+
+OK, let���s talk about it tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">tomorrow</TIMEX3>
+
+Are you available tomorrow around 1130am?
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+1130am=<TIMEX3 range="(2013-11-19T11:30:00.000,2013-11-19T11:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-19T11:30">1130am</TIMEX3>
+
+Does next wed. 27th xxxx 2 -5 pm work?
+27th Nov. 2 -5 pm=<TIMEX3 range="(2013-11-27T07:00:00.000,2013-11-27T07:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-27T07:00">27th Nov. 2 -5 pm</TIMEX3>
+
+Let us do it on Thursday.
+Thursday=<TIMEX3 range="(2013-11-21-WXX-4,2013-11-21-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-21">Thursday</TIMEX3>
+
+Ankit - Let''s work on it tomorrow
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+
+Would it be possible to chat with the founder sometime next week about your business?
+next week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t1" type="DATE" value="2013-W48">next week</TIMEX3>
+
+Will it be possible to meet you sometime this week to discuss the same?
+this week=<TIMEX3 range="(2013-11-18,2013-11-24,P1W)" tid="t1" type="DATE" value="2013-W47">this week</TIMEX3>
+
+Please let me know your availability for skype call tomorrow, we will block the calender accordingly.
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+
+27th November seems fine.
+27th November=<TIMEX3 range="(2013-11-27,2013-11-27,P1D)" tid="t1" type="DATE" value="2013-11-27">27th November</TIMEX3>
+
+We can catch up over skype tomorrow instead.
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+
+Would you like to touch base on things sometime this weekend?
+this weekend=<TIMEX3 range="(2013-11-23,2013-11-24,P2D)" tid="t1" type="DATE" value="2013-W47-WE">this weekend</TIMEX3>
+
+If you want we can have brief discussion Wednesday xxxxx xxxxx time.
+Wednesday Night=<TIMEX3 range="(2013-11-20-WXX-3T19:00:00.000,2013-11-20-WXX-3T05,PT-14H)" tid="t1" type="TIME" value="2013-11-20TNI">Wednesday Night</TIMEX3>
+
+xxxxxx, Let''s discuss tomorrow
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+
+Confirmed for tomorrow (Wed yyyyy) at noon at this office:
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+Wed=<TIMEX3 range="(2013-11-20-WXX-3,2013-11-20-WXX-3,P1D)" tid="t2" type="DATE" value="2013-11-20">Wed</TIMEX3>
+noon=<TIMEX3 range="(2013-11-19T12:00:00.000,2013-11-19T12:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-11-19T12:00">noon</TIMEX3>
+
+Confirmed for Monday yyyyy - let''s make it 3:15pm
+Monday=<TIMEX3 range="(2013-11-18-WXX-1,2013-11-18-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-18">Monday</TIMEX3>
+3:15pm=<TIMEX3 range="(2013-11-19T15:15:00.000,2013-11-19T15:15:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-19T15:15">3:15pm</TIMEX3>
+
+xxxxx and xxxxxxxx will see you tomorrow (Wednesday) at 10:30am here:
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+Wednesday=<TIMEX3 range="(2013-11-20-WXX-3,2013-11-20-WXX-3,P1D)" tid="t2" type="DATE" value="2013-11-20">Wednesday</TIMEX3>
+10:30am=<TIMEX3 range="(2013-11-19T10:30:00.000,2013-11-19T10:30:59.999,PT1M)" tid="t3" type="TIME" value="2013-11-19T10:30">10:30am</TIMEX3>
+
+Sure �� but are we talking about this week or next week?
+about this week=<TIMEX3 range="(2013-11-18,2013-11-24,P1W)" tid="t1" type="DATE" value="2013-W47">about this week</TIMEX3>
+next week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t2" type="DATE" value="2013-W48">next week</TIMEX3>
+
+Could I call you sometime next week and I am traveling till Friday night?
+next week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t1" type="DATE" value="2013-W48">next week</TIMEX3>
+Friday night=<TIMEX3 range="(2013-11-22-WXX-5T19:00:00.000,2013-11-22-WXX-5T05,PT-14H)" tid="t2" type="TIME" value="2013-11-22TNI">Friday night</TIMEX3>
+
+I will be up in that area tomorrow and could meet around 10am if that works for you.
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+10am=<TIMEX3 range="(2013-11-19T10:00:00.000,2013-11-19T10:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-19T10">10am</TIMEX3>
+
+Hi xxxxxxxx, Does Thursday, Nov 21 OR Friday Nov 22 at 10:00am or 11:00 am work for you?
+Thursday, Nov 21=<TIMEX3 range="(2013-11-21-WXX-4,2013-11-21-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-21">Thursday, Nov 21</TIMEX3>
+Friday Nov 22 at 10:00am=<TIMEX3 range="(2013-11-22-WXX-5T10:00:00.000,2013-11-22-WXX-5T10:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-22T10:00">Friday Nov 22 at 10:00am</TIMEX3>
+11:00 am=<TIMEX3 range="(2013-11-19T11:00:00.000,2013-11-19T11:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-11-19T11:00">11:00 am</TIMEX3>
+
+Thursday works for me.
+Thursday=<TIMEX3 range="(2013-11-21-WXX-4,2013-11-21-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-21">Thursday</TIMEX3>
+
+Friday 11 am works well for us.
+Friday 11 am=<TIMEX3 range="(2013-11-22-WXX-5T11:00:00.000,2013-11-22-WXX-5T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-22T11:00">Friday 11 am</TIMEX3>
+
+We are available today and tomorrow as well.
+today=<TIMEX3 range="(2013-11-19,2013-11-19,P1D)" tid="t1" type="DATE" value="2013-11-19">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t2" type="DATE" value="2013-11-20">tomorrow</TIMEX3>
+
+Let���s try to reschedule it for next week.
+next week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t1" type="DATE" value="2013-W48">next week</TIMEX3>
+
+Maybe we could connect sometime in December as per your convenience?
+December=<TIMEX3 range="(2013-12-01,2013-12-31,P1M)" tid="t1" type="DATE" value="2013-12">December</TIMEX3>
+
+xxxxx we meet at 5pm tomorrow at the xxxx office (opposite xxxxxxx xxxxxxxxxx
+5pm tomorrow=<TIMEX3 range="(2013-11-21T17:00:00.000,2013-11-21T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-21T17">5pm tomorrow</TIMEX3>
+
+Tomorrow 5pm should be fine.
+Tomorrow 5pm=<TIMEX3 range="(2013-11-21T17:00:00.000,2013-11-21T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-21T17">Tomorrow 5pm</TIMEX3>
+
+We can meet up tomorrow evening for dinner.
+tomorrow evening=<TIMEX3 range="(2013-11-21T18:00:00.000,2013-11-21T20,PT2H)" tid="t1" type="TIME" value="2013-11-21TEV">tomorrow evening</TIMEX3>
+
+Meeting with xxxxxx 3pm tomorrow *When* Thu, November 21, 3pm ��� 4pm xxx+05:30 *Where* at xxxxx xWho* ��� default ��� xxxxxx xxxxxxxxx
+3pm tomorrow=<TIMEX3 range="(2013-11-21T15:00:00.000,2013-11-21T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-21T15">3pm tomorrow</TIMEX3>
+Thu, November 21, 3pm=<TIMEX3 range="(2013-11-21-WXX-4T15:00:00.000,2013-11-21-WXX-4T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-21T15">Thu, November 21, 3pm</TIMEX3>
+4pm=<TIMEX3 range="(2013-11-20T16:00:00.000,2013-11-20T16:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-11-20T16">4pm</TIMEX3>
+05:30=<TIMEX3 range="(2013-11-20T05:30:00.000,2013-11-20T05:30:59.999,PT1M)" tid="t4" type="TIME" value="2013-11-20T05:30">05:30</TIMEX3>
+
+I''ll call you again this week
+this week=<TIMEX3 range="(2013-11-18,2013-11-24,P1W)" tid="t1" type="DATE" value="2013-W47">this week</TIMEX3>
+
+Hi xxxxx, 27th 11am is fine with me.
+11am=<TIMEX3 range="(2013-11-20T11:00:00.000,2013-11-20T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-20T11">11am</TIMEX3>
+
+I will definitely talk to you both in the weekend.
+the weekend=<TIMEX3 range="(2013-11-23,2013-11-24,P2D)" tid="t1" type="DATE" value="2013-W47-WE">the weekend</TIMEX3>
+
+We''ll meet tomorrow, Thursday, November 21, from 12 to 1 pm in MC-409, which is located in xxxxxxxxx xxxxxxxxxxx
+tomorrow, Thursday, November 21=<TIMEX3 range="(2013-11-21-WXX-4,2013-11-21-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-21">tomorrow, Thursday, November 21</TIMEX3>
+12 to 1 pm=<TIMEX3 range="(2013-11-20T12:48:00.000,2013-11-20T12:48:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-20T12:48">12 to 1 pm</TIMEX3>
+
+Can we chat Monday?
+Monday=<TIMEX3 range="(2013-11-18-WXX-1,2013-11-18-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-18">Monday</TIMEX3>
+
+Will connect today Sridar
+today=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">today</TIMEX3>
+
+I''d love to chat with you sometime to understand how you connect and engage with your users today, and what you would want to be able to do if you can segment users and talk to them
+today=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">today</TIMEX3>
+
+> > Would it be possible for everyone to do December 5th at 5 PM instead of > December 4th at 5 PM?
+December 5th at 5 PM=<TIMEX3 range="(2013-12-05T17:00:00.000,2013-12-05T17:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-05T17:00">December 5th at 5 PM</TIMEX3>
+December 4th at 5 PM=<TIMEX3 range="(2013-12-04T17:00:00.000,2013-12-04T17:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-04T17:00">December 4th at 5 PM</TIMEX3>
+
+See you this weekend!
+this weekend=<TIMEX3 range="(2013-11-23,2013-11-24,P2D)" tid="t1" type="DATE" value="2013-W47-WE">this weekend</TIMEX3>
+
+Will talk to you today.
+today=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">today</TIMEX3>
+
+How about connecting on phone today at 6pm?
+today at 6pm=<TIMEX3 range="(2013-11-20T18:00:00.000,2013-11-20T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-20T18">today at 6pm</TIMEX3>
+
+I would request all of to assemble in the Garage by 11:30 am on Saturday.
+11:30 am on Saturday=<TIMEX3 range="(2013-11-23-WXX-6T11:30:00.000,2013-11-23-WXX-6T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-23T11:30">11:30 am on Saturday</TIMEX3>
+
+SEE YOU ON SATURDAY xxxxxxx xxxx!
+SATURDAY=<TIMEX3 range="(2013-11-23-WXX-6,2013-11-23-WXX-6,P1D)" tid="t1" type="DATE" value="2013-11-23">SATURDAY</TIMEX3>
+
+*I would want all you guys to be part of the call today.
+today=<TIMEX3 range="(2013-11-20,2013-11-20,P1D)" tid="t1" type="DATE" value="2013-11-20">today</TIMEX3>
+
+Yes, lets meet at 2pm.
+2pm.=<TIMEX3 range="(2013-11-21T14:00:00.000,2013-11-21T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-21T14">2pm.</TIMEX3>
+
+Next week Wed about 2-3pm is ok for me.
+Next week Wed about 2-3pm=<TIMEX3 range="(2013-11-27-W48-3T15:00:00.000,2013-11-27-W48-3T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-27T15">Next week Wed about 2-3pm</TIMEX3>
+
+4pm?
+4pm=<TIMEX3 range="(2013-11-21T16:00:00.000,2013-11-21T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-21T16">4pm</TIMEX3>
+
+I have postponed resource meeting to tomorrow (22nd) 3 - 4 p.m. Please let me know if this isOK with everyone.
+tomorrow=<TIMEX3 range="(2013-11-22,2013-11-22,P1D)" tid="t1" type="DATE" value="2013-11-22">tomorrow</TIMEX3>
+4 p.m.=<TIMEX3 range="(2013-11-21T16:00:00.000,2013-11-21T16:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-21T16:00">4 p.m.</TIMEX3>
+
+As discussed, I''m re-scheduling the call to tomorrow 4 p.m
+tomorrow 4 p.m=<TIMEX3 range="(2013-11-22T16:00:00.000,2013-11-22T16:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-22T16:00">tomorrow 4 p.m</TIMEX3>
+
+Sure, I will call you at 6pm tomorrow
+6pm tomorrow=<TIMEX3 range="(2013-11-22T18:00:00.000,2013-11-22T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-22T18">6pm tomorrow</TIMEX3>
+
+Sure, I will call you tomorrow at 5pm
+tomorrow at 5pm=<TIMEX3 range="(2013-11-22T17:00:00.000,2013-11-22T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-22T17">tomorrow at 5pm</TIMEX3>
+
+Can I talk to you about these bills tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-22,2013-11-22,P1D)" tid="t1" type="DATE" value="2013-11-22">tomorrow</TIMEX3>
+
+Can i come in tomorrow or sunday in the first half?
+tomorrow=<TIMEX3 range="(2013-11-22,2013-11-22,P1D)" tid="t1" type="DATE" value="2013-11-22">tomorrow</TIMEX3>
+sunday=<TIMEX3 range="(2013-11-24-WXX-7,2013-11-24-WXX-7,P1D)" tid="t2" type="DATE" value="2013-11-24">sunday</TIMEX3>
+
+Are you free tomorrow afternoon?
+tomorrow afternoon=<TIMEX3 range="(2013-11-22T12:00:00.000,2013-11-22T18,PT6H)" tid="t1" type="TIME" value="2013-11-22TAF">tomorrow afternoon</TIMEX3>
+
+xxxxxx, I will call you today to discuss the same.
+today=<TIMEX3 range="(2013-11-21,2013-11-21,P1D)" tid="t1" type="DATE" value="2013-11-21">today</TIMEX3>
+
+Let me know when we can discuss today.
+today=<TIMEX3 range="(2013-11-22,2013-11-22,P1D)" tid="t1" type="DATE" value="2013-11-22">today</TIMEX3>
+
+xxx call me tomorrow to plan for the above.
+tomorrow=<TIMEX3 range="(2013-11-23,2013-11-23,P1D)" tid="t1" type="DATE" value="2013-11-23">tomorrow</TIMEX3>
+
+Call me at 1pm
+1pm=<TIMEX3 range="(2013-11-22T13:00:00.000,2013-11-22T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-22T13">1pm</TIMEX3>
+
+We will meet you on monday to discuss about the app.
+monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">monday</TIMEX3>
+
+xxxx xxxx is best, only 3pm works for me.
+3pm=<TIMEX3 range="(2013-11-22T15:00:00.000,2013-11-22T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-22T15">3pm</TIMEX3>
+
+xxxx, I''m free noon-4pm ES
+4pm=<TIMEX3 range="(2013-11-22T16:00:00.000,2013-11-22T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-22T16">4pm</TIMEX3>
+
+I can meet you there from 2PM.
+2PM.=<TIMEX3 range="(2013-11-22T14:00:00.000,2013-11-22T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-22T14">2PM.</TIMEX3>
+
+Let get together this Sunday!!
+this Sunday=<TIMEX3 range="(2013-11-24-WXX-7,2013-11-24-WXX-7,P1D)" tid="t1" type="DATE" value="2013-11-24">this Sunday</TIMEX3>
+
+If not, perhaps 5pm will work for you all?
+5pm=<TIMEX3 range="(2013-11-22T17:00:00.000,2013-11-22T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-22T17">5pm</TIMEX3>
+
+I prefer somewhat early in the day (say, 9AM), early lunch (11AM - I need to be back at work at 12:30) or after 5:30PM.
+the day=<TIMEX3 range="(2013-11-22,2013-11-22,P1D)" tid="t1" type="DATE" value="2013-11-22">the day</TIMEX3>
+9AM=<TIMEX3 range="(2013-11-22T09:00:00.000,2013-11-22T09:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-22T09">9AM</TIMEX3>
+11AM=<TIMEX3 range="(2013-11-22T11:00:00.000,2013-11-22T11:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-11-22T11">11AM</TIMEX3>
+12:30=<TIMEX3 range="(2013-11-22T12:30:00.000,2013-11-22T12:30:59.999,PT1M)" tid="t4" type="TIME" value="2013-11-22T12:30">12:30</TIMEX3>
+5:30PM.=<TIMEX3 range="(2013-11-22T17:30:00.000,2013-11-22T17:30:59.999,PT1M)" tid="t5" type="TIME" value="2013-11-22T17:30">5:30PM.</TIMEX3>
+
+Can I call him Sunday between yy xxxx & 1 PM?
+Sunday=<TIMEX3 range="(2013-11-24-WXX-7,2013-11-24-WXX-7,P1D)" tid="t1" type="DATE" value="2013-11-24">Sunday</TIMEX3>
+Noon=<TIMEX3 range="(2013-11-22T12:00:00.000,2013-11-22T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-22T12:00">Noon</TIMEX3>
+1 PM=<TIMEX3 range="(2013-11-22T13:00:00.000,2013-11-22T13:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-11-22T13:00">1 PM</TIMEX3>
+
+Let''s talk over phone when you have time... I''m available most of the day tod
+the day=<TIMEX3 range="(2013-11-22,2013-11-22,P1D)" tid="t1" type="DATE" value="2013-11-22">the day</TIMEX3>
+
+How about Monday or Tuesday?
+about Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">about Monday</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-11-19-WXX-2,2013-11-19-WXX-2,P1D)" tid="t2" type="DATE" value="2013-11-19">Tuesday</TIMEX3>
+
+Oh in that case, we''ll meet today
+today=<TIMEX3 range="(2013-11-22,2013-11-22,P1D)" tid="t1" type="DATE" value="2013-11-22">today</TIMEX3>
+
+If you like, we can do the call anytime on Monday that works for you.
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+
+Call me on Monday xxx free.
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+
+I am around and we can talk tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-24,2013-11-24,P1D)" tid="t1" type="DATE" value="2013-11-24">tomorrow</TIMEX3>
+
+Wednesday is fine xxx.
+Wednesday=<TIMEX3 range="(2013-11-27-WXX-3,2013-11-27-WXX-3,P1D)" tid="t1" type="DATE" value="2013-11-27">Wednesday</TIMEX3>
+
+I wanted to meet tomorrow to start on the process of defining the MVP.
+tomorrow=<TIMEX3 range="(2013-11-25,2013-11-25,P1D)" tid="t1" type="DATE" value="2013-11-25">tomorrow</TIMEX3>
+
+xxx: Our first xxxxxxxxxxxxxx conference will be held this coming Friday, November 29.
+this coming Friday, November 29=<TIMEX3 range="(2013-11-29-WXX-5,2013-11-29-WXX-5,P1D)" tid="t1" type="DATE" value="2013-11-29">this coming Friday, November 29</TIMEX3>
+
+Can we go over the plan for the remaining diligence tomorrow or tuesday?
+tomorrow=<TIMEX3 range="(2013-11-25,2013-11-25,P1D)" tid="t1" type="DATE" value="2013-11-25">tomorrow</TIMEX3>
+tuesday=<TIMEX3 range="(2013-11-19-WXX-2,2013-11-19-WXX-2,P1D)" tid="t2" type="DATE" value="2013-11-19">tuesday</TIMEX3>
+
+Hi xxxx 5pm on Monday or Tuesday or 11am Tuesday would work.
+5pm on Monday=<TIMEX3 range="(2013-11-18-WXX-1T17:00:00.000,2013-11-18-WXX-1T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-18T17">5pm on Monday</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-11-26-WXX-2,2013-11-26-WXX-2,P1D)" tid="t2" type="DATE" value="2013-11-26">Tuesday</TIMEX3>
+11am Tuesday=<TIMEX3 range="(2013-11-19-WXX-2T11:00:00.000,2013-11-19-WXX-2T11:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-11-19T11">11am Tuesday</TIMEX3>
+
+Please confirm if we can make the call with Sakai-san between 1pm and 3 pm JST today.
+1pm=<TIMEX3 range="(2013-11-24T13:00:00.000,2013-11-24T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-24T13">1pm</TIMEX3>
+3 pm=<TIMEX3 range="(2013-11-24T15:00:00.000,2013-11-24T15:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-24T15:00">3 pm</TIMEX3>
+today=<TIMEX3 range="(2013-11-24,2013-11-24,P1D)" tid="t3" type="DATE" value="2013-11-24">today</TIMEX3>
+
+I am open on Monday 10:30 to 11:30 or after 5PM anytime.
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+10:30 to 11:30=<TIMEX3 beginPoint="t2" endPoint="t3" range="(T10:30,T11:30,PT1H)" tid="t4" type="DURATION" value="PT1H">10:30 to 11:30</TIMEX3>
+5PM=<TIMEX3 range="(2013-11-24T17:00:00.000,2013-11-24T17:59:59.999,PT1H)" tid="t5" type="TIME" value="2013-11-24T17">5PM</TIMEX3>
+
+xxxx Tue AM.
+Tue=<TIMEX3 range="(2013-11-26-WXX-2,2013-11-26-WXX-2,P1D)" tid="t1" type="DATE" value="2013-11-26">Tue</TIMEX3>
+
+Tomorrow morning it is then.
+Tomorrow morning=<TIMEX3 range="(2013-11-25T06:00:00.000,2013-11-25T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-25TMO">Tomorrow morning</TIMEX3>
+
+Could we have the meeting on Wednesday (27th Nov before 5pm) or the next Monday (2nd Dec)?
+Wednesday=<TIMEX3 range="(2013-11-27-WXX-3,2013-11-27-WXX-3,P1D)" tid="t1" type="DATE" value="2013-11-27">Wednesday</TIMEX3>
+27th Nov before 5pm=<TIMEX3 range="(2013-11-27T17:00:00.000,2013-11-27T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-27T17">27th Nov before 5pm</TIMEX3>
+the next Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t3" type="DATE" value="2013-11-25">the next Monday</TIMEX3>
+2nd Dec=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t4" type="DATE" value="2013-12-02">2nd Dec</TIMEX3>
+
+Can we meet next week.
+next week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t1" type="DATE" value="2013-W48">next week</TIMEX3>
+
+Would 3pm Wednesday work for our meeting?
+3pm Wednesday=<TIMEX3 range="(2013-11-20-WXX-3T15:00:00.000,2013-11-20-WXX-3T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-20T15">3pm Wednesday</TIMEX3>
+
+Lets make it x 4PM �� Done.
+4PM=<TIMEX3 range="(2013-11-24T16:00:00.000,2013-11-24T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-24T16">4PM</TIMEX3>
+
+We can meet post Dec 1st for sure.
+Dec 1st=<TIMEX3 range="(2013-12-01,2013-12-01,P1D)" tid="t1" type="DATE" value="2013-12-01">Dec 1st</TIMEX3>
+
+see you this Friday xxxx xxxxxx
+this Friday=<TIMEX3 range="(2013-11-29-WXX-5,2013-11-29-WXX-5,P1D)" tid="t1" type="DATE" value="2013-11-29">this Friday</TIMEX3>
+
+Can we speak Wed morning at 9am?
+Wed morning=<TIMEX3 range="(2013-11-27-WXX-3T06:00:00.000,2013-11-27-WXX-3T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-27TMO">Wed morning</TIMEX3>
+9am=<TIMEX3 range="(2013-11-25T09:00:00.000,2013-11-25T09:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-25T09">9am</TIMEX3>
+
+Could we reconnect next week and plan to meet?
+next week=<TIMEX3 range="(2013-12-02,2013-12-08,P1W)" tid="t1" type="DATE" value="2013-W49">next week</TIMEX3>
+
+Then we will meet on thursday.
+thursday=<TIMEX3 range="(2013-11-28-WXX-4,2013-11-28-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-28">thursday</TIMEX3>
+
+Let us talk later today or tomorrow as suggested; I really look forward to closing on the specifics.
+later today=<TIMEX3 range="(2013-11-25,2013-11-25,P1D)" tid="t1" type="DATE" value="2013-11-25">later today</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-11-26,2013-11-26,P1D)" tid="t2" type="DATE" value="2013-11-26">tomorrow</TIMEX3>
+
+xxx, rescheduling your 1pm today for next week.
+1pm today=<TIMEX3 range="(2013-11-25T13:00:00.000,2013-11-25T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-25T13">1pm today</TIMEX3>
+next week=<TIMEX3 range="(2013-12-02,2013-12-08,P1W)" tid="t2" type="DATE" value="2013-W49">next week</TIMEX3>
+
+Anytime after 2pm is currently open that day.
+2pm=<TIMEX3 range="(2013-11-25T14:00:00.000,2013-11-25T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-25T14">2pm</TIMEX3>
+currently=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t2" type="DATE" value="PRESENT_REF">currently</TIMEX3>
+day=<TIMEX3 range="(,,P1D)" tid="t3" type="DURATION" value="P1D">day</TIMEX3>
+
+Could we confirm yyyy at 3pm over coffee in xxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxx (somewhere near yyy)?
+3pm=<TIMEX3 range="(2013-11-25T15:00:00.000,2013-11-25T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-25T15">3pm</TIMEX3>
+
+Confirmed for Monday yyyy at 5pm at xxxx''s xxxxxx
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+5pm=<TIMEX3 range="(2013-11-25T17:00:00.000,2013-11-25T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-25T17">5pm</TIMEX3>
+
+Or tomorrow morning at 8:30am?
+tomorrow morning at 8:30am=<TIMEX3 range="(2013-11-26T08:30:00.000,2013-11-26T08:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-26T08:30">tomorrow morning at 8:30am</TIMEX3>
+
+xxxxxxx, confirmed for Monday yyyy at 2:30pm PT / 5:30pm xx.
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+2:30pm=<TIMEX3 range="(2013-11-25T14:30:00.000,2013-11-25T14:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-25T14:30">2:30pm</TIMEX3>
+5:30pm=<TIMEX3 range="(2013-11-25T17:30:00.000,2013-11-25T17:30:59.999,PT1M)" tid="t3" type="TIME" value="2013-11-25T17:30">5:30pm</TIMEX3>
+
+Let''s fix 4 pm on Tue yyyy at palo alto office for this
+4 pm on Tue=<TIMEX3 range="(2013-11-26-WXX-2T16:00:00.000,2013-11-26-WXX-2T16:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-26T16:00">4 pm on Tue</TIMEX3>
+
+Confirmed for Tuesday yyyyy at 3pm here:
+Tuesday=<TIMEX3 range="(2013-11-26-WXX-2,2013-11-26-WXX-2,P1D)" tid="t1" type="DATE" value="2013-11-26">Tuesday</TIMEX3>
+3pm=<TIMEX3 range="(2013-11-25T15:00:00.000,2013-11-25T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-25T15">3pm</TIMEX3>
+
+Can I call you on Friday at 0930am?
+Friday at 0930am=<TIMEX3 range="(2013-11-29-WXX-5T09:30:00.000,2013-11-29-WXX-5T09:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-29T09:30">Friday at 0930am</TIMEX3>
+
+10am is fine!
+10am=<TIMEX3 range="(2013-11-25T10:00:00.000,2013-11-25T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-25T10">10am</TIMEX3>
+
+Lets talk about it today.
+today=<TIMEX3 range="(2013-11-25,2013-11-25,P1D)" tid="t1" type="DATE" value="2013-11-25">today</TIMEX3>
+
+Looking forward for your call by 3pm today.
+3pm today=<TIMEX3 range="(2013-11-25T15:00:00.000,2013-11-25T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-25T15">3pm today</TIMEX3>
+
+Does Tuesday yyy PM xxxxxxx work?
+Tuesday=<TIMEX3 range="(2013-11-26-WXX-2,2013-11-26-WXX-2,P1D)" tid="t1" type="DATE" value="2013-11-26">Tuesday</TIMEX3>
+
+Am off to chennai over the weekend, we could also do next week if this week is difficult for you.
+the weekend=<TIMEX3 range="(2013-11-30,2013-12-01,P2D)" tid="t1" type="DATE" value="2013-W48-WE">the weekend</TIMEX3>
+next week=<TIMEX3 range="(2013-12-02,2013-12-08,P1W)" tid="t2" type="DATE" value="2013-W49">next week</TIMEX3>
+this week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t3" type="DATE" value="2013-W48">this week</TIMEX3>
+
+Do tell me when we can catch up, am free this tuesday (today) and thursday.
+this tuesday=<TIMEX3 range="(2013-11-26-WXX-2,2013-11-26-WXX-2,P1D)" tid="t1" type="DATE" value="2013-11-26">this tuesday</TIMEX3>
+today=<TIMEX3 range="(2013-11-25,2013-11-25,P1D)" tid="t2" type="DATE" value="2013-11-25">today</TIMEX3>
+thursday=<TIMEX3 range="(2013-11-28-WXX-4,2013-11-28-WXX-4,P1D)" tid="t3" type="DATE" value="2013-11-28">thursday</TIMEX3>
+
+how about 4-5PM this Friday?
+about 4-5PM this Friday=<TIMEX3 range="(2013-11-29-WXX-5T17:00:00.000,2013-11-29-WXX-5T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-29T17">about 4-5PM this Friday</TIMEX3>
+
+Or we can meet at the xxxxxxxxx xxxxxxxxxxx demo day this Friday if you have time.
+day this Friday=<TIMEX3 alt_value="2013-11-29-WXX-5 INTERSECT P1D" anchorTimeID="t2" range="(2013-11-29-WXX-5 INTERSECT P1D,2013-11-29-WXX-5 INTERSECT P1D,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">day this Friday</TIMEX3>
+
+Would you be be to chat sometime this week?
+this week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t1" type="DATE" value="2013-W48">this week</TIMEX3>
+
+Please meet me individually tomorrow so that we can review all your timesheets.
+tomorrow=<TIMEX3 range="(2013-11-27,2013-11-27,P1D)" tid="t1" type="DATE" value="2013-11-27">tomorrow</TIMEX3>
+
+May I please request yyyyy minutes of your time this week or next.
+May=<TIMEX3 range="(2014-05-01,2014-05-31,P1M)" tid="t1" type="DATE" value="2014-05">May</TIMEX3>
+minutes=<TIMEX3 range="(,,PTXM)" tid="t2" type="DURATION" value="PTXM">minutes</TIMEX3>
+this week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t3" type="DATE" value="2013-W48">this week</TIMEX3>
+
+Will call by tomorrow again.
+tomorrow=<TIMEX3 range="(2013-11-27,2013-11-27,P1D)" tid="t1" type="DATE" value="2013-11-27">tomorrow</TIMEX3>
+
+Let us try and catchup today at 3PM.
+today at 3PM.=<TIMEX3 range="(2013-11-26T15:00:00.000,2013-11-26T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-26T15">today at 3PM.</TIMEX3>
+
+I will return to xxxxxxxxx for 10 days in the second half of December, when we can touch bases again, and discuss further, if need be.
+10 days in the second=<TIMEX3 alt_value="2013-11-26TXX:XX INTERSECT P10D" anchorTimeID="t2" range="(2013-11-26TXX:XX INTERSECT P10D,2013-11-26TXX:XX INTERSECT P10D,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">10 days in the second</TIMEX3>
+December=<TIMEX3 range="(2013-12-01,2013-12-31,P1M)" tid="t3" type="DATE" value="2013-12">December</TIMEX3>
+
+Hi xxxxxx Are Rahul and/or xxxxx available to meet on Friday morning at 9am?
+Friday morning=<TIMEX3 range="(2013-11-29-WXX-5T06:00:00.000,2013-11-29-WXX-5T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-29TMO">Friday morning</TIMEX3>
+9am=<TIMEX3 range="(2013-11-26T09:00:00.000,2013-11-26T09:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-11-26T09">9am</TIMEX3>
+
+5pm on Monday is fine for both of us.
+5pm on Monday=<TIMEX3 range="(2013-11-25-WXX-1T17:00:00.000,2013-11-25-WXX-1T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-25T17">5pm on Monday</TIMEX3>
+
+xxx December 1st week main free honge?
+December 1st=<TIMEX3 range="(2013-12-01,2013-12-01,P1D)" tid="t1" type="DATE" value="2013-12-01">December 1st</TIMEX3>
+week=<TIMEX3 range="(,,P1W)" tid="t2" type="DURATION" value="P1W">week</TIMEX3>
+
+Thursday yyyy at 2:45pm will be perfect.
+Thursday=<TIMEX3 range="(2013-11-28-WXX-4,2013-11-28-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-28">Thursday</TIMEX3>
+2:45pm=<TIMEX3 range="(2013-11-26T14:45:00.000,2013-11-26T14:45:59.999,PT1M)" tid="t2" type="TIME" value="2013-11-26T14:45">2:45pm</TIMEX3>
+
+Let''s talk today and finalize
+today=<TIMEX3 range="(2013-11-26,2013-11-26,P1D)" tid="t1" type="DATE" value="2013-11-26">today</TIMEX3>
+
+Lets talk in person today.
+today=<TIMEX3 range="(2013-11-26,2013-11-26,P1D)" tid="t1" type="DATE" value="2013-11-26">today</TIMEX3>
+
+How about Thursday?
+about Thursday=<TIMEX3 range="(2013-11-28-WXX-4,2013-11-28-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-28">about Thursday</TIMEX3>
+
+xxxx Let''s catchup Friday at the accelerato
+Friday=<TIMEX3 range="(2013-11-29-WXX-5,2013-11-29-WXX-5,P1D)" tid="t1" type="DATE" value="2013-11-29">Friday</TIMEX3>
+
+Can we discuss this during our call today?
+today=<TIMEX3 range="(2013-11-26,2013-11-26,P1D)" tid="t1" type="DATE" value="2013-11-26">today</TIMEX3>
+
+I can call you 11AM tomorrow or Friday.
+11AM tomorrow=<TIMEX3 range="(2013-11-27T11:00:00.000,2013-11-27T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-27T11">11AM tomorrow</TIMEX3>
+Friday=<TIMEX3 range="(2013-11-29-WXX-5,2013-11-29-WXX-5,P1D)" tid="t2" type="DATE" value="2013-11-29">Friday</TIMEX3>
+
+3PM?
+3PM=<TIMEX3 range="(2013-11-26T15:00:00.000,2013-11-26T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-26T15">3PM</TIMEX3>
+
+We are available anytime between 9:30 am to 12:30 pm IST tomorrow.
+9:30 am to 12:30 pm=<TIMEX3 beginPoint="t1" endPoint="t2" range="(T09:30,T12:30,PT3H)" tid="t3" type="DURATION" value="PT3H">9:30 am to 12:30 pm</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-11-27,2013-11-27,P1D)" tid="t4" type="DATE" value="2013-11-27">tomorrow</TIMEX3>
+
+> xxxxxxx xxx, > > I have moved the meeting to tomorrow same time.
+tomorrow=<TIMEX3 range="(2013-11-27,2013-11-27,P1D)" tid="t1" type="DATE" value="2013-11-27">tomorrow</TIMEX3>
+
+But let me call you on Friday from the land line since the signal here is weak.
+Friday=<TIMEX3 range="(2013-11-29-WXX-5,2013-11-29-WXX-5,P1D)" tid="t1" type="DATE" value="2013-11-29">Friday</TIMEX3>
+
+Tomorrow morning yy AM ?
+
+Can we talk later today or tomorrow?
+later today=<TIMEX3 range="(2013-11-27,2013-11-27,P1D)" tid="t1" type="DATE" value="2013-11-27">later today</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-11-28,2013-11-28,P1D)" tid="t2" type="DATE" value="2013-11-28">tomorrow</TIMEX3>
+
+Let''s meet around 6pm today to discuss this
+6pm today=<TIMEX3 range="(2013-11-27T18:00:00.000,2013-11-27T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-27T18">6pm today</TIMEX3>
+
+We can have the call tomorrow at 12:00 noon
+tomorrow at 12:00 noon=<TIMEX3 range="(2013-11-28T12:00:00.000,2013-11-28T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-28T12:00">tomorrow at 12:00 noon</TIMEX3>
+
+Tomorrow, I am open all day except for 7:30-9:30 am EST
+Tomorrow=<TIMEX3 range="(2013-11-28,2013-11-28,P1D)" tid="t1" type="DATE" value="2013-11-28">Tomorrow</TIMEX3>
+day=<TIMEX3 range="(,,P1D)" tid="t2" type="DURATION" value="P1D">day</TIMEX3>
+7:30=<TIMEX3 range="(2013-11-27T07:30:00.000,2013-11-27T07:30:59.999,PT1M)" tid="t3" type="TIME" value="2013-11-27T07:30">7:30</TIMEX3>
+9:30 am=<TIMEX3 range="(2013-11-27T09:30:00.000,2013-11-27T09:30:59.999,PT1M)" tid="t4" type="TIME" value="2013-11-27T09:30">9:30 am</TIMEX3>
+
+Can we meet in my office Thursday at y?
+Thursday=<TIMEX3 range="(2013-11-28-WXX-4,2013-11-28-WXX-4,P1D)" tid="t1" type="DATE" value="2013-11-28">Thursday</TIMEX3>
+
+Around 8pm?
+8pm=<TIMEX3 range="(2013-11-27T20:00:00.000,2013-11-27T20:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-27T20">8pm</TIMEX3>
+
+I will call you sometime between yyyyy am and yyyyy am EST today.
+today=<TIMEX3 range="(2013-11-27,2013-11-27,P1D)" tid="t1" type="DATE" value="2013-11-27">today</TIMEX3>
+
+We can talk anytime tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-28,2013-11-28,P1D)" tid="t1" type="DATE" value="2013-11-28">tomorrow</TIMEX3>
+
+Can we meet in the xxxxx xxx or peninsula the week of December 9 or yy?
+the week of December 9=<TIMEX3 alt_value="2013-12-09 INTERSECT P1W" anchorTimeID="t2" range="(2013-12-09 INTERSECT P1W,2013-12-09 INTERSECT P1W,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">the week of December 9</TIMEX3>
+
+I will be coming to bangalore to meet all of you on the 17th of december.
+the 17th of december=<TIMEX3 range="(2013-12-17,2013-12-17,P1D)" tid="t1" type="DATE" value="2013-12-17">the 17th of december</TIMEX3>
+
+xxxxx would like to invite you to dinner at his residence 30 November, 2013.
+30 November, 2013=<TIMEX3 range="(2013-11-30,2013-11-30,P1D)" tid="t1" type="DATE" value="2013-11-30">30 November, 2013</TIMEX3>
+
+I will talk to you sometime this week regarding this.
+this week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t1" type="DATE" value="2013-W48">this week</TIMEX3>
+
+Could we chat next week Tuesday (Dec 3) at 1130am?
+next week Tuesday=<TIMEX3 range="(2013-12-03-W49-2,2013-12-03-W49-2,P1D)" tid="t1" type="DATE" value="2013-12-03">next week Tuesday</TIMEX3>
+Dec 3=<TIMEX3 range="(2013-12-03,2013-12-03,P1D)" tid="t2" type="DATE" value="2013-12-03">Dec 3</TIMEX3>
+1130am=<TIMEX3 range="(2013-11-28T11:30:00.000,2013-11-28T11:30:59.999,PT1M)" tid="t3" type="TIME" value="2013-11-28T11:30">1130am</TIMEX3>
+
+Lets connect on Tuesday.
+Tuesday=<TIMEX3 range="(2013-12-03-WXX-2,2013-12-03-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-03">Tuesday</TIMEX3>
+
+Monday morning then!
+Monday morning=<TIMEX3 range="(2013-11-25-WXX-1T06:00:00.000,2013-11-25-WXX-1T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-25TMO">Monday morning</TIMEX3>
+
+xxxx Monday or Tuesday sometime in the morning work?
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-12-03-WXX-2,2013-12-03-WXX-2,P1D)" tid="t2" type="DATE" value="2013-12-03">Tuesday</TIMEX3>
+morning=<TIMEX3 range="(2013-11-28T06:00:00.000,2013-11-28T12:00,PT6H)" tid="t3" type="TIME" value="2013-11-28TMO">morning</TIMEX3>
+
+we will catchup tomorrow
+tomorrow=<TIMEX3 range="(2013-11-29,2013-11-29,P1D)" tid="t1" type="DATE" value="2013-11-29">tomorrow</TIMEX3>
+
+An information session will be held tomorrow at 2:00pm just before the xxxxxx
+tomorrow at 2:00pm=<TIMEX3 range="(2013-11-29T14:00:00.000,2013-11-29T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-29T14:00">tomorrow at 2:00pm</TIMEX3>
+
+December 1st- xxx xxxxxxx yyy PM
+December 1st=<TIMEX3 range="(2013-12-01,2013-12-01,P1D)" tid="t1" type="DATE" value="2013-12-01">December 1st</TIMEX3>
+
+See you all tomorrow morning at y AM for the final dry run
+
+The exceptions should bee wrapper [yyyyyyyy 6:02:32 pm] Niketh: That;s weird [yyyyyyyy 6:03:10 pm] Niketh: xxxxxxxxx should we postpone the call to tomorrow after checking the xxxx out [yyyyyyyy 6:03:17 pm] Niketh: ?
+6:02:32 pm=<TIMEX3 range="(2013-11-28T18:02:32.000,2013-11-28T18:02:32.999,PT1S)" tid="t1" type="TIME" value="2013-11-28T18:02:32">6:02:32 pm</TIMEX3>
+6:03:10 pm=<TIMEX3 range="(2013-11-28T18:03:10.000,2013-11-28T18:03:10.999,PT1S)" tid="t2" type="TIME" value="2013-11-28T18:03:10">6:03:10 pm</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-11-29,2013-11-29,P1D)" tid="t3" type="DATE" value="2013-11-29">tomorrow</TIMEX3>
+6:03:17 pm=<TIMEX3 range="(2013-11-28T18:03:17.000,2013-11-28T18:03:17.999,PT1S)" tid="t4" type="TIME" value="2013-11-28T18:03:17">6:03:17 pm</TIMEX3>
+
+xxx be thr by 9am in accelerator tomorrow.
+9am=<TIMEX3 range="(2013-11-28T09:00:00.000,2013-11-28T09:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-28T09">9am</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-11-29,2013-11-29,P1D)" tid="t2" type="DATE" value="2013-11-29">tomorrow</TIMEX3>
+
+Let''s talk tomorrow on this
+tomorrow=<TIMEX3 range="(2013-11-29,2013-11-29,P1D)" tid="t1" type="DATE" value="2013-11-29">tomorrow</TIMEX3>
+
+If you would like to do another call, please let me know too, we can do something post our demo day tomorrow.
+day tomorrow=<TIMEX3 alt_value="2013-11-29 INTERSECT P1D" anchorTimeID="t2" range="(2013-11-29 INTERSECT P1D,2013-11-29 INTERSECT P1D,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">day tomorrow</TIMEX3>
+
+Hi xxxxxxxx, We could catch up over phone tomorrow.I will call you tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-29,2013-11-29,P1D)" tid="t1" type="DATE" value="2013-11-29">tomorrow</TIMEX3>
+
+Anyways let''s talk tomorrow
+tomorrow=<TIMEX3 range="(2013-11-29,2013-11-29,P1D)" tid="t1" type="DATE" value="2013-11-29">tomorrow</TIMEX3>
+
+Lets speak at 8am again and we can see where we are with everything
+8am=<TIMEX3 range="(2013-11-28T08:00:00.000,2013-11-28T08:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-28T08">8am</TIMEX3>
+
+DR xxxxxxxxx, I would prefer Dec 11th 4PM.
+Dec 11th 4PM.=<TIMEX3 range="(2013-12-11T16:00:00.000,2013-12-11T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-11T16">Dec 11th 4PM.</TIMEX3>
+
+I will be out in the morning and afternoon, but I should be free to talk after 4pm IST.
+morning=<TIMEX3 range="(2013-11-28T06:00:00.000,2013-11-28T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-28TMO">morning</TIMEX3>
+afternoon=<TIMEX3 range="(2013-11-28T12:00:00.000,2013-11-28T18,PT6H)" tid="t2" type="TIME" value="2013-11-28TAF">afternoon</TIMEX3>
+4pm=<TIMEX3 range="(2013-11-28T16:00:00.000,2013-11-28T16:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-11-28T16">4pm</TIMEX3>
+
+Let it be Sunday then...
+Sunday=<TIMEX3 range="(2013-12-01-WXX-7,2013-12-01-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-01">Sunday</TIMEX3>
+
+let us meet tomorrow at 2 pm?
+tomorrow at 2 pm=<TIMEX3 range="(2013-11-30T14:00:00.000,2013-11-30T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-30T14:00">tomorrow at 2 pm</TIMEX3>
+
+Sunday works better.
+Sunday=<TIMEX3 range="(2013-12-01-WXX-7,2013-12-01-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-01">Sunday</TIMEX3>
+
+Let us catchup on xxxxx tomorrow.
+tomorrow=<TIMEX3 range="(2013-11-30,2013-11-30,P1D)" tid="t1" type="DATE" value="2013-11-30">tomorrow</TIMEX3>
+
+All-hands tomorrow?
+tomorrow=<TIMEX3 range="(2013-11-30,2013-11-30,P1D)" tid="t1" type="DATE" value="2013-11-30">tomorrow</TIMEX3>
+
+Sure 6pm?
+6pm=<TIMEX3 range="(2013-11-29T18:00:00.000,2013-11-29T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-11-29T18">6pm</TIMEX3>
+
+Sorry could not talk to you on this today, lets catch up next week...
+this today=<TIMEX3 range="(2013-11-29,2013-11-29,P1D)" tid="t1" type="DATE" value="2013-11-29">this today</TIMEX3>
+next week=<TIMEX3 range="(2013-12-02,2013-12-08,P1W)" tid="t2" type="DATE" value="2013-W49">next week</TIMEX3>
+
+Let us try to catch up on Sunday.
+Sunday=<TIMEX3 range="(2013-12-01-WXX-7,2013-12-01-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-01">Sunday</TIMEX3>
+
+See you tomorrow!
+tomorrow=<TIMEX3 range="(2013-11-30,2013-11-30,P1D)" tid="t1" type="DATE" value="2013-11-30">tomorrow</TIMEX3>
+
+Monday after between yy and y is also ok with me.
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+
+I will call you on your mobile at 12noon on Monday.
+Monday=<TIMEX3 range="(2013-11-25-WXX-1,2013-11-25-WXX-1,P1D)" tid="t1" type="DATE" value="2013-11-25">Monday</TIMEX3>
+
+I plan to be in xxxxxxx in February and hope to see you.
+February=<TIMEX3 range="(2014-02-01,2014-02-28,P1M)" tid="t1" type="DATE" value="2014-02">February</TIMEX3>
+
+If you have time tomorrow morning/evening IST, we can meet then.
+tomorrow=<TIMEX3 range="(2013-12-01,2013-12-01,P1D)" tid="t1" type="DATE" value="2013-12-01">tomorrow</TIMEX3>
+
+How about y or 230pm IST tomorrow?
+230pm=<TIMEX3 range="(2013-11-30T14:30:00.000,2013-11-30T14:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-30T14:30">230pm</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-12-01,2013-12-01,P1D)" tid="t2" type="DATE" value="2013-12-01">tomorrow</TIMEX3>
+
+xxxxx we do that on Sat morning?
+Sat morning=<TIMEX3 range="(2013-11-30-WXX-6T06:00:00.000,2013-11-30-WXX-6T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-30TMO">Sat morning</TIMEX3>
+
+Yeah Sat morning.
+Sat morning=<TIMEX3 range="(2013-11-30-WXX-6T06:00:00.000,2013-11-30-WXX-6T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-30TMO">Sat morning</TIMEX3>
+
+Please let me know if we can catch up tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t1" type="DATE" value="2013-12-02">tomorrow</TIMEX3>
+
+See you at 12:30 tomorrow at xxx xxxxxx.
+12:30 tomorrow=<TIMEX3 range="(2013-12-02T12:30:00.000,2013-12-02T12:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-02T12:30">12:30 tomorrow</TIMEX3>
+
+Should work on Monday.
+Monday=<TIMEX3 range="(2013-12-02-WXX-1,2013-12-02-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-02">Monday</TIMEX3>
+
+Like xxxxxx said ��� the dry run for LP Presentation starts tomorrow at yyyy am ��� yyyyy am tomorrow, so will you be able to do this call at yyyy am?
+tomorrow=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t1" type="DATE" value="2013-12-02">tomorrow</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t2" type="DATE" value="2013-12-02">tomorrow</TIMEX3>
+
+Let me know if Wed 11 AM works.
+Wed 11 AM=<TIMEX3 range="(2013-11-27-WXX-3T11:00:00.000,2013-11-27-WXX-3T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-11-27T11:00">Wed 11 AM</TIMEX3>
+
+how about wed morning at my office say 10am?
+about wed morning=<TIMEX3 range="(2013-11-27-WXX-3T06:00:00.000,2013-11-27-WXX-3T12:00,PT6H)" tid="t1" type="TIME" value="2013-11-27TMO">about wed morning</TIMEX3>
+10am=<TIMEX3 range="(2013-12-01T10:00:00.000,2013-12-01T10:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-01T10">10am</TIMEX3>
+
+How is your schedule tomorrow (Mon) afternoon?
+tomorrow=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t1" type="DATE" value="2013-12-02">tomorrow</TIMEX3>
+Mon=<TIMEX3 range="(2013-12-02-WXX-1,2013-12-02-WXX-1,P1D)" tid="t2" type="DATE" value="2013-12-02">Mon</TIMEX3>
+afternoon=<TIMEX3 range="(2013-12-01T12:00:00.000,2013-12-01T18,PT6H)" tid="t3" type="TIME" value="2013-12-01TAF">afternoon</TIMEX3>
+
+Can you suggest me which time slot suits you for the meeting on thursday or friday ?
+thursday=<TIMEX3 range="(2013-12-05-WXX-4,2013-12-05-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-05">thursday</TIMEX3>
+friday=<TIMEX3 range="(2013-11-29-WXX-5,2013-11-29-WXX-5,P1D)" tid="t2" type="DATE" value="2013-11-29">friday</TIMEX3>
+
+xxxxx, Can we reschedule this to 1pm?
+1pm=<TIMEX3 range="(2013-12-01T13:00:00.000,2013-12-01T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-01T13">1pm</TIMEX3>
+
+Would it be possible for you to spend 30 minutes with us sometime tomorrow afternoon or evening?
+30 minutes=<TIMEX3 range="(,,PT30M)" tid="t1" type="DURATION" value="PT30M">30 minutes</TIMEX3>
+tomorrow afternoon=<TIMEX3 range="(2013-12-02T12:00:00.000,2013-12-02T18,PT6H)" tid="t2" type="TIME" value="2013-12-02TAF">tomorrow afternoon</TIMEX3>
+evening=<TIMEX3 range="(2013-12-01T18:00:00.000,2013-12-01T20,PT2H)" tid="t3" type="TIME" value="2013-12-01TEV">evening</TIMEX3>
+
+xxxxx, does Wednesday work for you this week?
+Wednesday=<TIMEX3 range="(2013-12-04-WXX-3,2013-12-04-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-04">Wednesday</TIMEX3>
+this week=<TIMEX3 range="(2013-11-25,2013-12-01,P1W)" tid="t2" type="DATE" value="2013-W48">this week</TIMEX3>
+
+Will schedule it for tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t1" type="DATE" value="2013-12-02">tomorrow</TIMEX3>
+
+sure xxxxxxx, lets sync up tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-03,2013-12-03,P1D)" tid="t1" type="DATE" value="2013-12-03">tomorrow</TIMEX3>
+
+Kindly let me know if we can speak on Fri 6th.
+Fri 6th=<TIMEX3 range="(2013-12-06-WXX-5,2013-12-06-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-06">Fri 6th</TIMEX3>
+
+We can reschedule for later in the week.
+the week=<TIMEX3 range="(2013-12-02,2013-12-08,P1W)" tid="t1" type="DATE" value="2013-W49">the week</TIMEX3>
+
+I will interview you after the coffee xxxxxxx group coffee chat at 11:00 am on Wednesday.
+11:00 am on Wednesday=<TIMEX3 range="(2013-12-04-WXX-3T11:00:00.000,2013-12-04-WXX-3T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-04T11:00">11:00 am on Wednesday</TIMEX3>
+
+xxxx, is this call confirmed for tomorrow?
+tomorrow=<TIMEX3 range="(2013-12-03,2013-12-03,P1D)" tid="t1" type="DATE" value="2013-12-03">tomorrow</TIMEX3>
+
+Thursday or Wed?
+Thursday=<TIMEX3 range="(2013-12-05-WXX-4,2013-12-05-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-05">Thursday</TIMEX3>
+Wed=<TIMEX3 range="(2013-12-04-WXX-3,2013-12-04-WXX-3,P1D)" tid="t2" type="DATE" value="2013-12-04">Wed</TIMEX3>
+
+Are we still on for 1pm?
+1pm=<TIMEX3 range="(2013-12-02T13:00:00.000,2013-12-02T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-02T13">1pm</TIMEX3>
+
+Yes, they will see you at 1pm today at the address below in xxxxx xxxxx.
+1pm today=<TIMEX3 range="(2013-12-02T13:00:00.000,2013-12-02T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-02T13">1pm today</TIMEX3>
+
+xxxxx -- xxxxx and xxxxxxxx will be at the xxxxxxx office today and are available to talk at 2pm.
+today=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t1" type="DATE" value="2013-12-02">today</TIMEX3>
+2pm.=<TIMEX3 range="(2013-12-02T14:00:00.000,2013-12-02T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-02T14">2pm.</TIMEX3>
+
+The presentation to the potential investor, xxxxxxx xxxxxx (really nice guy), is scheduled for next Friday yyyyy at 9am at the xxxx xxxx office.
+next Friday=<TIMEX3 range="(2013-12-13-WXX-5,2013-12-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-13">next Friday</TIMEX3>
+9am=<TIMEX3 range="(2013-12-02T09:00:00.000,2013-12-02T09:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-02T09">9am</TIMEX3>
+
+Are you available this Wednesday, December 4 at 11AM?
+this Wednesday, December 4 at 11AM=<TIMEX3 range="(2013-12-04-WXX-3T11:00:00.000,2013-12-04-WXX-3T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-04T11">this Wednesday, December 4 at 11AM</TIMEX3>
+
+1pm PST on Friday works well.
+1pm=<TIMEX3 range="(2013-12-02T13:00:00.000,2013-12-02T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-02T13">1pm</TIMEX3>
+Friday=<TIMEX3 range="(2013-11-29-WXX-5,2013-11-29-WXX-5,P1D)" tid="t2" type="DATE" value="2013-11-29">Friday</TIMEX3>
+
+Will 10:30am or 11am work for u?
+10:30am=<TIMEX3 range="(2013-12-02T10:30:00.000,2013-12-02T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-02T10:30">10:30am</TIMEX3>
+11am=<TIMEX3 range="(2013-12-02T11:00:00.000,2013-12-02T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-02T11">11am</TIMEX3>
+
+Probably tomorrow after lunch will work best.
+tomorrow=<TIMEX3 range="(2013-12-03,2013-12-03,P1D)" tid="t1" type="DATE" value="2013-12-03">tomorrow</TIMEX3>
+
+I''m at dinner, can I call at 9pm
+9pm=<TIMEX3 range="(2013-12-02T21:00:00.000,2013-12-02T21:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-02T21">9pm</TIMEX3>
+
+Tomorrow 1:30 PM works well.
+Tomorrow 1:30 PM=<TIMEX3 range="(2013-12-03T13:30:00.000,2013-12-03T13:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-03T13:30">Tomorrow 1:30 PM</TIMEX3>
+
+Are you free to talk sometime today?
+today=<TIMEX3 range="(2013-12-02,2013-12-02,P1D)" tid="t1" type="DATE" value="2013-12-02">today</TIMEX3>
+
+HI xxxxxx, We are free tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-04,2013-12-04,P1D)" tid="t1" type="DATE" value="2013-12-04">tomorrow</TIMEX3>
+
+We can have call on tomorrow 3pm.
+tomorrow 3pm.=<TIMEX3 range="(2013-12-04T15:00:00.000,2013-12-04T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-04T15">tomorrow 3pm.</TIMEX3>
+
+I am sorry for delaying this, can we will have meeting tomorrow evening x 4pm to discuss on this.
+tomorrow evening=<TIMEX3 range="(2013-12-04T18:00:00.000,2013-12-04T20,PT2H)" tid="t1" type="TIME" value="2013-12-04TEV">tomorrow evening</TIMEX3>
+4pm=<TIMEX3 range="(2013-12-03T16:00:00.000,2013-12-03T16:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-03T16">4pm</TIMEX3>
+
+10 AM tomorrow works for xxxxx.
+10 AM tomorrow=<TIMEX3 range="(2013-12-04T10:00:00.000,2013-12-04T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-04T10:00">10 AM tomorrow</TIMEX3>
+
+xxxx / xxxxx, xxxxxx call is confirmed for 10am tomorrow.
+10am tomorrow=<TIMEX3 range="(2013-12-04T10:00:00.000,2013-12-04T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-04T10">10am tomorrow</TIMEX3>
+
+- Monday yyyy at 10:30am PT
+Monday=<TIMEX3 range="(2013-12-09-WXX-1,2013-12-09-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-09">Monday</TIMEX3>
+10:30am=<TIMEX3 range="(2013-12-03T10:30:00.000,2013-12-03T10:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-03T10:30">10:30am</TIMEX3>
+
+I could do Tuesday at yy.
+Tuesday=<TIMEX3 range="(2013-12-03-WXX-2,2013-12-03-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-03">Tuesday</TIMEX3>
+
+I am traveling next week xxxxxxx, but wee can meet Thursday or Friday of next week if you can make that.
+next week=<TIMEX3 range="(2013-12-09,2013-12-15,P1W)" tid="t1" type="DATE" value="2013-W50">next week</TIMEX3>
+Thursday=<TIMEX3 range="(2013-12-05-WXX-4,2013-12-05-WXX-4,P1D)" tid="t2" type="DATE" value="2013-12-05">Thursday</TIMEX3>
+Friday of next week=<TIMEX3 range="(2013-12-13-W50-5,2013-12-13-W50-5,P1D)" tid="t3" type="DATE" value="2013-12-13">Friday of next week</TIMEX3>
+
+- Next Wednesday yyyyy at 11am or 1pm
+Next Wednesday=<TIMEX3 range="(2013-12-11-WXX-3,2013-12-11-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-11">Next Wednesday</TIMEX3>
+11am=<TIMEX3 range="(2013-12-03T11:00:00.000,2013-12-03T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-03T11">11am</TIMEX3>
+1pm=<TIMEX3 range="(2013-12-03T13:00:00.000,2013-12-03T13:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-12-03T13">1pm</TIMEX3>
+
+- This Friday yyyy at 2pm
+This Friday=<TIMEX3 range="(2013-12-06-WXX-5,2013-12-06-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-06">This Friday</TIMEX3>
+2pm=<TIMEX3 range="(2013-12-03T14:00:00.000,2013-12-03T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-03T14">2pm</TIMEX3>
+
+Confirmed for Tuesday yyyyy at 11am.
+Tuesday=<TIMEX3 range="(2013-12-03-WXX-2,2013-12-03-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-03">Tuesday</TIMEX3>
+11am.=<TIMEX3 range="(2013-12-03T11:00:00.000,2013-12-03T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-03T11">11am.</TIMEX3>
+
+Confirmed for this Friday yyyy at 2pm.
+this Friday=<TIMEX3 range="(2013-12-06-WXX-5,2013-12-06-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-06">this Friday</TIMEX3>
+2pm.=<TIMEX3 range="(2013-12-03T14:00:00.000,2013-12-03T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-03T14">2pm.</TIMEX3>
+
+We can meet again on Sat for broader discussions, if that is ok.
+Sat=<TIMEX3 range="(2013-11-30-WXX-6,2013-11-30-WXX-6,P1D)" tid="t1" type="DATE" value="2013-11-30">Sat</TIMEX3>
+
+5PM?
+5PM=<TIMEX3 range="(2013-12-03T17:00:00.000,2013-12-03T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-03T17">5PM</TIMEX3>
+
+Can we catch up at 3PM on Friday.
+3PM on Friday=<TIMEX3 range="(2013-12-06-WXX-5T15:00:00.000,2013-12-06-WXX-5T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-06T15">3PM on Friday</TIMEX3>
+
+Will you be free at 3pm?
+3pm=<TIMEX3 range="(2013-12-04T15:00:00.000,2013-12-04T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-04T15">3pm</TIMEX3>
+
+I will join the call tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow</TIMEX3>
+
+I���ll be happy if we can schedule tomorrow anytime feasible to you.
+tomorrow=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow</TIMEX3>
+
+Sure xxx, You can meet the candidates as well as recruiters tomorrow at our xxxxxxx 2nd xxxxxx office.
+tomorrow=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow</TIMEX3>
+
+Let''s talk on xxxxx coming Monday yyyy PM
+Monday=<TIMEX3 range="(2013-12-09-WXX-1,2013-12-09-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-09">Monday</TIMEX3>
+
+I will call you tomorrow along with xxxxx and explain the expected delivery from our side and timelines for the same.
+tomorrow=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow</TIMEX3>
+
+Can we have this meeting tomorrow at 5 pm.
+tomorrow at 5 pm=<TIMEX3 range="(2013-12-05T17:00:00.000,2013-12-05T17:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-05T17:00">tomorrow at 5 pm</TIMEX3>
+
+Tuesday is fine with me
+Tuesday=<TIMEX3 range="(2013-12-10-WXX-2,2013-12-10-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-10">Tuesday</TIMEX3>
+
+Hey, please let me know if you could come on skype today.
+today=<TIMEX3 range="(2013-12-04,2013-12-04,P1D)" tid="t1" type="DATE" value="2013-12-04">today</TIMEX3>
+
+can chat on Friday.
+Friday=<TIMEX3 range="(2013-12-06-WXX-5,2013-12-06-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-06">Friday</TIMEX3>
+
+Lets catchup tomorrow to discuss plan in my absence.
+tomorrow=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow</TIMEX3>
+
+Say Tuesday?
+Tuesday=<TIMEX3 range="(2013-12-10-WXX-2,2013-12-10-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-10">Tuesday</TIMEX3>
+
+I am pretty much open next week other than Tuesday.
+next week=<TIMEX3 range="(2013-12-09,2013-12-15,P1W)" tid="t1" type="DATE" value="2013-W50">next week</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-12-10-WXX-2,2013-12-10-WXX-2,P1D)" tid="t2" type="DATE" value="2013-12-10">Tuesday</TIMEX3>
+
+Will early next week work for you?
+early next week=<TIMEX3 mod="EARLY" range="(2013-12-09,2013-12-15,P1W)" tid="t1" type="DATE" value="2013-W50">early next week</TIMEX3>
+
+Lets catchup mid next week.
+mid next week=<TIMEX3 mod="MID" range="(2013-12-09,2013-12-15,P1W)" tid="t1" type="DATE" value="2013-W50">mid next week</TIMEX3>
+
+Confirmed for tomorrow, Thursday yyyy at 11am here:
+tomorrow, Thursday=<TIMEX3 range="(2013-12-05-WXX-4,2013-12-05-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow, Thursday</TIMEX3>
+11am=<TIMEX3 range="(2013-12-04T11:00:00.000,2013-12-04T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-04T11">11am</TIMEX3>
+
+I will call you over the weekend.
+the weekend=<TIMEX3 range="(2013-12-07,2013-12-08,P2D)" tid="t1" type="DATE" value="2013-W49-WE">the weekend</TIMEX3>
+
+Friday 10 am works very well.
+Friday 10 am=<TIMEX3 range="(2013-12-06-WXX-5T10:00:00.000,2013-12-06-WXX-5T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-06T10:00">Friday 10 am</TIMEX3>
+
+Let''s try to meet over the weekend
+the weekend=<TIMEX3 range="(2013-12-07,2013-12-08,P2D)" tid="t1" type="DATE" value="2013-W49-WE">the weekend</TIMEX3>
+
+Confirmed for lunch tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow</TIMEX3>
+
+Lets continue our discussion next week.
+next week=<TIMEX3 range="(2013-12-09,2013-12-15,P1W)" tid="t1" type="DATE" value="2013-W50">next week</TIMEX3>
+
+Lets meet over lunch today.
+today=<TIMEX3 range="(2013-12-04,2013-12-04,P1D)" tid="t1" type="DATE" value="2013-12-04">today</TIMEX3>
+
+Do you want to catchup tomorrow over lunch at xx xxxx around 12:00 noon?
+tomorrow=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">tomorrow</TIMEX3>
+12:00 noon=<TIMEX3 range="(2013-12-04T12:00:00.000,2013-12-04T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-04T12:00">12:00 noon</TIMEX3>
+
+Can call tomorrow evening to talk on scheduling and needed steps.
+tomorrow evening=<TIMEX3 range="(2013-12-05T18:00:00.000,2013-12-05T20,PT2H)" tid="t1" type="TIME" value="2013-12-05TEV">tomorrow evening</TIMEX3>
+
+We can, but I won''t be available to talk in detail before Sun late afternoon (out of town xxxxxxx Am)
+Sun late afternoon=<TIMEX3 range="(2013-12-08-WXX-7T12:00:00.000,2013-12-08-WXX-7T18,PT6H)" tid="t1" type="TIME" value="2013-12-08TAF">Sun late afternoon</TIMEX3>
+
+I wanted to see if we could meet yyy Sunday yyyy for breakfast (let''s say around 930am at the xx xxxxxxx)
+Sunday=<TIMEX3 range="(2013-12-08-WXX-7,2013-12-08-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-08">Sunday</TIMEX3>
+930am=<TIMEX3 range="(2013-12-04T09:30:00.000,2013-12-04T09:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-04T09:30">930am</TIMEX3>
+
+Yes, I can call you tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-06,2013-12-06,P1D)" tid="t1" type="DATE" value="2013-12-06">tomorrow</TIMEX3>
+
+10:30 tomorrow is fine.
+10:30 tomorrow=<TIMEX3 range="(2013-12-06T10:30:00.000,2013-12-06T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-06T10:30">10:30 tomorrow</TIMEX3>
+
+Can we fix to meet 9:30 am tomorrow?
+9:30 am tomorrow=<TIMEX3 range="(2013-12-06T09:30:00.000,2013-12-06T09:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-06T09:30">9:30 am tomorrow</TIMEX3>
+
+Lets discuss tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-06,2013-12-06,P1D)" tid="t1" type="DATE" value="2013-12-06">tomorrow</TIMEX3>
+
+xxxxxxxx, can you please call me at about yyy am today?
+today=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">today</TIMEX3>
+
+Can we chat on the phone today?
+today=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">today</TIMEX3>
+
+Phone is fine for today.
+today=<TIMEX3 range="(2013-12-05,2013-12-05,P1D)" tid="t1" type="DATE" value="2013-12-05">today</TIMEX3>
+
+We can meet in person on Monday.
+Monday=<TIMEX3 range="(2013-12-09-WXX-1,2013-12-09-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-09">Monday</TIMEX3>
+
+See you all tomorrow x xxxxxx.
+tomorrow=<TIMEX3 range="(2013-12-07,2013-12-07,P1D)" tid="t1" type="DATE" value="2013-12-07">tomorrow</TIMEX3>
+
+Can we speak on Tuesday?
+Tuesday=<TIMEX3 range="(2013-12-10-WXX-2,2013-12-10-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-10">Tuesday</TIMEX3>
+
+2pm is fine.
+2pm=<TIMEX3 range="(2013-12-06T14:00:00.000,2013-12-06T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-06T14">2pm</TIMEX3>
+
+Kindly call me tomorrow around 10:30 AM
+tomorrow=<TIMEX3 range="(2013-12-07,2013-12-07,P1D)" tid="t1" type="DATE" value="2013-12-07">tomorrow</TIMEX3>
+10:30 AM=<TIMEX3 range="(2013-12-06T10:30:00.000,2013-12-06T10:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-06T10:30">10:30 AM</TIMEX3>
+
+Will catch up with you over the weekend.
+the weekend=<TIMEX3 range="(2013-12-07,2013-12-08,P2D)" tid="t1" type="DATE" value="2013-W49-WE">the weekend</TIMEX3>
+
+Are you open the week after?
+the week=<TIMEX3 range="(2013-12-02,2013-12-08,P1W)" tid="t1" type="DATE" value="2013-W49">the week</TIMEX3>
+
+Let''s catch tomorrow after the call, which is 2 pm
+tomorrow=<TIMEX3 range="(2013-12-07,2013-12-07,P1D)" tid="t1" type="DATE" value="2013-12-07">tomorrow</TIMEX3>
+2 pm=<TIMEX3 range="(2013-12-06T14:00:00.000,2013-12-06T14:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-06T14:00">2 pm</TIMEX3>
+
+Maybe the daytime during the weekend?
+the weekend=<TIMEX3 range="(2013-12-07,2013-12-08,P2D)" tid="t2" type="DATE" value="2013-W49-WE">the weekend</TIMEX3>
+
+how bout lunch x MTR/Maiyyas on this Sunday ?
+this Sunday=<TIMEX3 range="(2013-12-08-WXX-7,2013-12-08-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-08">this Sunday</TIMEX3>
+
+We can chat anytime today.
+today=<TIMEX3 range="(2013-12-06,2013-12-06,P1D)" tid="t1" type="DATE" value="2013-12-06">today</TIMEX3>
+
+xxxx to see as you at the dinner Wednesday?
+Wednesday=<TIMEX3 range="(2013-12-04-WXX-3,2013-12-04-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-04">Wednesday</TIMEX3>
+
+I will see you both soon, and will call tomorrow evening (your time)!
+tomorrow evening=<TIMEX3 range="(2013-12-08T18:00:00.000,2013-12-08T20,PT2H)" tid="t1" type="TIME" value="2013-12-08TEV">tomorrow evening</TIMEX3>
+
+Yes, This coming Tuesday, the 10th at 3:00 pm xxxxxxx Standard Time will work for me.
+This coming Tuesday=<TIMEX3 range="(2013-12-10-WXX-2,2013-12-10-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-10">This coming Tuesday</TIMEX3>
+3:00 pm=<TIMEX3 range="(2013-12-08T15:00:00.000,2013-12-08T15:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-08T15:00">3:00 pm</TIMEX3>
+
+1 PM tomorrow is confirmed.
+1 PM tomorrow=<TIMEX3 range="(2013-12-09T13:00:00.000,2013-12-09T13:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-09T13:00">1 PM tomorrow</TIMEX3>
+
+xxxx, let us catch up tomorrow (Mon) in the office.
+tomorrow=<TIMEX3 range="(2013-12-09,2013-12-09,P1D)" tid="t1" type="DATE" value="2013-12-09">tomorrow</TIMEX3>
+Mon=<TIMEX3 range="(2013-12-09-WXX-1,2013-12-09-WXX-1,P1D)" tid="t2" type="DATE" value="2013-12-09">Mon</TIMEX3>
+
+xx Tuesday work?
+Tuesday=<TIMEX3 range="(2013-12-10-WXX-2,2013-12-10-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-10">Tuesday</TIMEX3>
+
+You and I will still keep our breakfast meeting tomorrow as planned at 9:00am IST.
+tomorrow=<TIMEX3 range="(2013-12-10,2013-12-10,P1D)" tid="t1" type="DATE" value="2013-12-10">tomorrow</TIMEX3>
+9:00am=<TIMEX3 range="(2013-12-09T09:00:00.000,2013-12-09T09:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-09T09:00">9:00am</TIMEX3>
+
+Can we meet on Wednesday at 930am instead of meeting tomorrow?
+Wednesday at 930am=<TIMEX3 range="(2013-12-11-WXX-3T09:30:00.000,2013-12-11-WXX-3T09:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-11T09:30">Wednesday at 930am</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-12-10,2013-12-10,P1D)" tid="t2" type="DATE" value="2013-12-10">tomorrow</TIMEX3>
+
+Happy to meet sometime this week.
+this week=<TIMEX3 range="(2013-12-09,2013-12-15,P1W)" tid="t1" type="DATE" value="2013-W50">this week</TIMEX3>
+
+Thank you xxxxxx, can we speak on Friday at 4pm.
+Friday at 4pm.=<TIMEX3 range="(2013-12-13-WXX-5T16:00:00.000,2013-12-13-WXX-5T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-13T16">Friday at 4pm.</TIMEX3>
+
+Please let me know if we can speak on xxxxxxxxxxxxxx next week.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+A meeting post 2 p.m. tomorrow will be better for us.
+2 p.m. tomorrow=<TIMEX3 range="(2013-12-10T14:00:00.000,2013-12-10T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-10T14:00">2 p.m. tomorrow</TIMEX3>
+
+Is it yy or yy today?
+today=<TIMEX3 range="(2013-12-09,2013-12-09,P1D)" tid="t1" type="DATE" value="2013-12-09">today</TIMEX3>
+
+I wanted to check in and see if this evening at 5pm in xxxxx xxxxx or xxxxxxxx will work with your schedules.
+this evening at 5pm=<TIMEX3 range="(,,PT1H)" tid="t1" type="TIME" value="2013-12-09T17">this evening at 5pm</TIMEX3>
+
+If you are in xxxxxxxxx this week or next, can i take you to coffee?
+this week=<TIMEX3 range="(2013-12-09,2013-12-15,P1W)" tid="t1" type="DATE" value="2013-W50">this week</TIMEX3>
+
+Confirmed for Wednesday yyyyy at 2pm.
+Wednesday=<TIMEX3 range="(2013-12-11-WXX-3,2013-12-11-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-11">Wednesday</TIMEX3>
+2pm.=<TIMEX3 range="(2013-12-09T14:00:00.000,2013-12-09T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-09T14">2pm.</TIMEX3>
+
+Are you available by phone today?
+today=<TIMEX3 range="(2013-12-09,2013-12-09,P1D)" tid="t1" type="DATE" value="2013-12-09">today</TIMEX3>
+
+xxxxxxx, we both can catch up around 5PM if that works for you.
+5PM=<TIMEX3 range="(2013-12-09T17:00:00.000,2013-12-09T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-09T17">5PM</TIMEX3>
+
+What is your availability tomorrow morning?
+tomorrow morning=<TIMEX3 range="(2013-12-10T06:00:00.000,2013-12-10T12:00,PT6H)" tid="t1" type="TIME" value="2013-12-10TMO">tomorrow morning</TIMEX3>
+
+Let us discuss after my return next week.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+Let''s chat today as you suggest
+today=<TIMEX3 range="(2013-12-09,2013-12-09,P1D)" tid="t1" type="DATE" value="2013-12-09">today</TIMEX3>
+
+Can we meet in xxxxxx on Thursday?
+Thursday=<TIMEX3 range="(2013-12-12-WXX-4,2013-12-12-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-12">Thursday</TIMEX3>
+
+Can we move the meeting to 2pm and keep it open ended?
+2pm=<TIMEX3 range="(2013-12-10T14:00:00.000,2013-12-10T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-10T14">2pm</TIMEX3>
+
+Does Thursday 10 am or anytime after 4pm work for you?
+Thursday 10 am=<TIMEX3 range="(2013-12-12-WXX-4T10:00:00.000,2013-12-12-WXX-4T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-12T10:00">Thursday 10 am</TIMEX3>
+4pm=<TIMEX3 range="(2013-12-10T16:00:00.000,2013-12-10T16:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-10T16">4pm</TIMEX3>
+
+May I suggest in the afternoon, say 1pm?
+May=<TIMEX3 range="(2014-05-01,2014-05-31,P1M)" tid="t1" type="DATE" value="2014-05">May</TIMEX3>
+afternoon=<TIMEX3 range="(2013-12-10T12:00:00.000,2013-12-10T18,PT6H)" tid="t2" type="TIME" value="2013-12-10TAF">afternoon</TIMEX3>
+1pm=<TIMEX3 range="(2013-12-10T13:00:00.000,2013-12-10T13:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-12-10T13">1pm</TIMEX3>
+
+This Friday will work.
+This Friday=<TIMEX3 range="(2013-12-13-WXX-5,2013-12-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-13">This Friday</TIMEX3>
+
+- Friday yyyyy at 2:30pm in xxxx xxxx
+Friday=<TIMEX3 range="(2013-12-13-WXX-5,2013-12-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-13">Friday</TIMEX3>
+2:30pm=<TIMEX3 range="(2013-12-10T14:30:00.000,2013-12-10T14:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-10T14:30">2:30pm</TIMEX3>
+
+Will take the 3pm slot
+3pm=<TIMEX3 range="(2013-12-10T15:00:00.000,2013-12-10T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-10T15">3pm</TIMEX3>
+
+xxxxxxx would like to know if xxxxx and team are avail for lunch - from 12N - 1pm on Friday.
+1pm on Friday=<TIMEX3 range="(2013-12-13-WXX-5T13:00:00.000,2013-12-13-WXX-5T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-13T13">1pm on Friday</TIMEX3>
+
+I think lets meet today if possible.
+today=<TIMEX3 range="(2013-12-10,2013-12-10,P1D)" tid="t1" type="DATE" value="2013-12-10">today</TIMEX3>
+
+We can meet at 9am tomorrow.
+9am tomorrow=<TIMEX3 range="(2013-12-11T09:00:00.000,2013-12-11T09:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-11T09">9am tomorrow</TIMEX3>
+
+Can I speak to him perhaps tomorrow morning on phone?
+tomorrow morning=<TIMEX3 range="(2013-12-11T06:00:00.000,2013-12-11T12:00,PT6H)" tid="t1" type="TIME" value="2013-12-11TMO">tomorrow morning</TIMEX3>
+
+We can meet on Friday or next week.
+Friday=<TIMEX3 range="(2013-12-13-WXX-5,2013-12-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-13">Friday</TIMEX3>
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t2" type="DATE" value="2013-W51">next week</TIMEX3>
+
+Will call u tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-11,2013-12-11,P1D)" tid="t1" type="DATE" value="2013-12-11">tomorrow</TIMEX3>
+
+Sure, we could speak during next week.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+What about yyyyy AM on Tuesday ?
+Tuesday=<TIMEX3 range="(2013-12-17-WXX-2,2013-12-17-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-17">Tuesday</TIMEX3>
+
+He is available on Friday after 5:00 pm.
+Friday=<TIMEX3 range="(2013-12-13-WXX-5,2013-12-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-13">Friday</TIMEX3>
+5:00 pm=<TIMEX3 range="(2013-12-11T17:00:00.000,2013-12-11T17:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-11T17:00">5:00 pm</TIMEX3>
+
+We can meet tomorrow or Monday around 2:00 near xx city or near Indian express junction.
+tomorrow=<TIMEX3 range="(2013-12-12,2013-12-12,P1D)" tid="t1" type="DATE" value="2013-12-12">tomorrow</TIMEX3>
+Monday=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t2" type="DATE" value="2013-12-16">Monday</TIMEX3>
+2:00=<TIMEX3 range="(2013-12-11T02:00:00.000,2013-12-11T02:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-12-11T02:00">2:00</TIMEX3>
+
+See you to tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-12,2013-12-12,P1D)" tid="t1" type="DATE" value="2013-12-12">tomorrow</TIMEX3>
+
+Will call you to discuss tomorrow morning IST
+tomorrow morning=<TIMEX3 range="(2013-12-12T06:00:00.000,2013-12-12T12:00,PT6H)" tid="t1" type="TIME" value="2013-12-12TMO">tomorrow morning</TIMEX3>
+
+We could meet there at y (On Monday)
+Monday=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-16">Monday</TIMEX3>
+
+I''ll ping you in January to grab coffee
+January=<TIMEX3 range="(2014-01-01,2014-01-31,P1M)" tid="t1" type="DATE" value="2014-01">January</TIMEX3>
+
+xxxxxxx will meet with you from 10-11am, and xxxxxxxx from 11am-noon.
+11am=<TIMEX3 range="(2013-12-11T11:00:00.000,2013-12-11T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-11T11">11am</TIMEX3>
+11am=<TIMEX3 range="(2013-12-11T11:00:00.000,2013-12-11T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-11T11">11am</TIMEX3>
+
+Monday from 10am-noon will be perfect.
+Monday=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-16">Monday</TIMEX3>
+10am=<TIMEX3 range="(2013-12-11T10:00:00.000,2013-12-11T10:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-11T10">10am</TIMEX3>
+
+Friday yyyyy from 2-3pm is perfect.
+Friday=<TIMEX3 range="(2013-12-13-WXX-5,2013-12-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-13">Friday</TIMEX3>
+3pm=<TIMEX3 range="(2013-12-11T15:00:00.000,2013-12-11T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-11T15">3pm</TIMEX3>
+
+Sure, tomorrow works for me.
+tomorrow=<TIMEX3 range="(2013-12-12,2013-12-12,P1D)" tid="t1" type="DATE" value="2013-12-12">tomorrow</TIMEX3>
+
+How is your schedule on Monday 16th?
+Monday 16th=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-16">Monday 16th</TIMEX3>
+
+Ref below mail does 18th Dec at yyyy pm works fine?
+18th Dec=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">18th Dec</TIMEX3>
+
+Can we schedule for tomorrow?
+tomorrow=<TIMEX3 range="(2013-12-12,2013-12-12,P1D)" tid="t1" type="DATE" value="2013-12-12">tomorrow</TIMEX3>
+
+xxx tomorrow
+tomorrow=<TIMEX3 range="(2013-12-12,2013-12-12,P1D)" tid="t1" type="DATE" value="2013-12-12">tomorrow</TIMEX3>
+
+I will cal you during the first half tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-12,2013-12-12,P1D)" tid="t1" type="DATE" value="2013-12-12">tomorrow</TIMEX3>
+
+let''s try and meet next week
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+I ll catch up tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-13,2013-12-13,P1D)" tid="t1" type="DATE" value="2013-12-13">tomorrow</TIMEX3>
+
+Lets sit on this today and decide the next steps at 5:30p.m.
+this today=<TIMEX3 range="(2013-12-12,2013-12-12,P1D)" tid="t1" type="DATE" value="2013-12-12">this today</TIMEX3>
+5:30p.m.=<TIMEX3 range="(2013-12-12T17:30:00.000,2013-12-12T17:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-12T17:30">5:30p.m.</TIMEX3>
+
+Can we talk next Tuesday at 10am?
+next Tuesday at 10am=<TIMEX3 range="(2013-12-17-WXX-2T10:00:00.000,2013-12-17-WXX-2T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-17T10">next Tuesday at 10am</TIMEX3>
+
+Or will call you tomorrow post lunch!
+tomorrow=<TIMEX3 range="(2013-12-13,2013-12-13,P1D)" tid="t1" type="DATE" value="2013-12-13">tomorrow</TIMEX3>
+
+Sure we could do lunch on Sunday.
+Sunday=<TIMEX3 range="(2013-12-15-WXX-7,2013-12-15-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-15">Sunday</TIMEX3>
+
+Will call tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-13,2013-12-13,P1D)" tid="t1" type="DATE" value="2013-12-13">tomorrow</TIMEX3>
+
+xxxxx is away starting Saturday... If xxxxxxx cannot make lunch, can he meet just before or just after lunch?
+Saturday=<TIMEX3 range="(2013-12-14-WXX-6,2013-12-14-WXX-6,P1D)" tid="t1" type="DATE" value="2013-12-14">Saturday</TIMEX3>
+
+Lets try to connect next Monday instead.
+next Monday=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-16">next Monday</TIMEX3>
+
+....anytime after Tuesday works.
+Tuesday=<TIMEX3 range="(2013-12-17-WXX-2,2013-12-17-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-17">Tuesday</TIMEX3>
+
+I will call you next week.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+Let me know if I can schedule him for Monday or else let me know the other time slots.
+Monday=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-16">Monday</TIMEX3>
+
+I''m available 2:30-4pm PST
+2:30=<TIMEX3 range="(2013-12-13T02:30:00.000,2013-12-13T02:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-13T02:30">2:30</TIMEX3>
+4pm=<TIMEX3 range="(2013-12-13T16:00:00.000,2013-12-13T16:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-13T16">4pm</TIMEX3>
+
+Can we talk sometime tomorrow in detail on this.
+tomorrow=<TIMEX3 range="(2013-12-14,2013-12-14,P1D)" tid="t1" type="DATE" value="2013-12-14">tomorrow</TIMEX3>
+
+If u r having training, will do on Sunday ok hi hi hi lcs
+Sunday=<TIMEX3 range="(2013-12-15-WXX-7,2013-12-15-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-15">Sunday</TIMEX3>
+
+NO issues xxxxxxx - we can talk to him next week.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+He suggested somewhere on xxxxxxxxxx xxxxxx for coffee from y - 3pm PT.
+3pm=<TIMEX3 range="(2013-12-13T15:00:00.000,2013-12-13T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-13T15">3pm</TIMEX3>
+
+At 6pm or 6:30pm?
+6pm=<TIMEX3 range="(2013-12-13T18:00:00.000,2013-12-13T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-13T18">6pm</TIMEX3>
+6:30pm=<TIMEX3 range="(2013-12-13T18:30:00.000,2013-12-13T18:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-13T18:30">6:30pm</TIMEX3>
+
+Confirmed for 2pm today.
+2pm today=<TIMEX3 range="(2013-12-13T14:00:00.000,2013-12-13T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-13T14">2pm today</TIMEX3>
+
+xxxxxx, worth talking to this weekend if possible?
+this weekend=<TIMEX3 range="(2013-12-14,2013-12-15,P2D)" tid="t1" type="DATE" value="2013-W50-WE">this weekend</TIMEX3>
+
+Perhaps we can chat next week or in the xxx Year as per your convenience.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+Year=<TIMEX3 range="(,,P1Y)" tid="t2" type="DURATION" value="P1Y">Year</TIMEX3>
+
+xxxxxxxx, next week should be fine.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+See u at yy noon on Tuesday
+noon on Tuesday=<TIMEX3 range="(2013-12-10-WXX-2T12:00:00.000,2013-12-10-WXX-2T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-10T12:00">noon on Tuesday</TIMEX3>
+
+See you on Monday.
+Monday=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-16">Monday</TIMEX3>
+
+Please install the two apps next week and let us discuss how our app is better.
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+Can we schedule her for next week?
+next week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">next week</TIMEX3>
+
+Can we record on Tuesday morning when I am at Panvel yyyy AM?
+Tuesday morning=<TIMEX3 range="(2013-12-10-WXX-2T06:00:00.000,2013-12-10-WXX-2T12:00,PT6H)" tid="t1" type="TIME" value="2013-12-10TMO">Tuesday morning</TIMEX3>
+
+We can tentatively plan to travel on Wednesday?
+Wednesday=<TIMEX3 range="(2013-12-18-WXX-3,2013-12-18-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-18">Wednesday</TIMEX3>
+
+I shall speak to xxxxxx tomorrow evening and get you the best mode to connect with him.
+tomorrow evening=<TIMEX3 range="(2013-12-16T18:00:00.000,2013-12-16T20,PT2H)" tid="t1" type="TIME" value="2013-12-16TEV">tomorrow evening</TIMEX3>
+
+How about Tuesday?
+about Tuesday=<TIMEX3 range="(2013-12-17-WXX-2,2013-12-17-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-17">about Tuesday</TIMEX3>
+
+Could we touch base briefly today after the sessions?
+today=<TIMEX3 range="(2013-12-15,2013-12-15,P1D)" tid="t1" type="DATE" value="2013-12-15">today</TIMEX3>
+
+Let''s plan on meeting today to work on xxxxxxxxxxx''s websit
+today=<TIMEX3 range="(2013-12-15,2013-12-15,P1D)" tid="t1" type="DATE" value="2013-12-15">today</TIMEX3>
+
+Dear xxxxxx xxxx tomorrow 3.00pm be ok with you Regards xxxxxxxx
+tomorrow 3.00pm=<TIMEX3 range="(2013-12-16T12:00:00.000,2013-12-16T12:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-16T12">tomorrow 3.00pm</TIMEX3>
+
+Can you please confirm if Thursday 6 PM xxx works for you?
+Thursday 6 PM=<TIMEX3 range="(2013-12-12-WXX-4T18:00:00.000,2013-12-12-WXX-4T18:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-12T18:00">Thursday 6 PM</TIMEX3>
+
+Let me know if yy yy AM tomorrow works for all of you.
+tomorrow=<TIMEX3 range="(2013-12-16,2013-12-16,P1D)" tid="t1" type="DATE" value="2013-12-16">tomorrow</TIMEX3>
+
+Does 10am tomorrow (tuesday) work?
+10am tomorrow=<TIMEX3 range="(2013-12-16T10:00:00.000,2013-12-16T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-16T10">10am tomorrow</TIMEX3>
+tuesday=<TIMEX3 range="(2013-12-17-WXX-2,2013-12-17-WXX-2,P1D)" tid="t2" type="DATE" value="2013-12-17">tuesday</TIMEX3>
+
+Talk to you tomorrow (Tuesday).
+tomorrow=<TIMEX3 range="(2013-12-16,2013-12-16,P1D)" tid="t1" type="DATE" value="2013-12-16">tomorrow</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-12-17-WXX-2,2013-12-17-WXX-2,P1D)" tid="t2" type="DATE" value="2013-12-17">Tuesday</TIMEX3>
+
+we could meet on wednesday.
+wednesday=<TIMEX3 range="(2013-12-18-WXX-3,2013-12-18-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-18">wednesday</TIMEX3>
+
+xx, so 2-3:30 PM tomorrow.
+3:30 PM tomorrow=<TIMEX3 range="(2013-12-17T15:30:00.000,2013-12-17T15:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-17T15:30">3:30 PM tomorrow</TIMEX3>
+
+We shall meet xxxxxx at xxxxxx office at yyyy today.
+today=<TIMEX3 range="(2013-12-16,2013-12-16,P1D)" tid="t1" type="DATE" value="2013-12-16">today</TIMEX3>
+
+xxx, they are based in HSR, so you may want to plan your visit tomorrow and meet them if possible since you are going to be here in the area.
+tomorrow=<TIMEX3 range="(2013-12-17,2013-12-17,P1D)" tid="t1" type="DATE" value="2013-12-17">tomorrow</TIMEX3>
+
+Lets anyway catch up next week when you are back in blr.
+next week=<TIMEX3 range="(2013-12-23,2013-12-29,P1W)" tid="t1" type="DATE" value="2013-W52">next week</TIMEX3>
+
+Monday anytime between 10am and noon works for me, just call.
+Monday=<TIMEX3 range="(2013-12-16-WXX-1,2013-12-16-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-16">Monday</TIMEX3>
+10am=<TIMEX3 range="(2013-12-16T10:00:00.000,2013-12-16T10:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-16T10">10am</TIMEX3>
+noon=<TIMEX3 range="(2013-12-16T12:00:00.000,2013-12-16T12:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-12-16T12:00">noon</TIMEX3>
+
+Can we connect tomorrow anytime between 1:30 pm to 8 pm.
+tomorrow=<TIMEX3 range="(2013-12-17,2013-12-17,P1D)" tid="t1" type="DATE" value="2013-12-17">tomorrow</TIMEX3>
+1:30 pm to 8 pm=<TIMEX3 beginPoint="t2" endPoint="t3" range="(T13:30,T20:00,PT6H30M)" tid="t4" type="DURATION" value="PT6H30M">1:30 pm to 8 pm</TIMEX3>
+
+Ohh ok xxxxx, sure lets meet next week.
+next week=<TIMEX3 range="(2013-12-23,2013-12-29,P1W)" tid="t1" type="DATE" value="2013-W52">next week</TIMEX3>
+
+xxxxxx, what time are you free tomorrow?
+tomorrow=<TIMEX3 range="(2013-12-17,2013-12-17,P1D)" tid="t1" type="DATE" value="2013-12-17">tomorrow</TIMEX3>
+
+Let''s meet over the weekend
+the weekend=<TIMEX3 range="(2013-12-21,2013-12-22,P2D)" tid="t1" type="DATE" value="2013-W51-WE">the weekend</TIMEX3>
+
+Please let me know your availability this week or early next week.
+this week=<TIMEX3 range="(2013-12-16,2013-12-22,P1W)" tid="t1" type="DATE" value="2013-W51">this week</TIMEX3>
+early next week=<TIMEX3 mod="EARLY" range="(2013-12-23,2013-12-29,P1W)" tid="t2" type="DATE" value="2013-W52">early next week</TIMEX3>
+
+Thank you xxxxx, please let me know if we can talk tomorrow or Thursday.
+tomorrow=<TIMEX3 range="(2013-12-17,2013-12-17,P1D)" tid="t1" type="DATE" value="2013-12-17">tomorrow</TIMEX3>
+Thursday=<TIMEX3 range="(2013-12-19-WXX-4,2013-12-19-WXX-4,P1D)" tid="t2" type="DATE" value="2013-12-19">Thursday</TIMEX3>
+
+Are you available for lunch/coffee today?
+today=<TIMEX3 range="(2013-12-16,2013-12-16,P1D)" tid="t1" type="DATE" value="2013-12-16">today</TIMEX3>
+
+xxxxx we have this meeting tomorrow same time?
+tomorrow=<TIMEX3 range="(2013-12-17,2013-12-17,P1D)" tid="t1" type="DATE" value="2013-12-17">tomorrow</TIMEX3>
+
+Call me anytime today.
+today=<TIMEX3 range="(2013-12-16,2013-12-16,P1D)" tid="t1" type="DATE" value="2013-12-16">today</TIMEX3>
+
+We can discuss it at length tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-17,2013-12-17,P1D)" tid="t1" type="DATE" value="2013-12-17">tomorrow</TIMEX3>
+
+xxxxx we speak on Friday?
+Friday=<TIMEX3 range="(2013-12-13-WXX-5,2013-12-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-13">Friday</TIMEX3>
+
+Let me know if I can schedule him for Thursday or else let me know the other time slots.
+Thursday=<TIMEX3 range="(2013-12-19-WXX-4,2013-12-19-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-19">Thursday</TIMEX3>
+
+xxxxxxx is available on Thursday (19-Dec-13) x10 AM to attend the interview at xxxxx.
+Thursday=<TIMEX3 range="(2013-12-19-WXX-4,2013-12-19-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-19">Thursday</TIMEX3>
+10 AM=<TIMEX3 range="(2013-12-16T10:00:00.000,2013-12-16T10:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-16T10:00">10 AM</TIMEX3>
+
+Ok sir, pl come tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">tomorrow</TIMEX3>
+
+I will look at the set and we can discuss tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">tomorrow</TIMEX3>
+
+Sure, Thursday 3 PM is fine.
+Thursday 3 PM=<TIMEX3 range="(2013-12-19-WXX-4T15:00:00.000,2013-12-19-WXX-4T15:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-19T15:00">Thursday 3 PM</TIMEX3>
+
+We can meet on Fri or Sat?
+Fri=<TIMEX3 range="(2013-12-20-WXX-5,2013-12-20-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-20">Fri</TIMEX3>
+Sat=<TIMEX3 range="(2013-12-14-WXX-6,2013-12-14-WXX-6,P1D)" tid="t2" type="DATE" value="2013-12-14">Sat</TIMEX3>
+
+Monday, 4:30PM?
+Monday, 4:30PM=<TIMEX3 range="(2013-12-16-WXX-1T16:30:00.000,2013-12-16-WXX-1T16:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-16T16:30">Monday, 4:30PM</TIMEX3>
+
+Sure, I will call you then between y & y tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">tomorrow</TIMEX3>
+
+Do you want to meet there at 12:00 tomorrow?
+12:00 tomorrow=<TIMEX3 range="(2013-12-18T12:00:00.000,2013-12-18T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-18T12:00">12:00 tomorrow</TIMEX3>
+
+Will need your help to set up our next meeting after Jan 12, 2014.
+Jan 12, 2014=<TIMEX3 range="(2014-01-12,2014-01-12,P1D)" tid="t1" type="DATE" value="2014-01-12">Jan 12, 2014</TIMEX3>
+
+If the emails are not helping, lets talk over xxxxx tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">tomorrow</TIMEX3>
+
+Will meet around Jan 15 for xxxxxxxx and take discussion forward.
+Jan 15=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t1" type="DATE" value="2014-01-15">Jan 15</TIMEX3>
+
+Pl call me on friday this week.
+friday this week=<TIMEX3 range="(2013-12-20-W51-5,2013-12-20-W51-5,P1D)" tid="t1" type="DATE" value="2013-12-20">friday this week</TIMEX3>
+
+We will meet you on Saturday 21st in the afternoon in xxxxxxxxxxx.
+Saturday 21st=<TIMEX3 range="(2013-12-21-WXX-6,2013-12-21-WXX-6,P1D)" tid="t1" type="DATE" value="2013-12-21">Saturday 21st</TIMEX3>
+afternoon=<TIMEX3 range="(2013-12-17T12:00:00.000,2013-12-17T18,PT6H)" tid="t2" type="TIME" value="2013-12-17TAF">afternoon</TIMEX3>
+
+xxxx has agreed to connect at 9:00 am xxx Thursday to discuss.
+9:00 am=<TIMEX3 range="(2013-12-17T09:00:00.000,2013-12-17T09:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-17T09:00">9:00 am</TIMEX3>
+Thursday=<TIMEX3 range="(2013-12-19-WXX-4,2013-12-19-WXX-4,P1D)" tid="t2" type="DATE" value="2013-12-19">Thursday</TIMEX3>
+
+Confirmed for Wednesday yyy at 1:30pm here:
+Wednesday=<TIMEX3 range="(2013-12-18-WXX-3,2013-12-18-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-18">Wednesday</TIMEX3>
+1:30pm=<TIMEX3 range="(2013-12-17T13:30:00.000,2013-12-17T13:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-17T13:30">1:30pm</TIMEX3>
+
+10am works for you?
+10am=<TIMEX3 range="(2013-12-17T10:00:00.000,2013-12-17T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-17T10">10am</TIMEX3>
+
+I will see you x3pm tomorrow.
+3pm tomorrow=<TIMEX3 range="(2013-12-18T15:00:00.000,2013-12-18T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-18T15">3pm tomorrow</TIMEX3>
+
+Could we talk next Monday at 0230pm?
+next Monday at 0230pm=<TIMEX3 range="(2013-12-23-WXX-1T14:30:00.000,2013-12-23-WXX-1T14:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-23T14:30">next Monday at 0230pm</TIMEX3>
+
+I talked to him today evening, he is keen and wanted to meet both of us tomorrow to understand more on the project/network domain.
+today evening=<TIMEX3 range="(2013-12-17T18:00:00.000,2013-12-17T20,PT2H)" tid="t1" type="TIME" value="2013-12-17TEV">today evening</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t2" type="DATE" value="2013-12-18">tomorrow</TIMEX3>
+
+xxxxxxx, in that case we can do the call on Tuesday (24th dec) at 1030AM.
+Tuesday=<TIMEX3 range="(2013-12-17-WXX-2,2013-12-17-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-17">Tuesday</TIMEX3>
+24th dec=<TIMEX3 range="(2013-12-24,2013-12-24,P1D)" tid="t2" type="DATE" value="2013-12-24">24th dec</TIMEX3>
+1030AM.=<TIMEX3 range="(2013-12-17T10:30:00.000,2013-12-17T10:30:59.999,PT1M)" tid="t3" type="TIME" value="2013-12-17T10:30">1030AM.</TIMEX3>
+
+Sure understand, lets catch up in Jan
+Jan=<TIMEX3 range="(2014-01-01,2014-01-31,P1M)" tid="t1" type="DATE" value="2014-01">Jan</TIMEX3>
+
+As discussed on phone tomorrow 6pm is fine for me.
+tomorrow 6pm=<TIMEX3 range="(2013-12-18T18:00:00.000,2013-12-18T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-18T18">tomorrow 6pm</TIMEX3>
+
+xxxxxx, Thursday night will be OK with me.
+Thursday night=<TIMEX3 range="(2013-12-19-WXX-4T19:00:00.000,2013-12-19-WXX-4T05,PT-14H)" tid="t1" type="TIME" value="2013-12-19TNI">Thursday night</TIMEX3>
+
+May x also schedule another meeting towards the end of January?
+May=<TIMEX3 range="(2014-05-01,2014-05-31,P1M)" tid="t1" type="DATE" value="2014-05">May</TIMEX3>
+the end of January=<TIMEX3 mod="LATE" range="(2014-01-01,2014-01-31,P1M)" tid="t2" type="DATE" value="2014-01">the end of January</TIMEX3>
+
+Thanks xxxxxxx xxxxxxx I will be there tomorrow and would love to connect.
+tomorrow=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">tomorrow</TIMEX3>
+
+Monday x 12pm works fine for me.
+Monday=<TIMEX3 range="(2013-12-23-WXX-1,2013-12-23-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-23">Monday</TIMEX3>
+12pm=<TIMEX3 range="(2013-12-17T12:00:00.000,2013-12-17T12:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-17T12">12pm</TIMEX3>
+
+Please let me know if we can talk next Tuesday (dec 24) at 1130am.
+next Tuesday=<TIMEX3 range="(2013-12-24-WXX-2,2013-12-24-WXX-2,P1D)" tid="t1" type="DATE" value="2013-12-24">next Tuesday</TIMEX3>
+dec 24=<TIMEX3 range="(2013-12-24,2013-12-24,P1D)" tid="t2" type="DATE" value="2013-12-24">dec 24</TIMEX3>
+1130am.=<TIMEX3 range="(2013-12-18T11:30:00.000,2013-12-18T11:30:59.999,PT1M)" tid="t3" type="TIME" value="2013-12-18T11:30">1130am.</TIMEX3>
+
+xxxx to see you sometime tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-19,2013-12-19,P1D)" tid="t1" type="DATE" value="2013-12-19">tomorrow</TIMEX3>
+
+Can I request to reschedule Thursday sales call to Friday?
+Thursday=<TIMEX3 range="(2013-12-19-WXX-4,2013-12-19-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-19">Thursday</TIMEX3>
+Friday=<TIMEX3 range="(2013-12-20-WXX-5,2013-12-20-WXX-5,P1D)" tid="t2" type="DATE" value="2013-12-20">Friday</TIMEX3>
+
+Friday is fine with me.
+Friday=<TIMEX3 range="(2013-12-20-WXX-5,2013-12-20-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-20">Friday</TIMEX3>
+
+This is confirmed for yyyy pm today IST /yyyyy am xxx.
+today=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">today</TIMEX3>
+
+I will call you when I land in xxxxxxxxx tomorrow and we can work out the logistics.
+tomorrow=<TIMEX3 range="(2013-12-19,2013-12-19,P1D)" tid="t1" type="DATE" value="2013-12-19">tomorrow</TIMEX3>
+
+Thursday evening anytime after five works for me.
+Thursday evening=<TIMEX3 range="(2013-12-19-WXX-4T18:00:00.000,2013-12-19-WXX-4T20,PT2H)" tid="t1" type="TIME" value="2013-12-19TEV">Thursday evening</TIMEX3>
+
+I can schedule this interview for Friday second half 3pm or 4pm, Please let me know if that is fine.
+Friday second=<TIMEX3 range="(2014-01-02-WXX-5,2014-01-02-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-02">Friday second</TIMEX3>
+3pm=<TIMEX3 range="(2013-12-18T15:00:00.000,2013-12-18T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-18T15">3pm</TIMEX3>
+4pm=<TIMEX3 range="(2013-12-18T16:00:00.000,2013-12-18T16:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-12-18T16">4pm</TIMEX3>
+
+xxxx is currently travelling and he will be available on Friday xx pacific time.
+currently=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">currently</TIMEX3>
+Friday=<TIMEX3 range="(2013-12-20-WXX-5,2013-12-20-WXX-5,P1D)" tid="t2" type="DATE" value="2013-12-20">Friday</TIMEX3>
+
+It turns out that the date that works best for almost everyone is Friday, January 17th.
+Friday, January 17th=<TIMEX3 range="(2014-01-17-WXX-5,2014-01-17-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-17">Friday, January 17th</TIMEX3>
+
+xxxxx ��� trying to fix today at yyyy pm
+today=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t1" type="DATE" value="2013-12-18">today</TIMEX3>
+
+I am fine for the second round of meeting anytime between Jan 20, 2014 and Jan 25.
+Jan 20, 2014=<TIMEX3 range="(2014-01-20,2014-01-20,P1D)" tid="t1" type="DATE" value="2014-01-20">Jan 20, 2014</TIMEX3>
+Jan 25=<TIMEX3 range="(2014-01-25,2014-01-25,P1D)" tid="t2" type="DATE" value="2014-01-25">Jan 25</TIMEX3>
+
+Resending the invite for yyyy am EST (xxxxx)/yyyy pm IST (today for us)
+Thurs=<TIMEX3 periodicity="P1W" tid="t1" type="SET" value="XXXX-WXX-4">Thurs</TIMEX3>
+today=<TIMEX3 range="(2013-12-18,2013-12-18,P1D)" tid="t2" type="DATE" value="2013-12-18">today</TIMEX3>
+
+If require we can connect tomorrow 2nd half for discussion.
+tomorrow=<TIMEX3 range="(2013-12-19,2013-12-19,P1D)" tid="t1" type="DATE" value="2013-12-19">tomorrow</TIMEX3>
+
+I am available today or tomorrow if you would like to talk.
+today=<TIMEX3 range="(2013-12-19,2013-12-19,P1D)" tid="t1" type="DATE" value="2013-12-19">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-12-20,2013-12-20,P1D)" tid="t2" type="DATE" value="2013-12-20">tomorrow</TIMEX3>
+
+See you next Wednesday then!
+next Wednesday=<TIMEX3 range="(2013-12-25-WXX-3,2013-12-25-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-25">next Wednesday</TIMEX3>
+
+Let''s catch up next wednesday then
+next wednesday=<TIMEX3 range="(2013-12-25-WXX-3,2013-12-25-WXX-3,P1D)" tid="t1" type="DATE" value="2013-12-25">next wednesday</TIMEX3>
+
+Saturday morning 11 a.m. is fine for me.
+Saturday morning 11 a.m.=<TIMEX3 range="(,,PT1M)" tid="t1" type="TIME" value="2013-12-21T11:00">Saturday morning 11 a.m.</TIMEX3>
+
+Can we meet Sunday afternoon, say 2pm EST?
+Sunday afternoon=<TIMEX3 range="(2013-12-22-WXX-7T12:00:00.000,2013-12-22-WXX-7T18,PT6H)" tid="t1" type="TIME" value="2013-12-22TAF">Sunday afternoon</TIMEX3>
+2pm=<TIMEX3 range="(2013-12-19T14:00:00.000,2013-12-19T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-19T14">2pm</TIMEX3>
+
+Looking forward to see you all tomorrow!
+tomorrow=<TIMEX3 range="(2013-12-20,2013-12-20,P1D)" tid="t1" type="DATE" value="2013-12-20">tomorrow</TIMEX3>
+
+Anyways lets talk on Monday.
+Monday=<TIMEX3 range="(2013-12-23-WXX-1,2013-12-23-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-23">Monday</TIMEX3>
+
+As discussed ��� call confirmed for today yyyyy pm IST/8yyy am PST (Friday).
+today=<TIMEX3 range="(2013-12-19,2013-12-19,P1D)" tid="t1" type="DATE" value="2013-12-19">today</TIMEX3>
+Friday=<TIMEX3 range="(2013-12-20-WXX-5,2013-12-20-WXX-5,P1D)" tid="t2" type="DATE" value="2013-12-20">Friday</TIMEX3>
+
+I will dial in at yyyy AM xxx Friday
+Friday=<TIMEX3 range="(2013-12-20-WXX-5,2013-12-20-WXX-5,P1D)" tid="t1" type="DATE" value="2013-12-20">Friday</TIMEX3>
+
+Please try to connect on Sunday or Monday in xxxxxxx based on your convenience.
+Sunday=<TIMEX3 range="(2013-12-22-WXX-7,2013-12-22-WXX-7,P1D)" tid="t1" type="DATE" value="2013-12-22">Sunday</TIMEX3>
+Monday=<TIMEX3 range="(2013-12-23-WXX-1,2013-12-23-WXX-1,P1D)" tid="t2" type="DATE" value="2013-12-23">Monday</TIMEX3>
+
+Please let me know if we can connect on Monday.
+Monday=<TIMEX3 range="(2013-12-23-WXX-1,2013-12-23-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-23">Monday</TIMEX3>
+
+shd we debrief over the weekend - ?
+the weekend=<TIMEX3 range="(2013-12-21,2013-12-22,P2D)" tid="t1" type="DATE" value="2013-W51-WE">the weekend</TIMEX3>
+
+Do you want to catch up next week sometime?
+next week=<TIMEX3 range="(2013-12-23,2013-12-29,P1W)" tid="t1" type="DATE" value="2013-W52">next week</TIMEX3>
+
+Can we touch base next week?
+next week=<TIMEX3 range="(2013-12-23,2013-12-29,P1W)" tid="t1" type="DATE" value="2013-W52">next week</TIMEX3>
+
+xxxx xxx xxx on Tuesday work for you?
+9am=<TIMEX3 range="(2013-12-20T09:00:00.000,2013-12-20T09:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-20T09">9am</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-12-24-WXX-2,2013-12-24-WXX-2,P1D)" tid="t2" type="DATE" value="2013-12-24">Tuesday</TIMEX3>
+
+Looking forward to meet you on Monday.
+Monday=<TIMEX3 range="(2013-12-23-WXX-1,2013-12-23-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-23">Monday</TIMEX3>
+
+See you today.
+today=<TIMEX3 range="(2013-12-20,2013-12-20,P1D)" tid="t1" type="DATE" value="2013-12-20">today</TIMEX3>
+
+How does your availability look for next week?
+next week=<TIMEX3 range="(2013-12-23,2013-12-29,P1W)" tid="t1" type="DATE" value="2013-W52">next week</TIMEX3>
+
+Available Mon/Tue after 6pm or Wed morning(xxxxxxxxx day).
+6pm=<TIMEX3 range="(2013-12-20T18:00:00.000,2013-12-20T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-20T18">6pm</TIMEX3>
+Wed morning=<TIMEX3 range="(2013-12-18-WXX-3T06:00:00.000,2013-12-18-WXX-3T12:00,PT6H)" tid="t2" type="TIME" value="2013-12-18TMO">Wed morning</TIMEX3>
+day=<TIMEX3 range="(,,P1D)" tid="t3" type="DURATION" value="P1D">day</TIMEX3>
+
+Monday second half works for me.
+Monday second=<TIMEX3 range="(2014-01-02-WXX-1,2014-01-02-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-02">Monday second</TIMEX3>
+
+We can meet up today.
+today=<TIMEX3 range="(2013-12-21,2013-12-21,P1D)" tid="t1" type="DATE" value="2013-12-21">today</TIMEX3>
+
+xxxxxxx - see you tomorrow
+tomorrow=<TIMEX3 range="(2013-12-23,2013-12-23,P1D)" tid="t1" type="DATE" value="2013-12-23">tomorrow</TIMEX3>
+
+Can we meet at 11am?
+11am=<TIMEX3 range="(2013-12-22T11:00:00.000,2013-12-22T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-22T11">11am</TIMEX3>
+
+Can you please let me know if this location is fine for meeting xxx tomorrow at 4 PM.
+tomorrow at 4 PM=<TIMEX3 range="(2013-12-23T16:00:00.000,2013-12-23T16:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-23T16:00">tomorrow at 4 PM</TIMEX3>
+
+Let''s keep it after 10pm
+10pm=<TIMEX3 range="(2013-12-23T22:00:00.000,2013-12-23T22:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-23T22">10pm</TIMEX3>
+
+Can we do y or 6pm?
+6pm=<TIMEX3 range="(2013-12-23T18:00:00.000,2013-12-23T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-23T18">6pm</TIMEX3>
+
+Tomorrow we will have the call.
+Tomorrow=<TIMEX3 range="(2013-12-24,2013-12-24,P1D)" tid="t1" type="DATE" value="2013-12-24">Tomorrow</TIMEX3>
+
+I''m meeting Girish tomorrow afternoon at 3:30 PM so will meet you immediately after that in your office
+tomorrow afternoon at 3:30=<TIMEX3 range="(2013-12-24T03:30:00.000,2013-12-24T03:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-24T03:30">tomorrow afternoon at 3:30</TIMEX3>
+
+- y xxxxx xxxxxxxxx for tomorrow.
+tomorrow=<TIMEX3 range="(2013-12-24,2013-12-24,P1D)" tid="t1" type="DATE" value="2013-12-24">tomorrow</TIMEX3>
+
+Meeting is tomorrow morning.
+tomorrow morning=<TIMEX3 range="(2013-12-24T06:00:00.000,2013-12-24T12:00,PT6H)" tid="t1" type="TIME" value="2013-12-24TMO">tomorrow morning</TIMEX3>
+
+After 5pm?
+5pm=<TIMEX3 range="(2013-12-23T17:00:00.000,2013-12-23T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-23T17">5pm</TIMEX3>
+
+So, today would work best.
+today=<TIMEX3 range="(2013-12-23,2013-12-23,P1D)" tid="t1" type="DATE" value="2013-12-23">today</TIMEX3>
+
+Can we talk tomorrow am xxx ?
+tomorrow=<TIMEX3 range="(2013-12-25,2013-12-25,P1D)" tid="t1" type="DATE" value="2013-12-25">tomorrow</TIMEX3>
+
+Will see you on Thursday.
+Thursday=<TIMEX3 range="(2013-12-26-WXX-4,2013-12-26-WXX-4,P1D)" tid="t1" type="DATE" value="2013-12-26">Thursday</TIMEX3>
+
+Let''s talk tomorrow around 11 AM
+tomorrow=<TIMEX3 range="(2013-12-25,2013-12-25,P1D)" tid="t1" type="DATE" value="2013-12-25">tomorrow</TIMEX3>
+11 AM=<TIMEX3 range="(2013-12-24T11:00:00.000,2013-12-24T11:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-24T11:00">11 AM</TIMEX3>
+
+m. today?
+today=<TIMEX3 range="(2013-12-24,2013-12-24,P1D)" tid="t1" type="DATE" value="2013-12-24">today</TIMEX3>
+
+please let me call you in wk2 jan..
+jan=<TIMEX3 range="(2014-01-01,2014-01-31,P1M)" tid="t1" type="DATE" value="2014-01">jan</TIMEX3>
+
+Are we having the call today?
+today=<TIMEX3 range="(2013-12-24,2013-12-24,P1D)" tid="t1" type="DATE" value="2013-12-24">today</TIMEX3>
+
+I''ll be available tomorrow: 15:30 �� 22:00 (your time
+tomorrow=<TIMEX3 range="(2013-12-25,2013-12-25,P1D)" tid="t1" type="DATE" value="2013-12-25">tomorrow</TIMEX3>
+15:30=<TIMEX3 range="(2013-12-24T15:30:00.000,2013-12-24T15:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-24T15:30">15:30</TIMEX3>
+22:00=<TIMEX3 range="(2013-12-24T22:00:00.000,2013-12-24T22:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-12-24T22:00">22:00</TIMEX3>
+
+Is not, we can schedule for tomorrow at 15:30 your time?
+tomorrow at 15:30=<TIMEX3 range="(2013-12-25T15:30:00.000,2013-12-25T15:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-25T15:30">tomorrow at 15:30</TIMEX3>
+
+People working on xxxx requirement can you please meet me today?
+today=<TIMEX3 range="(2013-12-24,2013-12-24,P1D)" tid="t1" type="DATE" value="2013-12-24">today</TIMEX3>
+
+Lets do it tonight or tomorrow.
+tonight=<TIMEX3 range="(2013-12-24T19:00:00.000,2013-12-24T05,PT-14H)" tid="t1" type="TIME" value="2013-12-24TNI">tonight</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-12-25,2013-12-25,P1D)" tid="t2" type="DATE" value="2013-12-25">tomorrow</TIMEX3>
+
+Let''s meet at 11am on Sunday at xxxxxxxxxx xxx
+11am on Sunday=<TIMEX3 range="(2013-12-29-WXX-7T11:00:00.000,2013-12-29-WXX-7T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-29T11">11am on Sunday</TIMEX3>
+
+can we chat in next one hour time?
+next one hour=<TIMEX3 range="(2013-12-25TXX:00:00.000,2013-12-25TXX:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-25TXX">next one hour</TIMEX3>
+
+Lets chat tomorrow afternoon.
+tomorrow afternoon=<TIMEX3 range="(2013-12-26T12:00:00.000,2013-12-26T18,PT6H)" tid="t1" type="TIME" value="2013-12-26TAF">tomorrow afternoon</TIMEX3>
+
+Does 11pm IST work for you?
+
+I am available till 12Pm today.
+12Pm today=<TIMEX3 range="(2013-12-25T12:00:00.000,2013-12-25T12:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-25T12">12Pm today</TIMEX3>
+
+Wanted to call you this evening, but got late, so will call tomorrow :)
+this evening=<TIMEX3 range="(2013-12-25T18:00:00.000,2013-12-25T20,PT2H)" tid="t1" type="TIME" value="2013-12-25TEV">this evening</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-12-26,2013-12-26,P1D)" tid="t2" type="DATE" value="2013-12-26">tomorrow</TIMEX3>
+
+Can we have this call today or on Monday?
+today=<TIMEX3 range="(2013-12-25,2013-12-25,P1D)" tid="t1" type="DATE" value="2013-12-25">today</TIMEX3>
+Monday=<TIMEX3 range="(2013-12-30-WXX-1,2013-12-30-WXX-1,P1D)" tid="t2" type="DATE" value="2013-12-30">Monday</TIMEX3>
+
+xxxxx we meet tomorrow evening?
+tomorrow evening=<TIMEX3 range="(2013-12-27T18:00:00.000,2013-12-27T20,PT2H)" tid="t1" type="TIME" value="2013-12-27TEV">tomorrow evening</TIMEX3>
+
+Meet you guys around 11am.
+11am.=<TIMEX3 range="(2013-12-26T11:00:00.000,2013-12-26T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-26T11">11am.</TIMEX3>
+
+Will call you mid next week.
+
+Can I call you today?
+today=<TIMEX3 range="(2013-12-27,2013-12-27,P1D)" tid="t1" type="DATE" value="2013-12-27">today</TIMEX3>
+
+Any time Monday works for me too.
+Monday=<TIMEX3 range="(2013-12-30-WXX-1,2013-12-30-WXX-1,P1D)" tid="t1" type="DATE" value="2013-12-30">Monday</TIMEX3>
+
+How about y or 5pm?
+5pm=<TIMEX3 range="(2013-12-27T17:00:00.000,2013-12-27T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-27T17">5pm</TIMEX3>
+
+Can we have the call tomorrow morning?
+tomorrow morning=<TIMEX3 range="(2013-12-28T06:00:00.000,2013-12-28T12:00,PT6H)" tid="t1" type="TIME" value="2013-12-28TMO">tomorrow morning</TIMEX3>
+
+Would love to catch up on phone or skype the coming week.
+
+Can we meet 2nd half of January?
+January=<TIMEX3 range="(2014-01-01,2014-01-31,P1M)" tid="t1" type="DATE" value="2014-01">January</TIMEX3>
+
+xxxxx we meet on Tue morning instead of tom?
+Tue morning=<TIMEX3 range="(2013-12-24-WXX-2T06:00:00.000,2013-12-24-WXX-2T12:00,PT6H)" tid="t1" type="TIME" value="2013-12-24TMO">Tue morning</TIMEX3>
+
+xxxxxxxxx, ok lets do 7:30am xxx my time tomorrow morning (morning of Monday Dec 30).
+7:30am=<TIMEX3 range="(2013-12-29T07:30:00.000,2013-12-29T07:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-29T07:30">7:30am</TIMEX3>
+tomorrow morning=<TIMEX3 range="(2013-12-30T06:00:00.000,2013-12-30T12:00,PT6H)" tid="t2" type="TIME" value="2013-12-30TMO">tomorrow morning</TIMEX3>
+morning of Monday Dec 30=<TIMEX3 range="(2013-12-30-WXX-1T06:00:00.000,2013-12-30-WXX-1T12:00,PT6H)" tid="t3" type="TIME" value="2013-12-30TMO">morning of Monday Dec 30</TIMEX3>
+
+Will try to talk to you people sometime today.
+today=<TIMEX3 range="(2013-12-29,2013-12-29,P1D)" tid="t1" type="DATE" value="2013-12-29">today</TIMEX3>
+
+How about today or tomorrow 4pm?
+about today=<TIMEX3 range="(2013-12-29,2013-12-29,P1D)" tid="t1" type="DATE" value="2013-12-29">about today</TIMEX3>
+tomorrow 4pm=<TIMEX3 range="(2013-12-30T16:00:00.000,2013-12-30T16:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-12-30T16">tomorrow 4pm</TIMEX3>
+
+Does 10pm work for you?
+10pm=<TIMEX3 range="(2013-12-29T22:00:00.000,2013-12-29T22:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-12-29T22">10pm</TIMEX3>
+
+Can we meet at 3 pm on Friday?
+3 pm on Friday=<TIMEX3 range="(2013-12-27-WXX-5T15:00:00.000,2013-12-27-WXX-5T15:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-27T15:00">3 pm on Friday</TIMEX3>
+
+How about tomorrow or day after tomorrow?
+about tomorrow=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">about tomorrow</TIMEX3>
+day after tomorrow=<TIMEX3 range="(2014-01-01,2014-01-01,P1D)" tid="t2" type="DATE" value="2014-01-01">day after tomorrow</TIMEX3>
+
+Yes, I''m back and can see you tomorrow
+tomorrow=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">tomorrow</TIMEX3>
+
+Tomorrow at 11:00 AM?
+Tomorrow at 11:00 AM=<TIMEX3 range="(2013-12-31T11:00:00.000,2013-12-31T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-31T11:00">Tomorrow at 11:00 AM</TIMEX3>
+
+Talk to you on Thursday.
+Thursday=<TIMEX3 range="(2014-01-02-WXX-4,2014-01-02-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-02">Thursday</TIMEX3>
+
+We can chat today
+today=<TIMEX3 range="(2013-12-30,2013-12-30,P1D)" tid="t1" type="DATE" value="2013-12-30">today</TIMEX3>
+
+I have copied xxxxxx in this email who will be meeting you and your team tomorrow for the technical discussion.
+tomorrow=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">tomorrow</TIMEX3>
+
+xxxxxxx and I can meet you tomorrow (Tuesday) morning 10:00 AM.
+tomorrow=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">tomorrow</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-12-31-WXX-2,2013-12-31-WXX-2,P1D)" tid="t2" type="DATE" value="2013-12-31">Tuesday</TIMEX3>
+morning 10:00 AM=<TIMEX3 range="(,,PT1M)" tid="t3" type="TIME" value="2013-12-30T10:00">morning 10:00 AM</TIMEX3>
+
+If not possible, let''s try the next day
+the next day=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">the next day</TIMEX3>
+
+Feedback meeting tomorrow please > > > > ---------- Forwarded message ---------- > From: > To: xxxxxxxxxxxxxxxxxxx
+tomorrow=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">tomorrow</TIMEX3>
+
+Can we meet tomorrow, early afternoon say around 12:30 PM?
+tomorrow, early afternoon=<TIMEX3 range="(2013-12-31T12:00:00.000,2013-12-31T18,PT6H)" tid="t1" type="TIME" value="2013-12-31TAF">tomorrow, early afternoon</TIMEX3>
+12:30 PM=<TIMEX3 range="(2013-12-30T12:30:00.000,2013-12-30T12:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-30T12:30">12:30 PM</TIMEX3>
+
+Do you have 15 minutes available at 1:45pm or 3:45pm this Thursday, xxxx 2nd?
+15 minutes=<TIMEX3 range="(,,PT15M)" tid="t1" type="DURATION" value="PT15M">15 minutes</TIMEX3>
+1:45pm=<TIMEX3 range="(2013-12-30T13:45:00.000,2013-12-30T13:45:59.999,PT1M)" tid="t2" type="TIME" value="2013-12-30T13:45">1:45pm</TIMEX3>
+3:45pm this Thursday, Jan. 2nd=<TIMEX3 range="(2014-01-02-WXX-4T15:45:00.000,2014-01-02-WXX-4T15:45:59.999,PT1M)" tid="t3" type="TIME" value="2014-01-02T15:45">3:45pm this Thursday, Jan. 2nd</TIMEX3>
+
+Happy to talk either tomorrow midday or sometime Thu or Fri.
+tomorrow midday=<TIMEX3 range="(2013-12-31T12:00:00.000,2013-12-31T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-12-31T12:00">tomorrow midday</TIMEX3>
+Thu=<TIMEX3 range="(2014-01-02-WXX-4,2014-01-02-WXX-4,P1D)" tid="t2" type="DATE" value="2014-01-02">Thu</TIMEX3>
+
+Yes we can meet and discuss, but can we do it tomorrow (Wednesday)?
+tomorrow=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">tomorrow</TIMEX3>
+Wednesday=<TIMEX3 range="(2014-01-01-WXX-3,2014-01-01-WXX-3,P1D)" tid="t2" type="DATE" value="2014-01-01">Wednesday</TIMEX3>
+
+Otherwise we can meet next Monday (6th Jan).
+next Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">next Monday</TIMEX3>
+6th Jan=<TIMEX3 range="(2014-01-06,2014-01-06,P1D)" tid="t2" type="DATE" value="2014-01-06">6th Jan</TIMEX3>
+
+Let''s definitely catch up in January
+January=<TIMEX3 range="(2014-01-01,2014-01-31,P1M)" tid="t1" type="DATE" value="2014-01">January</TIMEX3>
+
+Can we discuss them today?
+today=<TIMEX3 range="(2013-12-30,2013-12-30,P1D)" tid="t1" type="DATE" value="2013-12-30">today</TIMEX3>
+
+I would love to catch up on Wednesday or Thursday if that''s ok
+Wednesday=<TIMEX3 range="(2014-01-01-WXX-3,2014-01-01-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-01">Wednesday</TIMEX3>
+Thursday=<TIMEX3 range="(2014-01-02-WXX-4,2014-01-02-WXX-4,P1D)" tid="t2" type="DATE" value="2014-01-02">Thursday</TIMEX3>
+
+Prabakar I spoke to xxxxx and we are meeting at yyy tomorrow morning at xxxx''s coffee
+
+Speak to you tomorrow
+tomorrow=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">tomorrow</TIMEX3>
+
+How about Thursday or Friday, xxx?
+about Thursday=<TIMEX3 range="(2014-01-02-WXX-4,2014-01-02-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-02">about Thursday</TIMEX3>
+Friday, 4PM=<TIMEX3 range="(2014-01-03-WXX-5T16:00:00.000,2014-01-03-WXX-5T16:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-03T16">Friday, 4PM</TIMEX3>
+
+Are you available today in the next couple of hrs?
+today=<TIMEX3 range="(2013-12-30,2013-12-30,P1D)" tid="t1" type="DATE" value="2013-12-30">today</TIMEX3>
+the next couple of hrs=<TIMEX3 range="(,,PT2H)" tid="t2" type="DURATION" value="PT2H">the next couple of hrs</TIMEX3>
+
+Else, we can schedule it tomorrow whenever it suits for you.
+tomorrow=<TIMEX3 range="(2014-01-01,2014-01-01,P1D)" tid="t1" type="DATE" value="2014-01-01">tomorrow</TIMEX3>
+
+m today work for you?
+today=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">today</TIMEX3>
+
+Would the 2nd Jan work for you?
+the 2nd Jan=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t1" type="DATE" value="2014-01-02">the 2nd Jan</TIMEX3>
+
+xxxxxxx lets see to that we catch up tomorrow evening for integration for sure.
+tomorrow evening=<TIMEX3 range="(2014-01-01T18:00:00.000,2014-01-01T20,PT2H)" tid="t1" type="TIME" value="2014-01-01TEV">tomorrow evening</TIMEX3>
+
+How about lunch/dinner today?
+today=<TIMEX3 range="(2013-12-31,2013-12-31,P1D)" tid="t1" type="DATE" value="2013-12-31">today</TIMEX3>
+
+See you guys on Monday :(
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+
+Also let me know when can we talk this week.
+this week=<TIMEX3 range="(2012-12-31,2013-01-06,P1W)" tid="t1" type="DATE" value="2013-W01">this week</TIMEX3>
+
+Let''s do one thing, let''s schedule it for tomorrow 4p
+tomorrow=<TIMEX3 range="(2014-01-01,2014-01-01,P1D)" tid="t1" type="DATE" value="2014-01-01">tomorrow</TIMEX3>
+
+I shall call you tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t1" type="DATE" value="2014-01-02">tomorrow</TIMEX3>
+
+We will have weekly sales call tomorrow (2nd Jan) at 10am.
+weekly=<TIMEX3 freq="P1X" periodicity="P1W" quant="EVERY" tid="t1" type="SET" value="P1W">weekly</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t2" type="DATE" value="2014-01-02">tomorrow</TIMEX3>
+2nd Jan=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t3" type="DATE" value="2014-01-02">2nd Jan</TIMEX3>
+10am.=<TIMEX3 range="(2014-01-01T10:00:00.000,2014-01-01T10:59:59.999,PT1H)" tid="t4" type="TIME" value="2014-01-01T10">10am.</TIMEX3>
+
+bhai 10:30 am hai ki 4pm ?
+10:30 am=<TIMEX3 range="(2014-01-01T10:30:00.000,2014-01-01T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-01T10:30">10:30 am</TIMEX3>
+4pm=<TIMEX3 range="(2014-01-01T16:00:00.000,2014-01-01T16:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-01T16">4pm</TIMEX3>
+
+If everyone is ok, let me book the xxx xxxxxxxxxx office room for friday morning?
+friday morning=<TIMEX3 range="(2014-01-03-WXX-5T06:00:00.000,2014-01-03-WXX-5T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-03TMO">friday morning</TIMEX3>
+
+Lets do that first thing tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t1" type="DATE" value="2014-01-02">tomorrow</TIMEX3>
+
+Friday morning at xxx foundation office at y then!
+Friday morning=<TIMEX3 range="(2014-01-03-WXX-5T06:00:00.000,2014-01-03-WXX-5T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-03TMO">Friday morning</TIMEX3>
+
+Say around 11am
+11am=<TIMEX3 range="(2014-01-01T11:00:00.000,2014-01-01T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-01T11">11am</TIMEX3>
+
+lets talk sometime on Monday?
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+
+So if we are shifting it, let us have it tomorrow at yyyyy am.
+tomorrow=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t1" type="DATE" value="2014-01-02">tomorrow</TIMEX3>
+
+We could speak tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t1" type="DATE" value="2014-01-02">tomorrow</TIMEX3>
+
+Let us have this meeting at 11:30AM tomorrow.
+11:30AM tomorrow=<TIMEX3 range="(2014-01-02T11:30:00.000,2014-01-02T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-02T11:30">11:30AM tomorrow</TIMEX3>
+
+Can we move JS automation related meeting to tomorrow 2pm, which is scheduled today at 5pm?
+tomorrow 2pm=<TIMEX3 range="(2014-01-02T14:00:00.000,2014-01-02T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-02T14">tomorrow 2pm</TIMEX3>
+today at 5pm=<TIMEX3 range="(2014-01-01T17:00:00.000,2014-01-01T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-01T17">today at 5pm</TIMEX3>
+
+Tuesday (7.1.2014) at yyyy PM
+Tuesday=<TIMEX3 range="(2014-01-07-WXX-2,2014-01-07-WXX-2,P1D)" tid="t1" type="DATE" value="2014-01-07">Tuesday</TIMEX3>
+7.1.2014=<TIMEX3 range="(2014-01-07,2014-01-07,P1D)" tid="t2" type="DATE" value="2014-01-07">7.1.2014</TIMEX3>
+
+Let''s catch up tomorrow or on Monday
+tomorrow=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t1" type="DATE" value="2014-01-03">tomorrow</TIMEX3>
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t2" type="DATE" value="2014-01-06">Monday</TIMEX3>
+
+Lets do that....11am?
+11am=<TIMEX3 range="(2014-01-02T11:00:00.000,2014-01-02T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-02T11">11am</TIMEX3>
+
+I wanted to invite you for our new year party which is scheduled for tomorrow.
+year=<TIMEX3 range="(,,P1Y)" tid="t1" type="DURATION" value="P1Y">year</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t2" type="DATE" value="2014-01-03">tomorrow</TIMEX3>
+
+5pm today works.
+5pm today=<TIMEX3 range="(2014-01-02T17:00:00.000,2014-01-02T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-02T17">5pm today</TIMEX3>
+
+As discussed, I will be available tomorrow for the call.
+tomorrow=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t1" type="DATE" value="2014-01-03">tomorrow</TIMEX3>
+
+Let''s do tomorrow afternoon
+tomorrow afternoon=<TIMEX3 range="(2014-01-03T12:00:00.000,2014-01-03T18,PT6H)" tid="t1" type="TIME" value="2014-01-03TAF">tomorrow afternoon</TIMEX3>
+
+Maybe around 1pm your time?
+1pm=<TIMEX3 range="(2014-01-02T13:00:00.000,2014-01-02T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-02T13">1pm</TIMEX3>
+
+10:30am tomorrow could work well.
+10:30am tomorrow=<TIMEX3 range="(2014-01-03T10:30:00.000,2014-01-03T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-03T10:30">10:30am tomorrow</TIMEX3>
+
+We will discuss tomorrow in office.
+tomorrow=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t1" type="DATE" value="2014-01-03">tomorrow</TIMEX3>
+
+Will you be having sometime to meet on today(Friday)?
+today=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t1" type="DATE" value="2014-01-02">today</TIMEX3>
+Friday=<TIMEX3 range="(2014-01-03-WXX-5,2014-01-03-WXX-5,P1D)" tid="t2" type="DATE" value="2014-01-03">Friday</TIMEX3>
+
+Resume mtg next week
+next week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">next week</TIMEX3>
+
+What does your calendar look like towards the later part of next week ?
+next week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">next week</TIMEX3>
+
+Pls let us know when you can meet today / tomorrow.
+today=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t1" type="DATE" value="2014-01-02">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t2" type="DATE" value="2014-01-03">tomorrow</TIMEX3>
+
+If possible we''ll meet Sunday
+Sunday=<TIMEX3 range="(2014-01-05-WXX-7,2014-01-05-WXX-7,P1D)" tid="t1" type="DATE" value="2014-01-05">Sunday</TIMEX3>
+
+xxx was wondering if Monday between 2-5pm could work for xxxxx?
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+5pm=<TIMEX3 range="(2014-01-02T17:00:00.000,2014-01-02T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-02T17">5pm</TIMEX3>
+
+Would 630pm or 7pm IST on Tuesday work for you?
+630pm=<TIMEX3 range="(2014-01-02T18:30:00.000,2014-01-02T18:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-02T18:30">630pm</TIMEX3>
+7pm=<TIMEX3 range="(2014-01-02T19:00:00.000,2014-01-02T19:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-02T19">7pm</TIMEX3>
+Tuesday=<TIMEX3 range="(2014-01-07-WXX-2,2014-01-07-WXX-2,P1D)" tid="t3" type="DATE" value="2014-01-07">Tuesday</TIMEX3>
+
+How does tomorrow morning at 10:00 or 11:00 work for you in xxxxx xxxxx?
+tomorrow morning at 10:00=<TIMEX3 range="(2014-01-03T10:00:00.000,2014-01-03T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-03T10:00">tomorrow morning at 10:00</TIMEX3>
+11:00=<TIMEX3 range="(2014-01-02T11:00:00.000,2014-01-02T11:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-02T11:00">11:00</TIMEX3>
+
+Will late morning or afternoonbe ok today?
+late morning=<TIMEX3 mod="LATE" range="(2014-01-02T06:00:00.000,2014-01-02T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-02TMO">late morning</TIMEX3>
+today=<TIMEX3 range="(2014-01-02,2014-01-02,P1D)" tid="t2" type="DATE" value="2014-01-02">today</TIMEX3>
+
+Saturday night is better than tonight.
+Saturday night=<TIMEX3 range="(2014-01-04-WXX-6T19:00:00.000,2014-01-04-WXX-6T05,PT-14H)" tid="t1" type="TIME" value="2014-01-04TNI">Saturday night</TIMEX3>
+tonight=<TIMEX3 range="(2014-01-02T19:00:00.000,2014-01-02T05,PT-14H)" tid="t2" type="TIME" value="2014-01-02TNI">tonight</TIMEX3>
+
+6PM?
+6PM=<TIMEX3 range="(2014-01-02T18:00:00.000,2014-01-02T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-02T18">6PM</TIMEX3>
+
+Let''s do Monday eve
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+
+Let''s push out to post-lunch - say 2pm
+2pm=<TIMEX3 range="(2014-01-02T14:00:00.000,2014-01-02T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-02T14">2pm</TIMEX3>
+
+My calendar is blocked till Monday so how about 7th, Jan Tuesday anytime between 4-6pm?
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+Jan Tuesday=<TIMEX3 range="(2013-12-31-WXX-2,2013-12-31-WXX-2,P1D)" tid="t2" type="DATE" value="2013-12-31">Jan Tuesday</TIMEX3>
+6pm=<TIMEX3 range="(2014-01-02T18:00:00.000,2014-01-02T18:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-02T18">6pm</TIMEX3>
+
+Talk tomorrow...
+tomorrow=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t1" type="DATE" value="2014-01-03">tomorrow</TIMEX3>
+
+Sorry, does the 5pm slot or the 8am slot works please?
+5pm=<TIMEX3 range="(2014-01-02T17:00:00.000,2014-01-02T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-02T17">5pm</TIMEX3>
+8am=<TIMEX3 range="(2014-01-02T08:00:00.000,2014-01-02T08:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-02T08">8am</TIMEX3>
+
+xxxx, anytime free tomorrow?
+tomorrow=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t1" type="DATE" value="2014-01-03">tomorrow</TIMEX3>
+
+11th Jan is OK with me & xxxxx.
+11th Jan=<TIMEX3 range="(2014-01-11,2014-01-11,P1D)" tid="t1" type="DATE" value="2014-01-11">11th Jan</TIMEX3>
+
+Sometime early next week works?
+early next week=<TIMEX3 mod="EARLY" range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">early next week</TIMEX3>
+
+Monday?
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+
+Would Mon, around noon work for you?
+Mon=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Mon</TIMEX3>
+noon=<TIMEX3 range="(2014-01-03T12:00:00.000,2014-01-03T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-03T12:00">noon</TIMEX3>
+
+Can we meet at 4pm
+4pm=<TIMEX3 range="(2014-01-03T16:00:00.000,2014-01-03T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-03T16">4pm</TIMEX3>
+
+Do we have the call today ?
+today=<TIMEX3 range="(2014-01-03,2014-01-03,P1D)" tid="t1" type="DATE" value="2014-01-03">today</TIMEX3>
+
+Preferably Tuesday.
+Tuesday=<TIMEX3 range="(2014-01-07-WXX-2,2014-01-07-WXX-2,P1D)" tid="t1" type="DATE" value="2014-01-07">Tuesday</TIMEX3>
+
+Hey lets sit and discuss on Monday
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+
+xxxx, so Sunday morning meeting plan is guaranteed.
+Sunday morning=<TIMEX3 range="(2014-01-05-WXX-7T06:00:00.000,2014-01-05-WXX-7T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-05TMO">Sunday morning</TIMEX3>
+
+Both Monday and Wednesday work for me.
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+Wednesday=<TIMEX3 range="(2014-01-08-WXX-3,2014-01-08-WXX-3,P1D)" tid="t2" type="DATE" value="2014-01-08">Wednesday</TIMEX3>
+
+Let me know what day works best next week, will swing over to your office :)
+day=<TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+next week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t2" type="DATE" value="2014-W02">next week</TIMEX3>
+
+27th January it is then.
+27th January=<TIMEX3 range="(2014-01-27,2014-01-27,P1D)" tid="t1" type="DATE" value="2014-01-27">27th January</TIMEX3>
+
+We can plan to meet next Sunday maybe?
+next Sunday=<TIMEX3 range="(2014-01-12-WXX-7,2014-01-12-WXX-7,P1D)" tid="t1" type="DATE" value="2014-01-12">next Sunday</TIMEX3>
+
+Does wednesday work?
+wednesday=<TIMEX3 range="(2014-01-08-WXX-3,2014-01-08-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-08">wednesday</TIMEX3>
+
+can me move this to 3pm?
+3pm=<TIMEX3 range="(2014-01-04T15:00:00.000,2014-01-04T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-04T15">3pm</TIMEX3>
+
+See you guys at yy yy AM tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-05,2014-01-05,P1D)" tid="t1" type="DATE" value="2014-01-05">tomorrow</TIMEX3>
+
+And xxxxxx, when can we chat today?
+today=<TIMEX3 range="(2014-01-05,2014-01-05,P1D)" tid="t1" type="DATE" value="2014-01-05">today</TIMEX3>
+
+See you at 10:00 tomorrow (Monday) at the xxx xxxxxx on xxxxxx xxxxxx xxxx!
+10:00 tomorrow=<TIMEX3 range="(2014-01-06T10:00:00.000,2014-01-06T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-06T10:00">10:00 tomorrow</TIMEX3>
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t2" type="DATE" value="2014-01-06">Monday</TIMEX3>
+
+Let''s meet tomorrow
+tomorrow=<TIMEX3 range="(2014-01-06,2014-01-06,P1D)" tid="t1" type="DATE" value="2014-01-06">tomorrow</TIMEX3>
+
+Our qbr is Monday and Tuesday... Maybe best before xxx Monday or after y in Tuesday??
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+Tuesday=<TIMEX3 range="(2014-01-07-WXX-2,2014-01-07-WXX-2,P1D)" tid="t2" type="DATE" value="2014-01-07">Tuesday</TIMEX3>
+9am Monday=<TIMEX3 range="(2013-12-30-WXX-1T09:00:00.000,2013-12-30-WXX-1T09:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-12-30T09">9am Monday</TIMEX3>
+Tuesday=<TIMEX3 range="(2014-01-07-WXX-2,2014-01-07-WXX-2,P1D)" tid="t4" type="DATE" value="2014-01-07">Tuesday</TIMEX3>
+
+Are you available to touch base on this coming Sunday, say in the afternoon?
+this coming Sunday=<TIMEX3 range="(2014-01-12-WXX-7,2014-01-12-WXX-7,P1D)" tid="t1" type="DATE" value="2014-01-12">this coming Sunday</TIMEX3>
+afternoon=<TIMEX3 range="(2014-01-05T12:00:00.000,2014-01-05T18,PT6H)" tid="t2" type="TIME" value="2014-01-05TAF">afternoon</TIMEX3>
+
+Call me today at about yyy yyyyyyyyyyyyyyyy
+today=<TIMEX3 range="(2014-01-05,2014-01-05,P1D)" tid="t1" type="DATE" value="2014-01-05">today</TIMEX3>
+
+Hi xxxxxx, Is it cool if i come by around y today?
+today=<TIMEX3 range="(2014-01-05,2014-01-05,P1D)" tid="t1" type="DATE" value="2014-01-05">today</TIMEX3>
+
+I will call you later in the day today.
+the day today=<TIMEX3 range="(2014-01-05,2014-01-05,P1D)" tid="t1" type="DATE" value="2014-01-05">the day today</TIMEX3>
+
+I would be delighted to connect on Monday (tomorrow) at 9:30pm PT.
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-06,2014-01-06,P1D)" tid="t2" type="DATE" value="2014-01-06">tomorrow</TIMEX3>
+9:30pm=<TIMEX3 range="(2014-01-05T21:30:00.000,2014-01-05T21:30:59.999,PT1M)" tid="t3" type="TIME" value="2014-01-05T21:30">9:30pm</TIMEX3>
+
+Does Thursday or Friday after 7pm work for you?
+Thursday=<TIMEX3 range="(2014-01-09-WXX-4,2014-01-09-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-09">Thursday</TIMEX3>
+Friday=<TIMEX3 range="(2014-01-03-WXX-5,2014-01-03-WXX-5,P1D)" tid="t2" type="DATE" value="2014-01-03">Friday</TIMEX3>
+7pm=<TIMEX3 range="(2014-01-06T19:00:00.000,2014-01-06T19:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-06T19">7pm</TIMEX3>
+
+Let us brainstorm further later this week to arrive on scope of the test case document and work on the same this/coming week.
+later this week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">later this week</TIMEX3>
+the same this/coming week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t2" type="DATE" value="2014-W02">the same this/coming week</TIMEX3>
+
+Let us brainstorm further later this week to arrive on the scope of the test case document and work on the same this/coming week.
+later this week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">later this week</TIMEX3>
+the same this/coming week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t2" type="DATE" value="2014-W02">the same this/coming week</TIMEX3>
+
+Tomorrow we have unfold call at 11:00 i will expect you for the call at office.
+Tomorrow=<TIMEX3 range="(2014-01-07,2014-01-07,P1D)" tid="t1" type="DATE" value="2014-01-07">Tomorrow</TIMEX3>
+11:00=<TIMEX3 range="(2014-01-06T11:00:00.000,2014-01-06T11:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-06T11:00">11:00</TIMEX3>
+
+As for the missing details, the only relevant information needed seems to the date of the board meeting -- we can fix it for tomorrow (Jan 7).
+tomorrow=<TIMEX3 range="(2014-01-07,2014-01-07,P1D)" tid="t1" type="DATE" value="2014-01-07">tomorrow</TIMEX3>
+Jan 7=<TIMEX3 range="(2014-01-07,2014-01-07,P1D)" tid="t2" type="DATE" value="2014-01-07">Jan 7</TIMEX3>
+
+At what time would you be free tomorrow?
+tomorrow=<TIMEX3 range="(2014-01-07,2014-01-07,P1D)" tid="t1" type="DATE" value="2014-01-07">tomorrow</TIMEX3>
+
+We are available from 2 - 5pm PST on all days
+5pm=<TIMEX3 range="(2014-01-06T17:00:00.000,2014-01-06T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-06T17">5pm</TIMEX3>
+days=<TIMEX3 range="(,,PXD)" tid="t2" type="DURATION" value="PXD">days</TIMEX3>
+
+May I instead suggest Wednesday yyyy at 11am?
+May=<TIMEX3 range="(2014-05-01,2014-05-31,P1M)" tid="t1" type="DATE" value="2014-05">May</TIMEX3>
+Wednesday=<TIMEX3 range="(2014-01-08-WXX-3,2014-01-08-WXX-3,P1D)" tid="t2" type="DATE" value="2014-01-08">Wednesday</TIMEX3>
+11am=<TIMEX3 range="(2014-01-06T11:00:00.000,2014-01-06T11:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-06T11">11am</TIMEX3>
+
+See you next Saturday.
+next Saturday=<TIMEX3 range="(2014-01-18-WXX-6,2014-01-18-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-18">next Saturday</TIMEX3>
+
+Let me know your availability this week.
+this week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">this week</TIMEX3>
+
+Please let me know if you''re available for the call tomorrow morning
+tomorrow morning=<TIMEX3 range="(2014-01-07T06:00:00.000,2014-01-07T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-07TMO">tomorrow morning</TIMEX3>
+
+Are you available to meet this Thursday yyy at 1pm in xxxxxxxx?
+this Thursday=<TIMEX3 range="(2014-01-09-WXX-4,2014-01-09-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-09">this Thursday</TIMEX3>
+1pm=<TIMEX3 range="(2014-01-06T13:00:00.000,2014-01-06T13:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-06T13">1pm</TIMEX3>
+
+Confirmed for Monday yyyy at 3:30pm here:
+Monday=<TIMEX3 range="(2014-01-06-WXX-1,2014-01-06-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-06">Monday</TIMEX3>
+3:30pm=<TIMEX3 range="(2014-01-06T15:30:00.000,2014-01-06T15:30:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-06T15:30">3:30pm</TIMEX3>
+
+Confirmed for this Thursday yyy at 1pm here:
+this Thursday=<TIMEX3 range="(2014-01-09-WXX-4,2014-01-09-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-09">this Thursday</TIMEX3>
+1pm=<TIMEX3 range="(2014-01-06T13:00:00.000,2014-01-06T13:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-06T13">1pm</TIMEX3>
+
+Would Fri 11:30AM xxx work for you ?
+Fri 11:30AM=<TIMEX3 range="(2014-01-10-WXX-5T11:30:00.000,2014-01-10-WXX-5T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-10T11:30">Fri 11:30AM</TIMEX3>
+
+> > Could you please let me know if you would be available to meet in the > morning tomorrow (11 AM)?
+morning tomorrow=<TIMEX3 range="(2014-01-08T06:00:00.000,2014-01-08T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-08TMO">morning tomorrow</TIMEX3>
+11 AM=<TIMEX3 range="(2014-01-07T11:00:00.000,2014-01-07T11:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-07T11:00">11 AM</TIMEX3>
+
+Please let me know if yy - 1pm on Friday would work for you to meet xxxxxx at our office?
+1pm on Friday=<TIMEX3 range="(2014-01-10-WXX-5T13:00:00.000,2014-01-10-WXX-5T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-10T13">1pm on Friday</TIMEX3>
+
+The meeting is confirmed for Thursday at xxx.
+Thursday at 2PM.=<TIMEX3 range="(2014-01-09-WXX-4T14:00:00.000,2014-01-09-WXX-4T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-09T14">Thursday at 2PM.</TIMEX3>
+
+Confirmed for tomorrow morning at 930AM at our usual hangout.
+tomorrow morning at 930AM=<TIMEX3 range="(2014-01-08T09:30:00.000,2014-01-08T09:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-08T09:30">tomorrow morning at 930AM</TIMEX3>
+
+Lets discuss tomorrow and finalize.
+tomorrow=<TIMEX3 range="(2014-01-08,2014-01-08,P1D)" tid="t1" type="DATE" value="2014-01-08">tomorrow</TIMEX3>
+
+As discussed, lets catch up tomorrow at 07:00 PST which is 20:30 IST.
+tomorrow at 07:00=<TIMEX3 range="(2014-01-08T07:00:00.000,2014-01-08T07:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-08T07:00">tomorrow at 07:00</TIMEX3>
+20:30=<TIMEX3 range="(2014-01-07T20:30:00.000,2014-01-07T20:30:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-07T20:30">20:30</TIMEX3>
+
+Any time after 7 PM tomorrow is fine for me.
+7 PM tomorrow=<TIMEX3 range="(2014-01-08T19:00:00.000,2014-01-08T19:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-08T19:00">7 PM tomorrow</TIMEX3>
+
+Please have xxxxxx available in our office tomorrow if it works for you.
+tomorrow=<TIMEX3 range="(2014-01-08,2014-01-08,P1D)" tid="t1" type="DATE" value="2014-01-08">tomorrow</TIMEX3>
+
+Lets discuss tomorrow in person.
+tomorrow=<TIMEX3 range="(2014-01-08,2014-01-08,P1D)" tid="t1" type="DATE" value="2014-01-08">tomorrow</TIMEX3>
+
+How about tomorrow 2pm?
+about tomorrow 2pm=<TIMEX3 range="(2014-01-08T14:00:00.000,2014-01-08T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-08T14">about tomorrow 2pm</TIMEX3>
+
+Friday at 11:30 AM xxx is certainly convenient for us.
+Friday at 11:30 AM=<TIMEX3 range="(2014-01-10-WXX-5T11:30:00.000,2014-01-10-WXX-5T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-10T11:30">Friday at 11:30 AM</TIMEX3>
+
+Monday (January 13th) at 7:30am IST works for us.
+Monday=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-13">Monday</TIMEX3>
+January 13th=<TIMEX3 range="(2014-01-13,2014-01-13,P1D)" tid="t2" type="DATE" value="2014-01-13">January 13th</TIMEX3>
+7:30am=<TIMEX3 range="(2014-01-07T07:30:00.000,2014-01-07T07:30:59.999,PT1M)" tid="t3" type="TIME" value="2014-01-07T07:30">7:30am</TIMEX3>
+
+Friday (10/1/2014) yyy pm works perfect.
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-10">Friday</TIMEX3>
+10/1/2014=<TIMEX3 range="(2014-10-01,2014-10-01,P1D)" tid="t2" type="DATE" value="2014-10-01">10/1/2014</TIMEX3>
+
+amar: pls set up meeting maybe first half of Friday.
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-10">Friday</TIMEX3>
+
+we will talk and then give you call today if it is okay around yyyy PM or 5 PM.
+today=<TIMEX3 range="(2014-01-07,2014-01-07,P1D)" tid="t1" type="DATE" value="2014-01-07">today</TIMEX3>
+5 PM=<TIMEX3 range="(2014-01-07T17:00:00.000,2014-01-07T17:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-07T17:00">5 PM</TIMEX3>
+
+Tomorrow anytime before 4p.
+Tomorrow=<TIMEX3 range="(2014-01-09,2014-01-09,P1D)" tid="t1" type="DATE" value="2014-01-09">Tomorrow</TIMEX3>
+
+Can I come and ��meet you tomorrow at 10 am.
+tomorrow at 10 am=<TIMEX3 range="(2014-01-09T10:00:00.000,2014-01-09T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-09T10:00">tomorrow at 10 am</TIMEX3>
+
+We can talk tomorrow between between 5pm and 7pm if that works.
+tomorrow=<TIMEX3 range="(2014-01-09,2014-01-09,P1D)" tid="t1" type="DATE" value="2014-01-09">tomorrow</TIMEX3>
+5pm=<TIMEX3 range="(2014-01-08T17:00:00.000,2014-01-08T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-08T17">5pm</TIMEX3>
+7pm=<TIMEX3 range="(2014-01-08T19:00:00.000,2014-01-08T19:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-08T19">7pm</TIMEX3>
+
+We can meet on tuesday next week if it works for you.
+tuesday next week=<TIMEX3 range="(2014-01-14-W03-2,2014-01-14-W03-2,P1D)" tid="t1" type="DATE" value="2014-01-14">tuesday next week</TIMEX3>
+
+Do we need to schedule it for tomorrow?
+tomorrow=<TIMEX3 range="(2014-01-09,2014-01-09,P1D)" tid="t1" type="DATE" value="2014-01-09">tomorrow</TIMEX3>
+
+I will sync up with you on Tuesday.
+Tuesday=<TIMEX3 range="(2014-01-14-WXX-2,2014-01-14-WXX-2,P1D)" tid="t1" type="DATE" value="2014-01-14">Tuesday</TIMEX3>
+
+Else if its not possible, we will jointly have the meeting on Monday.
+Monday=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-13">Monday</TIMEX3>
+
+xxxxxxxx, If possible, please speak to xxxxxx tomorrow or Friday (as i have to go to xxxxx).
+tomorrow=<TIMEX3 range="(2014-01-09,2014-01-09,P1D)" tid="t1" type="DATE" value="2014-01-09">tomorrow</TIMEX3>
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t2" type="DATE" value="2014-01-10">Friday</TIMEX3>
+
+Tuesday 14th Jan, 10am looks fine.
+Tuesday 14th Jan, 10am=<TIMEX3 range="(2014-01-14-WXX-2T10:00:00.000,2014-01-14-WXX-2T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-14T10">Tuesday 14th Jan, 10am</TIMEX3>
+
+I''m thinking of Wed /xxxxxxx
+Wed=<TIMEX3 range="(2014-01-08-WXX-3,2014-01-08-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-08">Wed</TIMEX3>
+
+Sure lets touch base next week.
+next week=<TIMEX3 range="(2014-01-13,2014-01-19,P1W)" tid="t1" type="DATE" value="2014-W03">next week</TIMEX3>
+
+Can we shoot for early next week, maybe Mon or Tue evening, 5:30?
+early next week=<TIMEX3 mod="EARLY" range="(2014-01-13,2014-01-19,P1W)" tid="t1" type="DATE" value="2014-W03">early next week</TIMEX3>
+Mon=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t2" type="DATE" value="2014-01-13">Mon</TIMEX3>
+Tue evening, 5:30=<TIMEX3 range="(,,PT1M)" tid="t3" type="TIME" value="2014-01-07T05:30">Tue evening, 5:30</TIMEX3>
+
+Please let me know if/when we can meet tonight (Wed evening PST).
+tonight=<TIMEX3 range="(2014-01-08T19:00:00.000,2014-01-08T05,PT-14H)" tid="t1" type="TIME" value="2014-01-08TNI">tonight</TIMEX3>
+Wed evening=<TIMEX3 range="(2014-01-08-WXX-3T18:00:00.000,2014-01-08-WXX-3T20,PT2H)" tid="t2" type="TIME" value="2014-01-08TEV">Wed evening</TIMEX3>
+
+We can connect around 11am or around 3pm
+11am=<TIMEX3 range="(2014-01-08T11:00:00.000,2014-01-08T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-08T11">11am</TIMEX3>
+3pm=<TIMEX3 range="(2014-01-08T15:00:00.000,2014-01-08T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-08T15">3pm</TIMEX3>
+
+Since this week start is holidays can we meetup on Friday (17th)?
+this week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">this week</TIMEX3>
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t2" type="DATE" value="2014-01-10">Friday</TIMEX3>
+
+*Preferable Time to call* - before 5pm or after yyyyPM
+5pm=<TIMEX3 range="(2014-01-08T17:00:00.000,2014-01-08T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-08T17">5pm</TIMEX3>
+
+Would love to get together the week of 20th Jan and catch up!
+the week of 20th Jan=<TIMEX3 range="(2014-01-20,2014-01-20,P1D)" tid="t1" type="DATE" value="2014-01-20">the week of 20th Jan</TIMEX3>
+
+Do you want to catch up tomorrow or this weekend?
+tomorrow=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">tomorrow</TIMEX3>
+this weekend=<TIMEX3 range="(2014-01-11,2014-01-12,P2D)" tid="t2" type="DATE" value="2014-W02-WE">this weekend</TIMEX3>
+
+xxxxxxx, can we meet tomorrow and I can hand over the forms to you?
+tomorrow=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">tomorrow</TIMEX3>
+
+today?
+today=<TIMEX3 range="(2014-01-09,2014-01-09,P1D)" tid="t1" type="DATE" value="2014-01-09">today</TIMEX3>
+
+Hi xxxxxx, could we talk next Wednesday (Jan 15) at 10AM?
+next Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">next Wednesday</TIMEX3>
+Jan 15=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t2" type="DATE" value="2014-01-15">Jan 15</TIMEX3>
+10AM=<TIMEX3 range="(2014-01-09T10:00:00.000,2014-01-09T10:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-09T10">10AM</TIMEX3>
+
+Hi xxxxx, could we talk next Wednesday (jan 15) at 11am if it works for you?
+next Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">next Wednesday</TIMEX3>
+jan 15=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t2" type="DATE" value="2014-01-15">jan 15</TIMEX3>
+11am=<TIMEX3 range="(2014-01-09T11:00:00.000,2014-01-09T11:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-09T11">11am</TIMEX3>
+
+Hi xxxx, could we talk next Wednesday (jan 15) at 0230pm if it works for you?
+next Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">next Wednesday</TIMEX3>
+jan 15=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t2" type="DATE" value="2014-01-15">jan 15</TIMEX3>
+0230pm=<TIMEX3 range="(2014-01-09T14:30:00.000,2014-01-09T14:30:59.999,PT1M)" tid="t3" type="TIME" value="2014-01-09T14:30">0230pm</TIMEX3>
+
+xxxx that is alright and we can touch base again in mid Feb.
+mid Feb=<TIMEX3 mod="MID" range="(2014-02-01,2014-02-28,P1M)" tid="t1" type="DATE" value="2014-02">mid Feb</TIMEX3>
+
+Lets talk tomorrow on the phone?
+tomorrow=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">tomorrow</TIMEX3>
+
+Sure, Tue evening it is then.
+Tue evening=<TIMEX3 range="(2014-01-07-WXX-2T18:00:00.000,2014-01-07-WXX-2T20,PT2H)" tid="t1" type="TIME" value="2014-01-07TEV">Tue evening</TIMEX3>
+
+Maybe we should on the skype and elaborate more on monday morning (9:30 am, xxxxxx Time), what do you think?
+monday morning=<TIMEX3 range="(2014-01-06-WXX-1T06:00:00.000,2014-01-06-WXX-1T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-06TMO">monday morning</TIMEX3>
+9:30 am=<TIMEX3 range="(2014-01-09T09:30:00.000,2014-01-09T09:30:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-09T09:30">9:30 am</TIMEX3>
+
+xxxxxxxxx, xxxx, xxxxxxxx please meet me tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">tomorrow</TIMEX3>
+
+I am available on Monday for the call at 6:30 PM xxx.
+Monday=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-13">Monday</TIMEX3>
+6:30 PM=<TIMEX3 range="(2014-01-09T18:30:00.000,2014-01-09T18:30:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-09T18:30">6:30 PM</TIMEX3>
+
+> - TJ xxxxx will invoice customer, and xx xxxxx will invoice xx xxxxx > > I am available on Monday for the call at 6:30 PM xxx.
+Monday=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-13">Monday</TIMEX3>
+6:30 PM=<TIMEX3 range="(2014-01-09T18:30:00.000,2014-01-09T18:30:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-09T18:30">6:30 PM</TIMEX3>
+
+Perhaps we can have another meeting next week just to take stock and level set.
+next week=<TIMEX3 range="(2014-01-13,2014-01-19,P1W)" tid="t1" type="DATE" value="2014-W03">next week</TIMEX3>
+
+Also will you be meeting ujwal next week or later?
+next week=<TIMEX3 range="(2014-01-13,2014-01-19,P1W)" tid="t1" type="DATE" value="2014-W03">next week</TIMEX3>
+
+Thursday yyyy at 2pm would be perfect.
+Thursday=<TIMEX3 range="(2014-01-09-WXX-4,2014-01-09-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-09">Thursday</TIMEX3>
+2pm=<TIMEX3 range="(2014-01-09T14:00:00.000,2014-01-09T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-09T14">2pm</TIMEX3>
+
+My schedule is flexible this week and next and can meet you anywhere in the xxx xxxx.
+this week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">this week</TIMEX3>
+
+Sure, I will call you today around 2pm.
+today=<TIMEX3 range="(2014-01-09,2014-01-09,P1D)" tid="t1" type="DATE" value="2014-01-09">today</TIMEX3>
+2pm.=<TIMEX3 range="(2014-01-09T14:00:00.000,2014-01-09T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-09T14">2pm.</TIMEX3>
+
+Can we still meet up tomorrow?
+tomorrow=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">tomorrow</TIMEX3>
+
+I can come down around y to discuss the details if you''re free today
+today=<TIMEX3 range="(2014-01-09,2014-01-09,P1D)" tid="t1" type="DATE" value="2014-01-09">today</TIMEX3>
+
+Can we meet tomorrow to discuss in detail at your office.
+tomorrow=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">tomorrow</TIMEX3>
+
+meeting has been set up for the 20th of Jan at noon.
+the 20th of Jan at noon=<TIMEX3 range="(2014-01-20T12:00:00.000,2014-01-20T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-20T12:00">the 20th of Jan at noon</TIMEX3>
+
+Let us then connect on wednesday.
+wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">wednesday</TIMEX3>
+
+xxxxx we meet this designer (of www.warmoven.in) next Thursday?
+next Thursday=<TIMEX3 range="(2014-01-16-WXX-4,2014-01-16-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-16">next Thursday</TIMEX3>
+
+A gentle reminder regarding today���s call at yyyy pm.
+today=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">today</TIMEX3>
+
+Could you please let me know if you are free to meet on *Tuesday, January 21st at 11 AM*?
+Tuesday, January 21st at 11 AM=<TIMEX3 range="(2014-01-21-WXX-2T11:00:00.000,2014-01-21-WXX-2T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-21T11:00">Tuesday, January 21st at 11 AM</TIMEX3>
+
+Let''s move it to Friday at yy noon
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-10">Friday</TIMEX3>
+noon=<TIMEX3 range="(2014-01-10T12:00:00.000,2014-01-10T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-10T12:00">noon</TIMEX3>
+
+See you on Friday yy noon then.
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-10">Friday</TIMEX3>
+noon=<TIMEX3 range="(2014-01-10T12:00:00.000,2014-01-10T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-10T12:00">noon</TIMEX3>
+
+Does Saturday morning xxxxxxx Time work?
+Saturday morning=<TIMEX3 range="(2014-01-11-WXX-6T06:00:00.000,2014-01-11-WXX-6T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-11TMO">Saturday morning</TIMEX3>
+
+Wednesday yyyy at the same location will work.
+Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">Wednesday</TIMEX3>
+
+xxxxx and xxxxxxxx will see you at the xxxxxxx office on Tuesday yyyy at 3pm.
+Tuesday=<TIMEX3 range="(2014-01-14-WXX-2,2014-01-14-WXX-2,P1D)" tid="t1" type="DATE" value="2014-01-14">Tuesday</TIMEX3>
+3pm.=<TIMEX3 range="(2014-01-10T15:00:00.000,2014-01-10T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-10T15">3pm.</TIMEX3>
+
+xxxxx can meet at our xxxx xxxx office on Wednesday yyyy at 1pm.
+Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">Wednesday</TIMEX3>
+1pm.=<TIMEX3 range="(2014-01-10T13:00:00.000,2014-01-10T13:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-10T13">1pm.</TIMEX3>
+
+Are we planning to meet today?
+today=<TIMEX3 range="(2014-01-10,2014-01-10,P1D)" tid="t1" type="DATE" value="2014-01-10">today</TIMEX3>
+
+We can chat between yy and 12AM.
+12AM.=<TIMEX3 range="(2014-01-10T00:00:00.000,2014-01-10T00:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-10T00">12AM.</TIMEX3>
+
+Jan 26th or the weekend after that is fine with us.
+Jan 26th=<TIMEX3 range="(2014-01-26,2014-01-26,P1D)" tid="t1" type="DATE" value="2014-01-26">Jan 26th</TIMEX3>
+the weekend=<TIMEX3 range="(2014-01-11,2014-01-12,P2D)" tid="t2" type="DATE" value="2014-W02-WE">the weekend</TIMEX3>
+
+Can we meet for 15 minutes or so this weekend?
+15 minutes=<TIMEX3 range="(,,PT15M)" tid="t1" type="DURATION" value="PT15M">15 minutes</TIMEX3>
+this weekend=<TIMEX3 range="(2014-01-11,2014-01-12,P2D)" tid="t2" type="DATE" value="2014-W02-WE">this weekend</TIMEX3>
+
+m. on Monday work for our meeting?
+Monday=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-13">Monday</TIMEX3>
+
+We can discuss it on Monday.
+Monday=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-13">Monday</TIMEX3>
+
+Looking forward to meet you at the *xxxx xxxx* At : Indiranagar On : Thursday, 30th January From : yyyy PM to yyyy PM RSVP [image: mail] xxxxxxxxxxxxxxxxxxxxxxxxxxx / xxxxxxxxxxxxxxxxxxxxx [image: Contact] yyyyyyyyyyyyyyyy, yyyyyyyyyy [image: line] Address: xxxxxxx xxxxx, xxxxxxxxx xxxxxxxxxxxx xxx, xxxxxxxxx Our Location xxxxx xxxxxxxx xxxxxx xxxxx y, xxxxx xxxxxxxx xxx xxxxx y, xxxxxx xxxxxxxx xxxx, xxxxxxxxxxxx, xxxxxxxx xxxx xxxx, xxxxxxxxxxxxxxxx, xxxxxxxxx - yyy yyy [image: facebook]
+Thursday, 30th January=<TIMEX3 range="(2014-01-30-WXX-4,2014-01-30-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-30">Thursday, 30th January</TIMEX3>
+
+Next couple of days are slow, so we could talk then.
+Next couple of days=<TIMEX3 alt_value="~((2014-01-11,2014-01-13,P2D):P2D IN (2014-01-11,2014-01-15,P4D))" range="(2014-01-11,2014-01-15,P4D)" tid="t1" type="DATE">Next couple of days</TIMEX3>
+
+Let me know if and when you want to catch up today
+today=<TIMEX3 range="(2014-01-12,2014-01-12,P1D)" tid="t1" type="DATE" value="2014-01-12">today</TIMEX3>
+
+I am okay to talk on Monday morning your time, Sunday evening (today) my time.
+Monday morning=<TIMEX3 range="(2014-01-06-WXX-1T06:00:00.000,2014-01-06-WXX-1T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-06TMO">Monday morning</TIMEX3>
+Sunday evening=<TIMEX3 range="(2014-01-12-WXX-7T18:00:00.000,2014-01-12-WXX-7T20,PT2H)" tid="t2" type="TIME" value="2014-01-12TEV">Sunday evening</TIMEX3>
+today=<TIMEX3 range="(2014-01-12,2014-01-12,P1D)" tid="t3" type="DATE" value="2014-01-12">today</TIMEX3>
+
+I would be happy to meet with you tomorrow late in the morning (between 11:00 and 12:30) if that is convenient for you.
+tomorrow late=<TIMEX3 range="(2014-01-13,2014-01-13,P1D)" tid="t1" type="DATE" value="2014-01-13">tomorrow late</TIMEX3>
+morning=<TIMEX3 range="(2014-01-12T06:00:00.000,2014-01-12T12:00,PT6H)" tid="t2" type="TIME" value="2014-01-12TMO">morning</TIMEX3>
+11:00=<TIMEX3 range="(2014-01-12T11:00:00.000,2014-01-12T11:00:59.999,PT1M)" tid="t3" type="TIME" value="2014-01-12T11:00">11:00</TIMEX3>
+12:30=<TIMEX3 range="(2014-01-12T12:30:00.000,2014-01-12T12:30:59.999,PT1M)" tid="t4" type="TIME" value="2014-01-12T12:30">12:30</TIMEX3>
+
+Otherwise around the same time on Wednesday also fine.
+Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">Wednesday</TIMEX3>
+
+Please schedule it on this wednesday.
+this wednesday=<TIMEX3 range="(2014-01-08-WXX-3,2014-01-08-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-08">this wednesday</TIMEX3>
+
+I will sync up with you this week.
+this week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">this week</TIMEX3>
+
+xxxxxxx, Can we catch up today x 1:00 PM IST to finalize the plan.
+today=<TIMEX3 range="(2014-01-12,2014-01-12,P1D)" tid="t1" type="DATE" value="2014-01-12">today</TIMEX3>
+1:00 PM=<TIMEX3 range="(2014-01-12T13:00:00.000,2014-01-12T13:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-12T13:00">1:00 PM</TIMEX3>
+
+Lets catch up today and revert back to him.
+today=<TIMEX3 range="(2014-01-12,2014-01-12,P1D)" tid="t1" type="DATE" value="2014-01-12">today</TIMEX3>
+
+I''d be happy to meet again this week while I am here, if your schedule permits
+this week=<TIMEX3 range="(2014-01-06,2014-01-12,P1W)" tid="t1" type="DATE" value="2014-W02">this week</TIMEX3>
+
+So we can talk on Monday and you can continue to spend time with xxxxx.
+Monday=<TIMEX3 range="(2014-01-13-WXX-1,2014-01-13-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-13">Monday</TIMEX3>
+
+I won''t have time to meet you (except on Saturday the 25th) but I can certainly co-ordinate with you to decide the outline of the lessons etc
+Saturday the 25th=<TIMEX3 range="(2014-01-25-WXX-6,2014-01-25-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-25">Saturday the 25th</TIMEX3>
+
+If Friday works?
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-10">Friday</TIMEX3>
+
+Yes Friday works Sent from my xxxxxxxxxx�� on xxxxxxxx Mobile, xxxxx''s No. y xxxxxxx
+Friday=<TIMEX3 range="(2014-01-10-WXX-5,2014-01-10-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-10">Friday</TIMEX3>
+
+Let us catch up tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-14,2014-01-14,P1D)" tid="t1" type="DATE" value="2014-01-14">tomorrow</TIMEX3>
+
+We shall certainly see you at noon on Thursday then.
+noon on Thursday=<TIMEX3 range="(2014-01-16-WXX-4T12:00:00.000,2014-01-16-WXX-4T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-16T12:00">noon on Thursday</TIMEX3>
+
+Would yyyy today work?
+today=<TIMEX3 range="(2014-01-13,2014-01-13,P1D)" tid="t1" type="DATE" value="2014-01-13">today</TIMEX3>
+
+1230 xxx on Wednesday would work well for me but later in the week (at the same time in the day) is fine too.
+1230=<TIMEX3 range="(1230-01-01,1230-12-31,P1Y)" tid="t1" type="DATE" value="1230">1230</TIMEX3>
+Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t2" type="DATE" value="2014-01-15">Wednesday</TIMEX3>
+the week=<TIMEX3 range="(2014-01-13,2014-01-19,P1W)" tid="t3" type="DATE" value="2014-W03">the week</TIMEX3>
+the day=<TIMEX3 range="(2014-01-13,2014-01-13,P1D)" tid="t4" type="DATE" value="2014-01-13">the day</TIMEX3>
+
+Can we have the call tomorrow after 11am please?
+tomorrow=<TIMEX3 range="(2014-01-14,2014-01-14,P1D)" tid="t1" type="DATE" value="2014-01-14">tomorrow</TIMEX3>
+11am=<TIMEX3 range="(2014-01-13T11:00:00.000,2014-01-13T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-13T11">11am</TIMEX3>
+
+Thanks, let''s talk about this tomorrow
+about this tomorrow=<TIMEX3 range="(2014-01-14,2014-01-14,P1D)" tid="t1" type="DATE" value="2014-01-14">about this tomorrow</TIMEX3>
+
+Can we speak on Thursday 1230 xxx instead of Wednesday?
+Thursday 1230=<TIMEX3 range="(1230-WXX-4,1230-WXX-4,P1D)" tid="t1" type="DATE" value="1230-WXX-4">Thursday 1230</TIMEX3>
+Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t2" type="DATE" value="2014-01-15">Wednesday</TIMEX3>
+
+Sure, we can meet at 10am.
+10am.=<TIMEX3 range="(2014-01-13T10:00:00.000,2014-01-13T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-13T10">10am.</TIMEX3>
+
+Do you think we can meet in xx over the coming weekend?
+the coming weekend=<TIMEX3 range="(2014-01-25,2014-01-26,P2D)" tid="t1" type="DATE" value="2014-W04-WE">the coming weekend</TIMEX3>
+
+We can have call at 1pm IST
+1pm=<TIMEX3 range="(2014-01-13T13:00:00.000,2014-01-13T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-13T13">1pm</TIMEX3>
+
+How about sometime tomorrow?
+tomorrow=<TIMEX3 range="(2014-01-14,2014-01-14,P1D)" tid="t1" type="DATE" value="2014-01-14">tomorrow</TIMEX3>
+
+If that doesn''t work we can try for Wednesday
+Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">Wednesday</TIMEX3>
+
+Confirmed for Wednesday yyyy at 10:30am here:
+Wednesday=<TIMEX3 range="(2014-01-15-WXX-3,2014-01-15-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-15">Wednesday</TIMEX3>
+10:30am=<TIMEX3 range="(2014-01-13T10:30:00.000,2014-01-13T10:30:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-13T10:30">10:30am</TIMEX3>
+
+So will schedule one next week.
+next week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t1" type="DATE" value="2014-W04">next week</TIMEX3>
+
+Lets talk more tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-14,2014-01-14,P1D)" tid="t1" type="DATE" value="2014-01-14">tomorrow</TIMEX3>
+
+Let me try to move my flight up to Friday morning or afternoon, then we can meet in the evening.
+Friday morning=<TIMEX3 range="(2014-01-17-WXX-5T06:00:00.000,2014-01-17-WXX-5T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-17TMO">Friday morning</TIMEX3>
+afternoon=<TIMEX3 range="(2014-01-13T12:00:00.000,2014-01-13T18,PT6H)" tid="t2" type="TIME" value="2014-01-13TAF">afternoon</TIMEX3>
+evening=<TIMEX3 range="(2014-01-13T18:00:00.000,2014-01-13T20,PT2H)" tid="t3" type="TIME" value="2014-01-13TEV">evening</TIMEX3>
+
+Can we talk sometime today, around 3pm?
+today=<TIMEX3 range="(2014-01-14,2014-01-14,P1D)" tid="t1" type="DATE" value="2014-01-14">today</TIMEX3>
+3pm=<TIMEX3 range="(2014-01-14T15:00:00.000,2014-01-14T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-14T15">3pm</TIMEX3>
+
+Friday will do.
+Friday=<TIMEX3 range="(2014-01-17-WXX-5,2014-01-17-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-17">Friday</TIMEX3>
+
+Can we sync up sometime this week?
+this week=<TIMEX3 range="(2014-01-13,2014-01-19,P1W)" tid="t1" type="DATE" value="2014-W03">this week</TIMEX3>
+
+I''m open on Thursday afternoon as well
+Thursday afternoon=<TIMEX3 range="(2014-01-16-WXX-4T12:00:00.000,2014-01-16-WXX-4T18,PT6H)" tid="t1" type="TIME" value="2014-01-16TAF">Thursday afternoon</TIMEX3>
+
+Lets think through the product tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t1" type="DATE" value="2014-01-15">tomorrow</TIMEX3>
+
+Are you available Wednesday morning (IST) to chat with us?
+Wednesday morning=<TIMEX3 range="(2014-01-15-WXX-3T06:00:00.000,2014-01-15-WXX-3T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-15TMO">Wednesday morning</TIMEX3>
+
+Are you available Friday around y?
+Friday=<TIMEX3 range="(2014-01-17-WXX-5,2014-01-17-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-17">Friday</TIMEX3>
+
+So Saturday 18 Jan is an option - if you & xxxxx are available.
+Saturday 18 Jan=<TIMEX3 range="(2014-01-18-WXX-6,2014-01-18-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-18">Saturday 18 Jan</TIMEX3>
+
+Also, what time slots are you available on Saturday?
+Saturday=<TIMEX3 range="(2014-01-11-WXX-6,2014-01-11-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-11">Saturday</TIMEX3>
+
+Where will you be at 6pm on Friday?
+6pm on Friday=<TIMEX3 range="(2014-01-17-WXX-5T18:00:00.000,2014-01-17-WXX-5T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-17T18">6pm on Friday</TIMEX3>
+
+xxxx is free to speak on Friday (yyyy) at 9 am xxx.
+Friday=<TIMEX3 range="(2014-01-17-WXX-5,2014-01-17-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-17">Friday</TIMEX3>
+9 am=<TIMEX3 range="(2014-01-14T09:00:00.000,2014-01-14T09:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-14T09:00">9 am</TIMEX3>
+
+We can meet Thursday in xxxxxxx xxxxxx.
+Thursday=<TIMEX3 range="(2014-01-16-WXX-4,2014-01-16-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-16">Thursday</TIMEX3>
+
+Saturday I am flexible as long as you can tell me the slot early.
+Saturday=<TIMEX3 range="(2014-01-11-WXX-6,2014-01-11-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-11">Saturday</TIMEX3>
+
+I think that time should work (9pm PST / 10:30am IST).
+9pm=<TIMEX3 range="(2014-01-14T21:00:00.000,2014-01-14T21:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-14T21">9pm</TIMEX3>
+10:30am=<TIMEX3 range="(2014-01-14T10:30:00.000,2014-01-14T10:30:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-14T10:30">10:30am</TIMEX3>
+
+So let us keep the original meeting plan of 11:30 am Thursday.
+11:30 am Thursday=<TIMEX3 range="(2014-01-16-WXX-4T11:30:00.000,2014-01-16-WXX-4T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-16T11:30">11:30 am Thursday</TIMEX3>
+
+Yes, inking in 11:30 am tomorrow at xxx xxxxxx, xxxxxx xxxxxx xxxx.
+11:30 am tomorrow=<TIMEX3 range="(2014-01-15T11:30:00.000,2014-01-15T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-15T11:30">11:30 am tomorrow</TIMEX3>
+
+- Rescheduling January 17th meeting to yyyy
+January 17th=<TIMEX3 range="(2014-01-17,2014-01-17,P1D)" tid="t1" type="DATE" value="2014-01-17">January 17th</TIMEX3>
+
+let me know if Friday this week will work for everyone around 10am.
+Friday this week=<TIMEX3 range="(2014-01-17-W03-5,2014-01-17-W03-5,P1D)" tid="t1" type="DATE" value="2014-01-17">Friday this week</TIMEX3>
+10am.=<TIMEX3 range="(2014-01-14T10:00:00.000,2014-01-14T10:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-14T10">10am.</TIMEX3>
+
+xxxxxxxx, could I move our call to 4pm on Friday if it works?
+4pm on Friday=<TIMEX3 range="(2014-01-17-WXX-5T16:00:00.000,2014-01-17-WXX-5T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-17T16">4pm on Friday</TIMEX3>
+
+xx, I will come tomorrow morning after 11am.
+tomorrow morning=<TIMEX3 range="(2014-01-15T06:00:00.000,2014-01-15T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-15TMO">tomorrow morning</TIMEX3>
+11am.=<TIMEX3 range="(2014-01-14T11:00:00.000,2014-01-14T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-14T11">11am.</TIMEX3>
+
+So anytime from 6am IST to 11p.
+6am=<TIMEX3 range="(2014-01-14T06:00:00.000,2014-01-14T06:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-14T06">6am</TIMEX3>
+
+Thursday & Friday works for us.
+Thursday=<TIMEX3 range="(2014-01-16-WXX-4,2014-01-16-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-16">Thursday</TIMEX3>
+Friday=<TIMEX3 range="(2014-01-17-WXX-5,2014-01-17-WXX-5,P1D)" tid="t2" type="DATE" value="2014-01-17">Friday</TIMEX3>
+
+Let us move this week''s meeting to next week TUE, 21st xxxx 10am
+this week=<TIMEX3 range="(2014-01-13,2014-01-19,P1W)" tid="t1" type="DATE" value="2014-W03">this week</TIMEX3>
+next week TUE, 21st Jan. 10am=<TIMEX3 range="(2014-01-21-W04-2T10:00:00.000,2014-01-21-W04-2T10:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-21T10">next week TUE, 21st Jan. 10am</TIMEX3>
+
+you can call me after 5pm today Thanks, xxxxxx
+5pm today=<TIMEX3 range="(2014-01-15T17:00:00.000,2014-01-15T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-15T17">5pm today</TIMEX3>
+
+Does 22nd Jan ��� yyyyy am work for you?
+22nd Jan=<TIMEX3 range="(2014-01-22,2014-01-22,P1D)" tid="t1" type="DATE" value="2014-01-22">22nd Jan</TIMEX3>
+
+See you at the event at 9am, so that you get time to get set up.
+9am=<TIMEX3 range="(2014-01-15T09:00:00.000,2014-01-15T09:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-15T09">9am</TIMEX3>
+
+I will be in xxxx on this Friday and would love to catch up with you if you are free.
+this Friday=<TIMEX3 range="(2014-01-17-WXX-5,2014-01-17-WXX-5,P1D)" tid="t1" type="DATE" value="2014-01-17">this Friday</TIMEX3>
+
+If not now, I shall call you tomorrow when I reach my home.
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-16,2014-01-16,P1D)" tid="t2" type="DATE" value="2014-01-16">tomorrow</TIMEX3>
+
+What is your skype id and what time are we all meeting today ?
+today=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t1" type="DATE" value="2014-01-15">today</TIMEX3>
+
+I am off to xxx xxxxxxxxx next week so we can meet in person the following week when I am back.
+next week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t1" type="DATE" value="2014-W04">next week</TIMEX3>
+the following week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t2" type="DATE" value="2014-W04">the following week</TIMEX3>
+
+Tomorrow 15:00 your time zone?
+Tomorrow 15:00=<TIMEX3 range="(2014-01-16T15:00:00.000,2014-01-16T15:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-16T15:00">Tomorrow 15:00</TIMEX3>
+
+I was hoping I could get together with you sometime soon (Friday afternoon or next week, perhaps?)
+Friday afternoon=<TIMEX3 range="(2014-01-17-WXX-5T12:00:00.000,2014-01-17-WXX-5T18,PT6H)" tid="t1" type="TIME" value="2014-01-17TAF">Friday afternoon</TIMEX3>
+next week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t2" type="DATE" value="2014-W04">next week</TIMEX3>
+
+Got it... xxxxxxxxxx, please meet me about this tomorrow.
+about this tomorrow=<TIMEX3 range="(2014-01-16,2014-01-16,P1D)" tid="t1" type="DATE" value="2014-01-16">about this tomorrow</TIMEX3>
+
+See you next Thursday!
+next Thursday=<TIMEX3 range="(2014-01-23-WXX-4,2014-01-23-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-23">next Thursday</TIMEX3>
+
+It is looking like Saturday is better.
+Saturday=<TIMEX3 range="(2014-01-18-WXX-6,2014-01-18-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-18">Saturday</TIMEX3>
+
+Next week sounds fine.
+Next week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t1" type="DATE" value="2014-W04">Next week</TIMEX3>
+
+Can we do the pre-technical review call on next Wednesday at 10:00 AM xxx?
+next Wednesday at 10:00 AM=<TIMEX3 range="(2014-01-22-WXX-3T10:00:00.000,2014-01-22-WXX-3T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-22T10:00">next Wednesday at 10:00 AM</TIMEX3>
+
+Can we meet tomorrow around 11am at xxxxxxxxx?
+tomorrow=<TIMEX3 range="(2014-01-16,2014-01-16,P1D)" tid="t1" type="DATE" value="2014-01-16">tomorrow</TIMEX3>
+11am=<TIMEX3 range="(2014-01-15T11:00:00.000,2014-01-15T11:59:59.999,PT1H)" tid="t2" type="TIME" value="2014-01-15T11">11am</TIMEX3>
+
+See you at 3pm at xxxxxx xxxxxxxxx in xxxxx xxxxxx.
+3pm=<TIMEX3 range="(2014-01-15T15:00:00.000,2014-01-15T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-15T15">3pm</TIMEX3>
+
+Lets catch up sometime today to go over what we need to discuss with xxxxxxxxx.
+today=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t1" type="DATE" value="2014-01-15">today</TIMEX3>
+
+Let''s do the first call with her today / tomorrow and then when I am bac
+today=<TIMEX3 range="(2014-01-15,2014-01-15,P1D)" tid="t1" type="DATE" value="2014-01-15">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-16,2014-01-16,P1D)" tid="t2" type="DATE" value="2014-01-16">tomorrow</TIMEX3>
+
+xxxx that we could catch up again sometime in next week.
+next week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t1" type="DATE" value="2014-W04">next week</TIMEX3>
+
+xxxxxxx - Will yyyy PM tomorrow work for you ?
+tomorrow=<TIMEX3 range="(2014-01-16,2014-01-16,P1D)" tid="t1" type="DATE" value="2014-01-16">tomorrow</TIMEX3>
+
+Let me know when you all are free today and we can schedule the call then.
+today=<TIMEX3 range="(2014-01-16,2014-01-16,P1D)" tid="t1" type="DATE" value="2014-01-16">today</TIMEX3>
+
+Let us plan to meet at around 1130am on Wednesday.
+1130am on Wednesday=<TIMEX3 range="(2014-01-15-WXX-3T11:30:00.000,2014-01-15-WXX-3T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-15T11:30">1130am on Wednesday</TIMEX3>
+
+sure will call you up on saturday.
+saturday=<TIMEX3 range="(2014-01-18-WXX-6,2014-01-18-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-18">saturday</TIMEX3>
+
+Does tomorrow 0930am work for you?
+tomorrow 0930am=<TIMEX3 range="(2014-01-17T09:30:00.000,2014-01-17T09:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-17T09:30">tomorrow 0930am</TIMEX3>
+
+I will be coming to office tomorrow and meet you to discuss this.
+tomorrow=<TIMEX3 range="(2014-01-17,2014-01-17,P1D)" tid="t1" type="DATE" value="2014-01-17">tomorrow</TIMEX3>
+
+Sure, let us meet/conf call tomorrow at 3:30PM and sync up.
+tomorrow at 3:30PM=<TIMEX3 range="(2014-01-17T15:30:00.000,2014-01-17T15:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-17T15:30">tomorrow at 3:30PM</TIMEX3>
+
+We can talk tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-17,2014-01-17,P1D)" tid="t1" type="DATE" value="2014-01-17">tomorrow</TIMEX3>
+
+Otherwise we can talk tomorrow morning.
+tomorrow morning=<TIMEX3 range="(2014-01-17T06:00:00.000,2014-01-17T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-17TMO">tomorrow morning</TIMEX3>
+
+xxx xxxxx would like to inspect the apartment tomorrow or on Sunday.
+tomorrow=<TIMEX3 range="(2014-01-17,2014-01-17,P1D)" tid="t1" type="DATE" value="2014-01-17">tomorrow</TIMEX3>
+Sunday=<TIMEX3 range="(2014-01-19-WXX-7,2014-01-19-WXX-7,P1D)" tid="t2" type="DATE" value="2014-01-19">Sunday</TIMEX3>
+
+Any other day next week is fine with us.
+day next week=<TIMEX3 alt_value="2014-01-W04 INTERSECT P1D" anchorTimeID="t2" range="(2014-01-W04 INTERSECT P1D,2014-01-W04 INTERSECT P1D,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">day next week</TIMEX3>
+
+Would Monday evening or Tuesday evening work around 6pm?
+Monday evening=<TIMEX3 range="(2014-01-13-WXX-1T18:00:00.000,2014-01-13-WXX-1T20,PT2H)" tid="t1" type="TIME" value="2014-01-13TEV">Monday evening</TIMEX3>
+Tuesday evening=<TIMEX3 range="(2014-01-14-WXX-2T18:00:00.000,2014-01-14-WXX-2T20,PT2H)" tid="t2" type="TIME" value="2014-01-14TEV">Tuesday evening</TIMEX3>
+6pm=<TIMEX3 range="(2014-01-17T18:00:00.000,2014-01-17T18:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-17T18">6pm</TIMEX3>
+
+Let us plan to chat around 10pm.
+10pm.=<TIMEX3 range="(2014-01-17T22:00:00.000,2014-01-17T22:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-17T22">10pm.</TIMEX3>
+
+Let us do it at 11am.
+11am.=<TIMEX3 range="(2014-01-17T11:00:00.000,2014-01-17T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-17T11">11am.</TIMEX3>
+
+See you on Sunday then.
+Sunday=<TIMEX3 range="(2014-01-19-WXX-7,2014-01-19-WXX-7,P1D)" tid="t1" type="DATE" value="2014-01-19">Sunday</TIMEX3>
+
+Will 2pm work for you?
+2pm=<TIMEX3 range="(2014-01-17T14:00:00.000,2014-01-17T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-17T14">2pm</TIMEX3>
+
+Why dont we chat today and catch up with xxxx on Monday.
+today=<TIMEX3 range="(2014-01-17,2014-01-17,P1D)" tid="t1" type="DATE" value="2014-01-17">today</TIMEX3>
+Monday=<TIMEX3 range="(2014-01-20-WXX-1,2014-01-20-WXX-1,P1D)" tid="t2" type="DATE" value="2014-01-20">Monday</TIMEX3>
+
+Please feel free to let me know your availability for this weekend or coffee sometime next week.
+this weekend=<TIMEX3 range="(2014-01-18,2014-01-19,P2D)" tid="t1" type="DATE" value="2014-W03-WE">this weekend</TIMEX3>
+next week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t2" type="DATE" value="2014-W04">next week</TIMEX3>
+
+May I suggest Tuesday yyyy at 11am, 1pm, or 2pm?
+May=<TIMEX3 range="(2014-05-01,2014-05-31,P1M)" tid="t1" type="DATE" value="2014-05">May</TIMEX3>
+Tuesday=<TIMEX3 range="(2014-01-21-WXX-2,2014-01-21-WXX-2,P1D)" tid="t2" type="DATE" value="2014-01-21">Tuesday</TIMEX3>
+11am=<TIMEX3 range="(2014-01-17T11:00:00.000,2014-01-17T11:59:59.999,PT1H)" tid="t3" type="TIME" value="2014-01-17T11">11am</TIMEX3>
+1pm=<TIMEX3 range="(2014-01-17T13:00:00.000,2014-01-17T13:59:59.999,PT1H)" tid="t4" type="TIME" value="2014-01-17T13">1pm</TIMEX3>
+2pm=<TIMEX3 range="(2014-01-17T14:00:00.000,2014-01-17T14:59:59.999,PT1H)" tid="t5" type="TIME" value="2014-01-17T14">2pm</TIMEX3>
+
+Please feel free to call me anytime today or tomorrow.
+today=<TIMEX3 range="(2014-01-17,2014-01-17,P1D)" tid="t1" type="DATE" value="2014-01-17">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-18,2014-01-18,P1D)" tid="t2" type="DATE" value="2014-01-18">tomorrow</TIMEX3>
+
+HI xxx, Just want to check that we are still planning to meet at 10:30 on Tuesday Jan 21 (and connecting Puja via skype).
+10:30 on Tuesday Jan 21=<TIMEX3 range="(2014-01-21-WXX-2T10:30:00.000,2014-01-21-WXX-2T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-21T10:30">10:30 on Tuesday Jan 21</TIMEX3>
+
+I may be in B''lore on one of yyyyy Jan, so if easier we can meet then too
+Jan=<TIMEX3 range="(2014-01-01,2014-01-31,P1M)" tid="t1" type="DATE" value="2014-01">Jan</TIMEX3>
+
+In case there is ambiguity, please discuss with me on Monday.
+Monday=<TIMEX3 range="(2014-01-20-WXX-1,2014-01-20-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-20">Monday</TIMEX3>
+
+xxxxxx would be at home Wednesday 5 - 7 p.m. I have to go to my xxxx Writing xxxxx, but you could be free?
+Wednesday=<TIMEX3 range="(2014-01-22-WXX-3,2014-01-22-WXX-3,P1D)" tid="t1" type="DATE" value="2014-01-22">Wednesday</TIMEX3>
+7 p.m.=<TIMEX3 range="(2014-01-18T19:00:00.000,2014-01-18T19:00:59.999,PT1M)" tid="t2" type="TIME" value="2014-01-18T19:00">7 p.m.</TIMEX3>
+
+We can call tomorrow!
+tomorrow=<TIMEX3 range="(2014-01-19,2014-01-19,P1D)" tid="t1" type="DATE" value="2014-01-19">tomorrow</TIMEX3>
+
+10 am xxx on Monday is fine with us.
+10 am=<TIMEX3 range="(2014-01-18T10:00:00.000,2014-01-18T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-18T10:00">10 am</TIMEX3>
+Monday=<TIMEX3 range="(2014-01-20-WXX-1,2014-01-20-WXX-1,P1D)" tid="t2" type="DATE" value="2014-01-20">Monday</TIMEX3>
+
+Call me tomorrow morning and I will suggest what to inform customer.
+tomorrow morning=<TIMEX3 range="(2014-01-20T06:00:00.000,2014-01-20T12:00,PT6H)" tid="t1" type="TIME" value="2014-01-20TMO">tomorrow morning</TIMEX3>
+
+Will call you Monday.
+Monday=<TIMEX3 range="(2014-01-20-WXX-1,2014-01-20-WXX-1,P1D)" tid="t1" type="DATE" value="2014-01-20">Monday</TIMEX3>
+
+So, Thursday it is.
+Thursday=<TIMEX3 range="(2014-01-23-WXX-4,2014-01-23-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-23">Thursday</TIMEX3>
+
+Sure xxxxxxxx Come by Wed at 3pm?
+Wed at 3pm=<TIMEX3 range="(2014-01-15-WXX-3T15:00:00.000,2014-01-15-WXX-3T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-15T15">Wed at 3pm</TIMEX3>
+
+You can call me either at yyyyy AM today or tomorrow.
+today=<TIMEX3 range="(2014-01-19,2014-01-19,P1D)" tid="t1" type="DATE" value="2014-01-19">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-20,2014-01-20,P1D)" tid="t2" type="DATE" value="2014-01-20">tomorrow</TIMEX3>
+
+Just want to check that we are still planning to meet at 10:30 on Tuesday Jan 21 (and connecting Puja via skype).
+10:30 on Tuesday Jan 21=<TIMEX3 range="(2014-01-21-WXX-2T10:30:00.000,2014-01-21-WXX-2T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-21T10:30">10:30 on Tuesday Jan 21</TIMEX3>
+
+Lets discuss this in second half today?
+today=<TIMEX3 range="(2014-01-19,2014-01-19,P1D)" tid="t1" type="DATE" value="2014-01-19">today</TIMEX3>
+
+Hi xxxxx xx block wednesday 10 am for now.
+wednesday 10 am=<TIMEX3 range="(2014-01-15-WXX-3T10:00:00.000,2014-01-15-WXX-3T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-15T10:00">wednesday 10 am</TIMEX3>
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>
+
+Thursday 3 PM works perfectly.
+Thursday 3 PM=<TIMEX3 range="(2014-01-16-WXX-4T15:00:00.000,2014-01-16-WXX-4T15:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-16T15:00">Thursday 3 PM</TIMEX3>
+
+So let us have the call on Thursday and see how it goes.
+Thursday=<TIMEX3 range="(2014-01-23-WXX-4,2014-01-23-WXX-4,P1D)" tid="t1" type="DATE" value="2014-01-23">Thursday</TIMEX3>
+
+Thursday afternoon call is fine.
+Thursday afternoon=<TIMEX3 range="(2014-01-23-WXX-4T12:00:00.000,2014-01-23-WXX-4T18,PT6H)" tid="t1" type="TIME" value="2014-01-23TAF">Thursday afternoon</TIMEX3>
+
+Can I request you to meet with our leadership team asap (as early as tomorrow) and see how to resolve this?
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+
+10am?
+10am=<TIMEX3 range="(2014-01-20T10:00:00.000,2014-01-20T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-20T10">10am</TIMEX3>
+
+Will plan on meeting later this week?
+later this week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t1" type="DATE" value="2014-W04">later this week</TIMEX3>
+
+Hey xxxxxxxx, See you tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+
+What about 9 AM tomorrow(21st Jan) on xxxxx?
+about 9 AM tomorrow=<TIMEX3 range="(2014-01-21T09:00:00.000,2014-01-21T09:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-21T09:00">about 9 AM tomorrow</TIMEX3>
+21st Jan=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t2" type="DATE" value="2014-01-21">21st Jan</TIMEX3>
+
+m. tomorrow sounds perfect!
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+
+A quick reminder that we will have our peer writing group meeting tomorrow *January 21st *at* 10 AM* at the *yyy xxxxxxxxx xxxxxxxxxxx building*.
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+January 21st=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t2" type="DATE" value="2014-01-21">January 21st</TIMEX3>
+10 AM=<TIMEX3 range="(2014-01-20T10:00:00.000,2014-01-20T10:00:59.999,PT1M)" tid="t3" type="TIME" value="2014-01-20T10:00">10 AM</TIMEX3>
+
+Could we reschedule for this Friday at 1pm at the same location?
+this Friday at 1pm=<TIMEX3 range="(2014-01-24-WXX-5T13:00:00.000,2014-01-24-WXX-5T13:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-24T13">this Friday at 1pm</TIMEX3>
+
+How about Wednesday morning 11 AM?
+about Wednesday morning 11 AM=<TIMEX3 range="(,,PT1M)" tid="t1" type="TIME" value="2014-01-22T11:00">about Wednesday morning 11 AM</TIMEX3>
+
+1) 2nd Feb - works for Mumu y) 16th Feb - works for both of us
+2nd Feb=<TIMEX3 range="(2014-02-02,2014-02-02,P1D)" tid="t1" type="DATE" value="2014-02-02">2nd Feb</TIMEX3>
+16th Feb=<TIMEX3 range="(2014-02-16,2014-02-16,P1D)" tid="t2" type="DATE" value="2014-02-16">16th Feb</TIMEX3>
+
+So, can I meet you tomorrow instead ?
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+
+Do you have sometime tomorrow to discuss ?
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+
+Be regular to the schedule, see you tomorrow!!
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+

@@ -1,0 +1,1 @@
+Extract train_set.zip and validation-test.zip and then run program, in Jupiter notebook

@@ -1,0 +1,2066 @@
+Please let me know by today evening if there are any changes as xxxxxx will be on vacation from tomorrow
+today evening=<TIMEX3 range="(2013-05-15T18:00:00.000,2013-05-15T20,PT2H)" tid="t1" type="TIME" value="2013-05-15TEV">today evening</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-05-16,2013-05-16,P1D)" tid="t2" type="DATE" value="2013-05-16">tomorrow</TIMEX3>
+
+Can you take latest and check.
+
+Also can we have a call early next week so we can discuss regarding some other stuff related the code.
+early next week=<TIMEX3 mod="EARLY" range="(2013-05-20,2013-05-26,P1W)" tid="t1" type="DATE" value="2013-W21">early next week</TIMEX3>
+
+Are we receiving the PSD''s today
+today=<TIMEX3 range="(2013-05-19,2013-05-19,P1D)" tid="t1" type="DATE" value="2013-05-19">today</TIMEX3>
+
+xxxx will be helping out, could you guide him to help him extract this list to help set up the testing for xxx side.
+
+can you put a youtube video?
+
+Once I am back, can we try and debug this?
+Once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">Once</TIMEX3>
+
+Can you put a date against the pending/in progress pages, so that we get an idea of the completion date.
+
+xxxx you managed to log in for the call?
+
+Can we set a call today after yyyypm to discuss on what are the next steps?
+today=<TIMEX3 range="(2013-05-22,2013-05-22,P1D)" tid="t1" type="DATE" value="2013-05-22">today</TIMEX3>
+
+Can you provide a list of revs by folder ?
+
+Can you create one or two slides how xxxxxxx solutions may increase potential for monetization to xxxxxxx?
+
+Please confirm that it is set up to do this.
+
+xxxxx - Please give details as to why the y separate and different fail cases in this bug are occurring, and how each can be resolved, as soon as possible.
+
+xxxx, can you sched an 11am call with this distro to review bug retesting, and decide on a prod launch at that time?
+11am=<TIMEX3 range="(2013-05-24T11:00:00.000,2013-05-24T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-05-24T11">11am</TIMEX3>
+
+Can you please introduce me to xxxxxxxx Pal ( ) at xxxxxxxx?
+
+Can you please send us a Static xx address from where the server will be accessed.
+
+Can you create a demo of xxx basketball finals (underway) with contextual tweets?
+
+Please let me know if I can go ahead and block yyyyy am to yyyyy noon
+noon=<TIMEX3 range="(2013-06-04T12:00:00.000,2013-06-04T12:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-06-04T12:00">noon</TIMEX3>
+
+Should I wait for her to respond or pitch in may be tomorrow ?
+tomorrow=<TIMEX3 range="(2013-06-05,2013-06-05,P1D)" tid="t1" type="DATE" value="2013-06-05">tomorrow</TIMEX3>
+
+Can I call you sometime to give you the context of the event.
+
+Will it be possible for you to meet on fri around 3 pm
+fri=<TIMEX3 range="(2013-06-07-WXX-5,2013-06-07-WXX-5,P1D)" tid="t1" type="DATE" value="2013-06-07">fri</TIMEX3>
+3 pm=<TIMEX3 range="(2013-06-04T15:00:00.000,2013-06-04T15:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-06-04T15:00">3 pm</TIMEX3>
+
+It would be great if we could all jump on a call next week!
+next week=<TIMEX3 range="(2013-06-10,2013-06-16,P1W)" tid="t1" type="DATE" value="2013-W24">next week</TIMEX3>
+
+Rajesh wants to know if you guys can make it at yyyy pm today as he has to head out by yyyy.
+today=<TIMEX3 range="(2013-06-05,2013-06-05,P1D)" tid="t1" type="DATE" value="2013-06-05">today</TIMEX3>
+
+Please share the snapshots asap for aporovals
+
+Please let me know if i need to change anything, So that i can send the same across to senthil.
+
+Sure - can we setup a time for friday morning?
+friday morning=<TIMEX3 range="(2013-06-14-WXX-5T06:00:00.000,2013-06-14-WXX-5T12:00,PT6H)" tid="t1" type="TIME" value="2013-06-14TMO">friday morning</TIMEX3>
+
+xxxxxxx, Can we have another resource help with contact form & homepage design
+
+Will it be possible for you to meet this week on fri or mon second half.
+this week=<TIMEX3 range="(2013-06-10,2013-06-16,P1W)" tid="t1" type="DATE" value="2013-W24">this week</TIMEX3>
+fri=<TIMEX3 range="(2013-06-14-WXX-5,2013-06-14-WXX-5,P1D)" tid="t2" type="DATE" value="2013-06-14">fri</TIMEX3>
+mon second=<TIMEX3 range="(2013-06-02-WXX-1,2013-06-02-WXX-1,P1D)" tid="t3" type="DATE" value="2013-06-02">mon second</TIMEX3>
+
+10 AM - will you call on my mobile?
+10 AM=<TIMEX3 range="(2013-06-12T10:00:00.000,2013-06-12T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-06-12T10:00">10 AM</TIMEX3>
+
+Can you provide updated html/css that can enable this to work? "
+
+did u connect w her?
+
+could you respond to that ?
+
+Why would it return xxxx?
+
+How about 11:30 AM tomorrow?
+about 11:30 AM tomorrow=<TIMEX3 range="(2013-06-18T11:30:00.000,2013-06-18T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-06-18T11:30">about 11:30 AM tomorrow</TIMEX3>
+
+Let me know if anything else is required for completion of this process.
+
+is there a doc/ppt I can send to him to set the context for a call??
+
+xxxx & xxxxxxx, Could either of you let me know what would be the costing for this project and what is the best approach phone-gap or native with embedded web view and which team is going to work on it.
+
+We could catch up tomorrow at 3 PM in the afternoon if that''s feasible
+tomorrow at 3 PM in the afternoon=<TIMEX3 range="(2013-06-28T15:00:00.000,2013-06-28T15:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-06-28T15:00">tomorrow at 3 PM in the afternoon</TIMEX3>
+
+Good morning sir, I have sent you both the videos.Please check and let me know whether I have to take clip today also or not.
+today=<TIMEX3 range="(2013-06-27,2013-06-27,P1D)" tid="t1" type="DATE" value="2013-06-27">today</TIMEX3>
+
+Let me know who it will be.
+
+Can you please investigate and make sure the cron runs for non-site clients?
+
+Can you send me the deck one more time?
+
+Please let me know whether we will deliver the xxxxxx app first or the xxxx?
+
+Dear xxxxxxxxx, As discussed over telco kindly send me data as below:
+
+xxxxxxx, Could you assign someone to look into this?
+
+Could you check?
+
+Can we expect to receive it by end of day today?
+end of day today=<TIMEX3 alt_value="2013-07-07 INTERSECT P1D" anchorTimeID="t2" mod="LATE" range="(2013-07-07 INTERSECT P1D,2013-07-07 INTERSECT P1D,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">end of day today</TIMEX3>
+
+How about having xxxxxxx and xxxxx working on this.
+
+Could you please create a database by name stating1 for new build so that I can deploy it on server and later on I''ll be working on server directly
+
+Can you please help me with your Pan no as soon as possible?
+
+Can you please send me the issue numbers from xxxxxx, which you all are fixing today?
+today=<TIMEX3 range="(2013-07-15,2013-07-15,P1D)" tid="t1" type="DATE" value="2013-07-15">today</TIMEX3>
+
+> Hi, > > Can you please send me the issue numbers from xxxxxx, which you all are fixing today?
+today=<TIMEX3 range="(2013-07-15,2013-07-15,P1D)" tid="t1" type="DATE" value="2013-07-15">today</TIMEX3>
+
+Can we confirm the cron code is the same between staging and prod?
+
+- can you claim depreciation as well as investment allowance on the same asset/investment?
+
+Please submit xxxxx band bills at the earliest for the Period of April to June 2013 (1st Quarter)
+April to June 2013=<TIMEX3 beginPoint="t1" endPoint="t2" range="(XXXX-4-XX,2013-6-XX,PT17647056H)" tid="t3" type="DURATION" value="PT17647056H">April to June 2013</TIMEX3>
+1st Quarter=<TIMEX3 range="(2014-Q1-01-01,2014-Q1-03-31,P3M)" tid="t4" type="DATE" value="2014-Q1">1st Quarter</TIMEX3>
+
+Can we meet sometime next week?
+next week=<TIMEX3 range="(2013-07-22,2013-07-28,P1W)" tid="t1" type="DATE" value="2013-W30">next week</TIMEX3>
+
+How about lunch today x 1:00.
+today=<TIMEX3 range="(2013-07-18,2013-07-18,P1D)" tid="t1" type="DATE" value="2013-07-18">today</TIMEX3>
+1:00=<TIMEX3 range="(2013-07-18T01:00:00.000,2013-07-18T01:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-07-18T01:00">1:00</TIMEX3>
+
+Can xxxxxxxx come to xxxx office and sign this on Monday?
+Monday=<TIMEX3 range="(2013-07-22-WXX-1,2013-07-22-WXX-1,P1D)" tid="t1" type="DATE" value="2013-07-22">Monday</TIMEX3>
+
+Could you please send me plot pics.
+
+All the changes have been done and is live.Can we close Kick-Ass today?
+today=<TIMEX3 range="(2013-07-23,2013-07-23,P1D)" tid="t1" type="DATE" value="2013-07-23">today</TIMEX3>
+
+Let me know whether it��s feasible to do it in xxx or xxxxxxxxx.
+
+Please confirm the receipt of the mails
+
+Can you please share your phone number xxxxx and I will call you post yyyy pm today
+today=<TIMEX3 range="(2013-07-31,2013-07-31,P1D)" tid="t1" type="DATE" value="2013-07-31">today</TIMEX3>
+
+Can we have the meeting on friday 2nd August ?
+friday 2nd August=<TIMEX3 range="(2013-08-02-WXX-5,2013-08-02-WXX-5,P1D)" tid="t1" type="DATE" value="2013-08-02">friday 2nd August</TIMEX3>
+
+Yes it possible for tomorrow before lunch hour?
+tomorrow before=<TIMEX3 range="(2013-08-06,2013-08-06,P1D)" tid="t1" type="DATE" value="2013-08-06">tomorrow before</TIMEX3>
+hour=<TIMEX3 range="(,,PT1H)" tid="t2" type="DURATION" value="PT1H">hour</TIMEX3>
+
+What are you guys working on today?
+today=<TIMEX3 range="(2013-08-05,2013-08-05,P1D)" tid="t1" type="DATE" value="2013-08-05">today</TIMEX3>
+
+Can you please send them in a different file formats, xxxxx point, MPEG etc?
+
+Please send me the update, as we need to confirm the client.
+
+Let me know if we can sync up tomorrow.
+tomorrow=<TIMEX3 range="(2013-08-14,2013-08-14,P1D)" tid="t1" type="DATE" value="2013-08-14">tomorrow</TIMEX3>
+
+Kindly confirm one of these slots by tomorrow evening so that we can catch up positively.
+tomorrow evening=<TIMEX3 range="(2013-08-19T18:00:00.000,2013-08-19T20,PT2H)" tid="t1" type="TIME" value="2013-08-19TEV">tomorrow evening</TIMEX3>
+
+Can we do it yyyy pm xxxxx time on Monday?
+Monday=<TIMEX3 range="(2013-08-19-WXX-1,2013-08-19-WXX-1,P1D)" tid="t1" type="DATE" value="2013-08-19">Monday</TIMEX3>
+
+Can you ask xxxxx xx person to meet us tomorrow ?
+tomorrow=<TIMEX3 range="(2013-08-20,2013-08-20,P1D)" tid="t1" type="DATE" value="2013-08-20">tomorrow</TIMEX3>
+
+Please have a look at the website and let me know can we develop this in a short period.
+
+Let me know what help you require and we would be glad to provide you the same.
+
+xxxxxxxxxxxxx, Could we move this into more stable platform?
+
+Let me know and I will setup the calendar.
+
+We could meet at yy yyy AM Thursday if that''s good for you
+Thursday=<TIMEX3 range="(2013-08-22-WXX-4,2013-08-22-WXX-4,P1D)" tid="t1" type="DATE" value="2013-08-22">Thursday</TIMEX3>
+
+Please check it and let me know your feedback.
+
+Did you come to xxxx today ?
+today=<TIMEX3 range="(2013-08-26,2013-08-26,P1D)" tid="t1" type="DATE" value="2013-08-26">today</TIMEX3>
+
+Can we talk sometime today or tomorrow morning ?
+today=<TIMEX3 range="(2013-08-27,2013-08-27,P1D)" tid="t1" type="DATE" value="2013-08-27">today</TIMEX3>
+tomorrow morning=<TIMEX3 range="(2013-08-28T06:00:00.000,2013-08-28T12:00,PT6H)" tid="t2" type="TIME" value="2013-08-28TMO">tomorrow morning</TIMEX3>
+
+Can we schedule something for Thursday morning for you?
+Thursday morning=<TIMEX3 range="(2013-08-29-WXX-4T06:00:00.000,2013-08-29-WXX-4T12:00,PT6H)" tid="t1" type="TIME" value="2013-08-29TMO">Thursday morning</TIMEX3>
+
+Let me know your interest in checking out the property over the weekend.
+the weekend=<TIMEX3 range="(2013-08-31,2013-09-01,P2D)" tid="t1" type="DATE" value="2013-W35-WE">the weekend</TIMEX3>
+
+cAn you say what your revenues from this system is?
+
+Perhaps we can have a xxxxx chat?
+
+How about Tue morning your time at yyyy AM?
+about Tue morning=<TIMEX3 range="(2013-09-03-WXX-2T06:00:00.000,2013-09-03-WXX-2T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-03TMO">about Tue morning</TIMEX3>
+
+Hey xxxxxxx, Could we wrap it up today?
+today=<TIMEX3 range="(2013-09-03,2013-09-03,P1D)" tid="t1" type="DATE" value="2013-09-03">today</TIMEX3>
+
+Please take a look and share your feedback.
+
+Can you please check and confirm.
+
+Can you email me the link so I can look through it prior to the chat?
+
+Can we look at them to see if there is anything more unique?
+
+Hi xxxxx, xxxxxxxxx for the last minute but could we speak later in the afternoon?
+the last minute=<TIMEX3 range="(2013-09-03TXX:XX:00.000,2013-09-03TXX:XX:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-03TXX">the last minute</TIMEX3>
+afternoon=<TIMEX3 range="(2013-09-04T12:00:00.000,2013-09-04T18,PT6H)" tid="t2" type="TIME" value="2013-09-04TAF">afternoon</TIMEX3>
+
+Let me know your feedback.
+
+Check and let me know.
+
+Can we get a timeline on this?
+
+Will do xxxxx, can you put together a small deck on fabric with updated portfolio description?
+
+Can you email rahuls address?
+
+Can you please make sure these accounts are transferred on my name so that I can see the revenues and review these accounts.
+
+let me know :)
+
+Can you let us know what the status is?
+
+As discussed on the call yesterday, could you please drop an email to the following requesting them to send our eDM to their database.
+yesterday=<TIMEX3 range="(2013-09-04,2013-09-04,P1D)" tid="t1" type="DATE" value="2013-09-04">yesterday</TIMEX3>
+
+Can we talk on Sunday evening sometime?
+Sunday evening=<TIMEX3 range="(2013-09-08-WXX-7T18:00:00.000,2013-09-08-WXX-7T20,PT2H)" tid="t1" type="TIME" value="2013-09-08TEV">Sunday evening</TIMEX3>
+
+Kindly let us know about the same.
+
+Can we remove this
+
+Can you send me the specs that we are looking for a server?
+
+I have come up with a list of possible domain names for finance blog, can you please pick your top five favorite out of it: (apart from y, you can also suggest more, you can check availability at )
+
+Can you help us out here?
+
+Around 8PM?
+8PM=<TIMEX3 range="(2013-09-05T20:00:00.000,2013-09-05T20:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-05T20">8PM</TIMEX3>
+
+Can your team create project plan or list of dependencies to meet those time lines?
+
+9am IST?
+9am=<TIMEX3 range="(2013-09-05T09:00:00.000,2013-09-05T09:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-05T09">9am</TIMEX3>
+
+Hi xxxxx, what''s your availability to meet next week
+next week=<TIMEX3 range="(2013-09-09,2013-09-15,P1W)" tid="t1" type="DATE" value="2013-W37">next week</TIMEX3>
+
+Can you please suggest us whether we should go ahead with this investment proposal, or wait for some more time once we start earning revenues from our product?
+once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">once</TIMEX3>
+
+Can we discuss today?
+today=<TIMEX3 range="(2013-09-05,2013-09-05,P1D)" tid="t1" type="DATE" value="2013-09-05">today</TIMEX3>
+
+I would like to schedule an appointment with you to discuss the possibility of working with xxxxxxxxx in certain areas that has huge growth potential.
+
+xxxxx, please send me screen shot of all screen in parabola android app.
+
+Can you send xxxxx and I a couple of examples of sector thesis documents that you have worked on, thanks.
+
+Let us know your feedback & initialise the discussion on Tuesday.
+Tuesday=<TIMEX3 range="(2013-09-03-WXX-2,2013-09-03-WXX-2,P1D)" tid="t1" type="DATE" value="2013-09-03">Tuesday</TIMEX3>
+
+- Let me know you input on this.
+
+So I can start to make a whitelist of users who we can safely get tweets or xxxxx from?
+
+Please let me know the correct full name of xxxxxxxx (xxxxxxxx xxxxxxxxx xxxx xxxx - ?)
+
+Can I call you today around 10 AM?
+today=<TIMEX3 range="(2013-09-06,2013-09-06,P1D)" tid="t1" type="DATE" value="2013-09-06">today</TIMEX3>
+10 AM=<TIMEX3 range="(2013-09-06T10:00:00.000,2013-09-06T10:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-06T10:00">10 AM</TIMEX3>
+
+Can we transfer *xxxxxxxx to xxxxxxxxxxxx xxxxxxx xxxxxx xxxxxxx* event money into same a/c?
+
+y>RK - ive indicated that you might also join the call since commercials will be discussed - is next friday morning, yyyyam ok for you?
+
+*Dear xxxxx, * ** *Would appreciate if you could kindly do the needful as instructed & send proof for approval * ** ** *Brdgs * ** ** *Sharmistha*
+
+Can we either talk around 3:30 or 4PM today or Tuesday anytime after 3PM.
+3:30=<TIMEX3 range="(2013-09-06T03:30:00.000,2013-09-06T03:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-06T03:30">3:30</TIMEX3>
+4PM today=<TIMEX3 range="(2013-09-06T16:00:00.000,2013-09-06T16:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-06T16">4PM today</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-09-03-WXX-2,2013-09-03-WXX-2,P1D)" tid="t3" type="DATE" value="2013-09-03">Tuesday</TIMEX3>
+3PM.=<TIMEX3 range="(2013-09-06T15:00:00.000,2013-09-06T15:59:59.999,PT1H)" tid="t4" type="TIME" value="2013-09-06T15">3PM.</TIMEX3>
+
+How about Saturday or Sunday?
+about Saturday=<TIMEX3 range="(2013-09-07-WXX-6,2013-09-07-WXX-6,P1D)" tid="t1" type="DATE" value="2013-09-07">about Saturday</TIMEX3>
+Sunday=<TIMEX3 range="(2013-09-08-WXX-7,2013-09-08-WXX-7,P1D)" tid="t2" type="DATE" value="2013-09-08">Sunday</TIMEX3>
+
+Can we have one more sheet in the xls which point-wise tells what should the bot spotter do.
+
+Can you email us the all the fonts used (header, fonts on the picture and the fonts for text).
+
+Can we redesign the "add a course" and "I want to teach" box.
+
+weekend treks-ige on idya?
+weekend=<TIMEX3 range="(2013-09-07,2013-09-08,P2D)" tid="t1" type="DATE" value="2013-W36-WE">weekend</TIMEX3>
+
+Please can you give me a name & e-mail id (Ideally the sales head or else a co-founder''s name) so that I can connect with them
+
+Can you also deploy the database with a few more users created for Harness in xx and xxx xxxxx class (harness01 to harness10)?
+
+Can you ping me if you are around today?
+today=<TIMEX3 range="(2013-09-07,2013-09-07,P1D)" tid="t1" type="DATE" value="2013-09-07">today</TIMEX3>
+
+Please mention in which month do you required booking.
+month=<TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+
+Let me know what needs to conveyed regarding the company bearing the transaction cost for the angels.
+
+How about 10am?
+about 10am=<TIMEX3 range="(2013-09-08T10:00:00.000,2013-09-08T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-08T10">about 10am</TIMEX3>
+
+Please let me know your contact number and we can catch up.
+
+I asked many more but most have minimum requirement of yyyyyy people and yy is too less:( Let me know what happens tomorrow, we can keep nandini as backup in case nothing works out well
+tomorrow=<TIMEX3 range="(2013-09-09,2013-09-09,P1D)" tid="t1" type="DATE" value="2013-09-09">tomorrow</TIMEX3>
+
+Will 1:30-2pm work for you?
+1:30=<TIMEX3 range="(2013-09-08T01:30:00.000,2013-09-08T01:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-08T01:30">1:30</TIMEX3>
+2pm=<TIMEX3 range="(2013-09-08T14:00:00.000,2013-09-08T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-08T14">2pm</TIMEX3>
+
+xxxx, Can you dial me around y today?
+today=<TIMEX3 range="(2013-09-09,2013-09-09,P1D)" tid="t1" type="DATE" value="2013-09-09">today</TIMEX3>
+
+xxxxx - does Friday evening work for you?
+Friday evening=<TIMEX3 range="(2013-09-13-WXX-5T18:00:00.000,2013-09-13-WXX-5T20,PT2H)" tid="t1" type="TIME" value="2013-09-13TEV">Friday evening</TIMEX3>
+
+Can you please help me with any references?
+
+Can we try to proceed with some candidates?
+
+Can we do later this week
+later this week=<TIMEX3 range="(2013-09-09,2013-09-15,P1W)" tid="t1" type="DATE" value="2013-W37">later this week</TIMEX3>
+
+Could you please advise on your preference for a meeting today?
+today=<TIMEX3 range="(2013-09-09,2013-09-09,P1D)" tid="t1" type="DATE" value="2013-09-09">today</TIMEX3>
+
+Can you please give us an online demo this Thursday evening at 7 pm?
+this Thursday evening at 7 pm=<TIMEX3 range="(,,PT1M)" tid="t1" type="TIME" value="2013-09-12T19:00">this Thursday evening at 7 pm</TIMEX3>
+
+Could we schedule the call after 2pm tomorrow ?
+2pm tomorrow=<TIMEX3 range="(2013-09-10T14:00:00.000,2013-09-10T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-10T14">2pm tomorrow</TIMEX3>
+
+Please let me know if it is okay or if you wish to make any edits.
+
+By first month, you mean end of September?
+month=<TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+end of September=<TIMEX3 mod="LATE" range="(2013-09-01,2013-09-30,P1M)" tid="t2" type="DATE" value="2013-09">end of September</TIMEX3>
+
+Can you please share the new credentials after reset.
+
+Can we move the call today at 2.00pm today?
+today at 2.00pm today=<TIMEX3 range="(2013-09-09T12:00:00.000,2013-09-09T12:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-09T12">today at 2.00pm today</TIMEX3>
+
+Can you handle this?
+
+Can we have xxxxxxxx xxxxxxxxxx or someone from xxxxxxxxx as host and Ganeshan as speaker.
+
+Can you update this and I can quickly send it out?
+
+> > Can you collect the resumes of students who would be interested?
+
+what is the best way to track this till the end of this month so that we do not forget?
+the end of this month=<TIMEX3 mod="LATE" range="(2013-09-01,2013-09-30,P1M)" tid="t1" type="DATE" value="2013-09">the end of this month</TIMEX3>
+
+Can we have this call at 7:30 PM post our lead gen review?
+7:30 PM=<TIMEX3 range="(2013-09-10T19:30:00.000,2013-09-10T19:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-10T19:30">7:30 PM</TIMEX3>
+
+Please let us know on the availability of xxxxxxxxxxx & xxxxxx also.
+
+Can you please reschedule my tomorrow''s tasks
+tomorrow=<TIMEX3 range="(2013-09-11,2013-09-11,P1D)" tid="t1" type="DATE" value="2013-09-11">tomorrow</TIMEX3>
+
+Raksha - I have got back to back meetings starting tomorrow at 6pm, so can you reschedule our match?
+tomorrow at 6pm=<TIMEX3 range="(2013-09-11T18:00:00.000,2013-09-11T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-11T18">tomorrow at 6pm</TIMEX3>
+
+Can you check the attached doc and see what needs to be tweaked.
+
+I know you''re held up today, but let me know when we can discuss
+today=<TIMEX3 range="(2013-09-10,2013-09-10,P1D)" tid="t1" type="DATE" value="2013-09-10">today</TIMEX3>
+
+Could you add it for me?
+
+Can you advice on this?
+
+Let me know when is a good time to call and discuss.
+
+xxxxx xxxxxxxx supposed to join today?
+today=<TIMEX3 range="(2013-09-10,2013-09-10,P1D)" tid="t1" type="DATE" value="2013-09-10">today</TIMEX3>
+
+Does tomorrow morning work ?
+tomorrow morning=<TIMEX3 range="(2013-09-11T06:00:00.000,2013-09-11T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-11TMO">tomorrow morning</TIMEX3>
+
+When you have time, can you share with me the location of the data for GB1?
+
+What will you be doing at WHO and where are you or will you be stationed?
+
+Who else will be involved in the Monday meeting regarding the Test Infra discussion?
+Monday=<TIMEX3 range="(2013-09-09-WXX-1,2013-09-09-WXX-1,P1D)" tid="t1" type="DATE" value="2013-09-09">Monday</TIMEX3>
+
+xxxxx / xxx - can you send me the final term sheet for the financing including equity and convertible.
+
+Can you please ensure the other things are reviewed by the editor?
+
+Please let me know if you are still here.
+
+xxxxx we take it out and restrict to PMs apart from Sales?
+
+Can we replace "xxxxxxx - xxxxx email companion" with just "xxxxxxx" next to favicon?
+
+Would it help if we made the role based out of xxxxxxxxx and didn''t require you to relocate
+
+Can you share your numbers for directions and entry?
+
+Will love to understand more about LT research, how about a call sometime?
+
+Can you confirm which one of these we need or if we need all ?
+
+Can you please share the report with me for yesterday?
+yesterday=<TIMEX3 range="(2013-09-09,2013-09-09,P1D)" tid="t1" type="DATE" value="2013-09-09">yesterday</TIMEX3>
+
+You want this EOD today or early tomorrow morning (EOD xx)?
+today=<TIMEX3 range="(2013-09-10,2013-09-10,P1D)" tid="t1" type="DATE" value="2013-09-10">today</TIMEX3>
+early tomorrow morning=<TIMEX3 mod="EARLY" range="(2013-09-11T06:00:00.000,2013-09-11T12:00,PT6H)" tid="t2" type="TIME" value="2013-09-11TMO">early tomorrow morning</TIMEX3>
+
+Please let me know if this makes more priority than Take soln.
+
+xxxxx I create a xxxxxx Form or can we manage this on Parabola.
+
+Are you planning to join us at JSFoo''yy conference next week
+next week=<TIMEX3 range="(2013-09-16,2013-09-22,P1W)" tid="t1" type="DATE" value="2013-W38">next week</TIMEX3>
+
+could you plz re-arrange/modify the slides and send them back to me
+
+Please send us your bank details along with proforma invoice, so that we can transfer the payment.
+
+Could you please help out?
+
+What about catching up for lunch or coffee tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-12,2013-09-12,P1D)" tid="t1" type="DATE" value="2013-09-12">tomorrow</TIMEX3>
+
+xxxx, can we talk today ?
+today=<TIMEX3 range="(2013-09-11,2013-09-11,P1D)" tid="t1" type="DATE" value="2013-09-11">today</TIMEX3>
+
+Kindly let me know whether user id of xxxxx is created on the income tax site.
+
+Let me know if there is a good time when we can meet / talk in detail.
+
+Can we use the same one for both the blog and the website?
+
+can you plz send the xxx ppt to xxxxxx if not done already... also could you plz send it to me for my reference...
+
+Could you help reset?
+
+please let me know if it''s ok for him to bring a guest and I''ll let him kno
+
+I dont think the call should take very long, same time, 730-8am?
+8am=<TIMEX3 range="(2013-09-11T08:00:00.000,2013-09-11T08:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-11T08">8am</TIMEX3>
+
+Are you okay with taking this early appointment time and missing yoga or PT one day?
+one day=<TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">one day</TIMEX3>
+
+> But in your mail, you wrote "5PM tomorrow", does this mean 12th thursday?
+5PM tomorrow=<TIMEX3 range="(2013-09-12T17:00:00.000,2013-09-12T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-12T17">5PM tomorrow</TIMEX3>
+thursday=<TIMEX3 range="(2013-09-12-WXX-4,2013-09-12-WXX-4,P1D)" tid="t2" type="DATE" value="2013-09-12">thursday</TIMEX3>
+
+Can you please ping me to discuss what the new functionality is now?
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>
+
+Do you have time tomorrow at 8:20AM to meet at the same place.
+tomorrow at 8:20AM=<TIMEX3 range="(2013-09-12T08:20:00.000,2013-09-12T08:20:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-12T08:20">tomorrow at 8:20AM</TIMEX3>
+
+Any chance you will have time tomorrow evening xxx so Friday morning for you?
+tomorrow evening=<TIMEX3 range="(2013-09-12T18:00:00.000,2013-09-12T20,PT2H)" tid="t1" type="TIME" value="2013-09-12TEV">tomorrow evening</TIMEX3>
+Friday morning=<TIMEX3 range="(2013-09-13-WXX-5T06:00:00.000,2013-09-13-WXX-5T12:00,PT6H)" tid="t2" type="TIME" value="2013-09-13TMO">Friday morning</TIMEX3>
+
+How does early next week look?
+early next week=<TIMEX3 mod="EARLY" range="(2013-09-16,2013-09-22,P1W)" tid="t1" type="DATE" value="2013-W38">early next week</TIMEX3>
+
+Kindly let us know your availability and whether you are carrying the handset and the accessories with you today, so that someone can come and take it from you.
+today=<TIMEX3 range="(2013-09-11,2013-09-11,P1D)" tid="t1" type="DATE" value="2013-09-11">today</TIMEX3>
+
+Please also let me know how to do this so that I can also learn.
+
+Pls send the snapshots/video that you took of the demo so that I can share with my marketing and decide on the next steps.
+
+xxxxxx, can we come tomorrow ?
+tomorrow=<TIMEX3 range="(2013-09-13,2013-09-13,P1D)" tid="t1" type="DATE" value="2013-09-13">tomorrow</TIMEX3>
+
+, One of my friend expressing very keen interest to support us, pl let me know.
+
+Request you to go through it and let me know a good time to talk about the changes if needed.
+
+Can you please share the development plan for xxxxxxxx hotels by today?
+today=<TIMEX3 range="(2013-09-12,2013-09-12,P1D)" tid="t1" type="DATE" value="2013-09-12">today</TIMEX3>
+
+Let me know when I could come and collect it.
+
+Can you please mail me the details of the charges and services offered
+
+xxxxx we have our conference call at 8PM if it is okay with you all ?
+8PM=<TIMEX3 range="(2013-09-12T20:00:00.000,2013-09-12T20:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-12T20">8PM</TIMEX3>
+
+I have a call at yyyyy and am not sure if it will get over before yy, can we speak at yyyyy instead of yy please?
+
+Can you please ping me when you come online?
+
+You think we should catch up for sometime tomorrow ?
+tomorrow=<TIMEX3 range="(2013-09-13,2013-09-13,P1D)" tid="t1" type="DATE" value="2013-09-13">tomorrow</TIMEX3>
+
+Please let me know asap so that I can put it back.
+
+arrange for an F2F with Ravindranath for Monday x 11 AM and update us ASAP.
+Monday=<TIMEX3 range="(2013-09-09-WXX-1,2013-09-09-WXX-1,P1D)" tid="t1" type="DATE" value="2013-09-09">Monday</TIMEX3>
+11 AM=<TIMEX3 range="(2013-09-12T11:00:00.000,2013-09-12T11:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-12T11:00">11 AM</TIMEX3>
+
+Are you available tomorrow at 4pm?
+tomorrow at 4pm=<TIMEX3 range="(2013-09-13T16:00:00.000,2013-09-13T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-13T16">tomorrow at 4pm</TIMEX3>
+
+xxxx, please set up meeting for kishore with me and xxxxx for week of yyyy before he takes off for india.
+week=<TIMEX3 range="(,,P1W)" tid="t1" type="DURATION" value="P1W">week</TIMEX3>
+
+Can we plan to complete *only these y items* from your list of "tomorrows plan" till yy noon.
+tomorrows=<TIMEX3 alt_value="OFFSET P1D" tid="t1" type="SET">tomorrows</TIMEX3>
+noon=<TIMEX3 range="(2013-09-12T12:00:00.000,2013-09-12T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-12T12:00">noon</TIMEX3>
+
+Is it posibble to postpone the meeting to 12:30 or tomorrow also if you are working on xxxxxxxxx ?
+12:30=<TIMEX3 range="(2013-09-12T12:30:00.000,2013-09-12T12:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-12T12:30">12:30</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-09-13,2013-09-13,P1D)" tid="t2" type="DATE" value="2013-09-13">tomorrow</TIMEX3>
+Saturdays=<TIMEX3 range="(2013-09-14-WXX-6,2013-09-14-WXX-6,P1D)" tid="t3" type="DATE" value="2013-09-14">Saturdays</TIMEX3>
+
+Could we talk next Tuesday x 1030am?
+next Tuesday=<TIMEX3 range="(2013-09-17-WXX-2,2013-09-17-WXX-2,P1D)" tid="t1" type="DATE" value="2013-09-17">next Tuesday</TIMEX3>
+1030am=<TIMEX3 range="(2013-09-12T10:30:00.000,2013-09-12T10:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-12T10:30">1030am</TIMEX3>
+
+xxxxxxx, can we do this today?
+this today=<TIMEX3 range="(2013-09-12,2013-09-12,P1D)" tid="t1" type="DATE" value="2013-09-12">this today</TIMEX3>
+
+Will you be able to check now?
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>
+
+xxxx, let me know what time.
+
+Can you commit?
+
+Catch up meeting at 11am or 2pm?
+11am=<TIMEX3 range="(2013-09-13T11:00:00.000,2013-09-13T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-13T11">11am</TIMEX3>
+2pm=<TIMEX3 range="(2013-09-13T14:00:00.000,2013-09-13T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-13T14">2pm</TIMEX3>
+
+Do let me know a good time to talk with you on the phone.
+
+Can we talk today at yyyypm?
+today=<TIMEX3 range="(2013-09-13,2013-09-13,P1D)" tid="t1" type="DATE" value="2013-09-13">today</TIMEX3>
+
+Can you please tell me when you joined and then left xxxxxx?
+
+I would like to inquire about the xxx developer profile.Please let me know as to how I should apply for the post as there is no information pertaining to the same on the website.
+
+Let me know if it reads alright.
+
+Had discussion with your team mate, so could you please send a list of all the accounts and subgroups that are currently present in xxxxxxxxxx.
+currently=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">currently</TIMEX3>
+present=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t2" type="DATE" value="PRESENT_REF">present</TIMEX3>
+
+so I can get in touch with you tomorrow ?
+tomorrow=<TIMEX3 range="(2013-09-14,2013-09-14,P1D)" tid="t1" type="DATE" value="2013-09-14">tomorrow</TIMEX3>
+
+Can we discuss this over a call tomorrow - I have sent an invite already.
+tomorrow=<TIMEX3 range="(2013-09-14,2013-09-14,P1D)" tid="t1" type="DATE" value="2013-09-14">tomorrow</TIMEX3>
+
+Can you please forward the xxxx xxxxxxx promissory note��it was in the initial initial board and stockholders consent of Feb 27.
+Feb 27=<TIMEX3 range="(2014-02-27,2014-02-27,P1D)" tid="t1" type="DATE" value="2014-02-27">Feb 27</TIMEX3>
+
+Just following up on this, are you available Friday yyyy at 9am, 9:45am, or 10:30am xxx for a phone call with xxxxxxxx?
+Friday=<TIMEX3 range="(2013-09-13-WXX-5,2013-09-13-WXX-5,P1D)" tid="t1" type="DATE" value="2013-09-13">Friday</TIMEX3>
+9am, 9:45am=<TIMEX3 range="(2013-09-13T09:45:00.000,2013-09-13T09:45:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-13T09:45">9am, 9:45am</TIMEX3>
+10:30am=<TIMEX3 range="(2013-09-13T10:30:00.000,2013-09-13T10:30:59.999,PT1M)" tid="t3" type="TIME" value="2013-09-13T10:30">10:30am</TIMEX3>
+
+Can you ping me when you have time?
+
+Did you speak to these guys?
+
+Not sure of his availability, but are you OK if I invite him over email?
+
+Let me know the tasks of mine and will try to do today and tomorrow as and when i felt good.
+today=<TIMEX3 range="(2013-09-13,2013-09-13,P1D)" tid="t1" type="DATE" value="2013-09-13">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-09-14,2013-09-14,P1D)" tid="t2" type="DATE" value="2013-09-14">tomorrow</TIMEX3>
+
+xxxxxxx, please let us know if we can help in anyway to get things started here.
+
+Please provide the following information:
+
+[Ticket ID: yyyyyy] Why is my account suspended.
+
+Sorry i wont be able to make it today, can we reschedule for some other time?
+today=<TIMEX3 range="(2013-09-14,2013-09-14,P1D)" tid="t1" type="DATE" value="2013-09-14">today</TIMEX3>
+
+Is 7pm ok?
+7pm=<TIMEX3 range="(2013-09-14T19:00:00.000,2013-09-14T19:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-14T19">7pm</TIMEX3>
+
+I need to pickup xxxxxx at los gatos pedros probably sometime around 7:30 pm or so... shall we meet somewhere near santa cruz / los-gatos saratoga neighborhood around 6:45 pm
+7:30 pm=<TIMEX3 range="(2013-09-14T19:30:00.000,2013-09-14T19:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-14T19:30">7:30 pm</TIMEX3>
+6:45 pm=<TIMEX3 range="(2013-09-14T18:45:00.000,2013-09-14T18:45:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-14T18:45">6:45 pm</TIMEX3>
+
+Can we something around 11:30-2 tomorrow?
+11:30=<TIMEX3 range="(2013-09-14T11:30:00.000,2013-09-14T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-14T11:30">11:30</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-09-15,2013-09-15,P1D)" tid="t2" type="DATE" value="2013-09-15">tomorrow</TIMEX3>
+
+Separately, do you have some time to catch up this week?
+this week=<TIMEX3 range="(2013-09-09,2013-09-15,P1W)" tid="t1" type="DATE" value="2013-W37">this week</TIMEX3>
+
+I will be happy to talk over skype, when will be a good time for you?
+
+xxxxx we connect Monday morning xxx?
+Monday morning=<TIMEX3 range="(2013-09-09-WXX-1T06:00:00.000,2013-09-09-WXX-1T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-09TMO">Monday morning</TIMEX3>
+
+Please can you take a look?
+
+Can you e-mail me your updated xx?
+
+Btw, Should I come in tomorrow (Monday) or Tuesday as usual?
+tomorrow=<TIMEX3 range="(2013-09-16,2013-09-16,P1D)" tid="t1" type="DATE" value="2013-09-16">tomorrow</TIMEX3>
+Monday=<TIMEX3 range="(2013-09-16-WXX-1,2013-09-16-WXX-1,P1D)" tid="t2" type="DATE" value="2013-09-16">Monday</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-09-17-WXX-2,2013-09-17-WXX-2,P1D)" tid="t3" type="DATE" value="2013-09-17">Tuesday</TIMEX3>
+
+Hi xxxxx xxxxx, Can we call you in the evening your time today 8:30 pm IST?
+evening=<TIMEX3 range="(2013-09-15T18:00:00.000,2013-09-15T20,PT2H)" tid="t1" type="TIME" value="2013-09-15TEV">evening</TIMEX3>
+today 8:30 pm=<TIMEX3 range="(2013-09-15T20:30:00.000,2013-09-15T20:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-15T20:30">today 8:30 pm</TIMEX3>
+
+Can you start my indexing as well?
+
+Also, xxxxxxx can you tweet/fb about our first blog post that xxxxxx had written?
+
+Can you guys identify if we have candidate project/developer to try this out?
+
+Could you kindly contact the manager and ask him to honour the cheques please?
+
+Can we fetch facebook friends detail to my website?
+
+Could we talk on phone on Wednesday at 10AM if that works for you?
+Wednesday at 10AM=<TIMEX3 range="(2013-09-11-WXX-3T10:00:00.000,2013-09-11-WXX-3T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-11T10">Wednesday at 10AM</TIMEX3>
+
+Or tomorrow post noon?
+tomorrow=<TIMEX3 range="(2013-09-17,2013-09-17,P1D)" tid="t1" type="DATE" value="2013-09-17">tomorrow</TIMEX3>
+noon=<TIMEX3 range="(2013-09-16T12:00:00.000,2013-09-16T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-16T12:00">noon</TIMEX3>
+
+Could you help me to circulate this to your network.
+
+Please let me know the best time for you xxxxxx.
+
+Can you please upload the required data once you get back.
+once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">once</TIMEX3>
+
+Please let me know your thoughts on this, incase if you have any questions please get back to me as soon as possible
+
+As discussed kindly reply to this email verifying that you have received and accepted this interview Schedule.
+
+I just realized it''ll take me a couple of hours from the airport so can we do 2:30 please
+a couple of hours=<TIMEX3 range="(,,PT2H)" tid="t1" type="DURATION" value="PT2H">a couple of hours</TIMEX3>
+2:30=<TIMEX3 range="(2013-09-16T02:30:00.000,2013-09-16T02:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-16T02:30">2:30</TIMEX3>
+
+4pm works What is your number ?
+4pm=<TIMEX3 range="(2013-09-16T16:00:00.000,2013-09-16T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-16T16">4pm</TIMEX3>
+
+Can you help me reset my password on xxxxxxxxx?
+
+Please review so we can chat tomorrow.
+tomorrow=<TIMEX3 range="(2013-09-17,2013-09-17,P1D)" tid="t1" type="DATE" value="2013-09-17">tomorrow</TIMEX3>
+
+Would like to catch up with you on these guys?
+
+Can you also give me the xxxxxxxx xxxxx content (y page xxxx)?
+
+Would you perhaps have time to meet this Friday at lunch instead of the call tomorrow?
+this Friday=<TIMEX3 range="(2013-09-20-WXX-5,2013-09-20-WXX-5,P1D)" tid="t1" type="DATE" value="2013-09-20">this Friday</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-09-17,2013-09-17,P1D)" tid="t2" type="DATE" value="2013-09-17">tomorrow</TIMEX3>
+
+Are you free today after 8:00 PM?
+today=<TIMEX3 range="(2013-09-16,2013-09-16,P1D)" tid="t1" type="DATE" value="2013-09-16">today</TIMEX3>
+8:00 PM=<TIMEX3 range="(2013-09-16T20:00:00.000,2013-09-16T20:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-16T20:00">8:00 PM</TIMEX3>
+
+I''m planning to visit you today if you are free
+today=<TIMEX3 range="(2013-09-16,2013-09-16,P1D)" tid="t1" type="DATE" value="2013-09-16">today</TIMEX3>
+
+If this is okay, then please call me in the evening tomorrow and I''ll call you back
+the evening tomorrow=<TIMEX3 range="(2013-09-17T18:00:00.000,2013-09-17T20,PT2H)" tid="t1" type="TIME" value="2013-09-17TEV">the evening tomorrow</TIMEX3>
+
+Can we have the xxxxxxx log-in?
+
+Can we meet tomorrow in our office in xxxxxxxxxx and move this forward?
+tomorrow=<TIMEX3 range="(2013-09-17,2013-09-17,P1D)" tid="t1" type="DATE" value="2013-09-17">tomorrow</TIMEX3>
+
+Can we make the border around the search box inside scibler panel bolder?
+
+Can you return the samples once the trials are over.
+once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">once</TIMEX3>
+
+e.g. 12/12/13Also we did discuss removing the date in the right column for alerts right?
+
+Please assign me some work.
+
+Please have xxxxxx run through it and let me know how much time it might take for him to deliver this.
+
+Can you take screenshots of what this looks like?
+
+Please have a look at the same and do let me know on how we can take this relationship forward.
+
+Dear xxxx Kindly choose the plan for your mummy''s cell and please inform me
+
+Tx vinay, what about thursday?
+about thursday=<TIMEX3 range="(2013-09-19-WXX-4,2013-09-19-WXX-4,P1D)" tid="t1" type="DATE" value="2013-09-19">about thursday</TIMEX3>
+
+Can we get paid for this?
+
+May I call you tomorrow after-noon regarding the following?
+May=<TIMEX3 range="(2013-05-01,2013-05-31,P1M)" tid="t1" type="DATE" value="2013-05">May</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-09-18,2013-09-18,P1D)" tid="t2" type="DATE" value="2013-09-18">tomorrow</TIMEX3>
+
+Let us know when you can meet this Friday or next week sometime.
+this Friday=<TIMEX3 range="(2013-09-20-WXX-5,2013-09-20-WXX-5,P1D)" tid="t1" type="DATE" value="2013-09-20">this Friday</TIMEX3>
+next week=<TIMEX3 range="(2013-09-23,2013-09-29,P1W)" tid="t2" type="DATE" value="2013-W39">next week</TIMEX3>
+
+Can you log in now if possible?
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>
+
+Can we go out to buy xxxxxx and some xxxxxxxx ice cream tomorrow afternoon at around y maybe?
+tomorrow afternoon=<TIMEX3 range="(2013-09-18T12:00:00.000,2013-09-18T18,PT6H)" tid="t1" type="TIME" value="2013-09-18TAF">tomorrow afternoon</TIMEX3>
+
+Are you in town next week for a lunch?
+next week=<TIMEX3 range="(2013-09-23,2013-09-29,P1W)" tid="t1" type="DATE" value="2013-W39">next week</TIMEX3>
+
+should we have xxxx contact and set up times for you and/or sumant to chat with them this week and early next week?
+this week=<TIMEX3 range="(2013-09-16,2013-09-22,P1W)" tid="t1" type="DATE" value="2013-W38">this week</TIMEX3>
+early next week=<TIMEX3 mod="EARLY" range="(2013-09-23,2013-09-29,P1W)" tid="t2" type="DATE" value="2013-W39">early next week</TIMEX3>
+
+(little flexible on dates)We would like to do some kind of preso in chennai about Fabric.Do you think TIE as a forum is right or something else?Is there enough time to execute xxxxx you think TIE is right, then I can touchbase with xxxxx and see how to get it done.
+
+Please advise if you mean 12am (midnight) or 12pm (noon) IST.
+12am=<TIMEX3 range="(2013-09-17T00:00:00.000,2013-09-17T00:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-17T00">12am</TIMEX3>
+midnight=<TIMEX3 range="(2013-09-17T00:00:00.000,2013-09-17T00:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-17T00:00">midnight</TIMEX3>
+12pm=<TIMEX3 range="(2013-09-17T12:00:00.000,2013-09-17T12:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-09-17T12">12pm</TIMEX3>
+noon=<TIMEX3 range="(2013-09-17T12:00:00.000,2013-09-17T12:00:59.999,PT1M)" tid="t4" type="TIME" value="2013-09-17T12:00">noon</TIMEX3>
+
+How about Thursday at 8am or Friday at 8am?
+about Thursday at 8am=<TIMEX3 range="(2013-09-19-WXX-4T08:00:00.000,2013-09-19-WXX-4T08:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-19T08">about Thursday at 8am</TIMEX3>
+Friday at 8am=<TIMEX3 range="(2013-09-20-WXX-5T08:00:00.000,2013-09-20-WXX-5T08:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-20T08">Friday at 8am</TIMEX3>
+
+May xxxxx call you tomorrow at 1:30pm?
+May=<TIMEX3 range="(2013-05-01,2013-05-31,P1M)" tid="t1" type="DATE" value="2013-05">May</TIMEX3>
+tomorrow at 1:30pm=<TIMEX3 range="(2013-09-18T13:30:00.000,2013-09-18T13:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-18T13:30">tomorrow at 1:30pm</TIMEX3>
+
+Please let me know if these invoices are approved for payment.
+
+If not, could we talk tomorrow morning?
+tomorrow morning=<TIMEX3 range="(2013-09-18T06:00:00.000,2013-09-18T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-18TMO">tomorrow morning</TIMEX3>
+
+Can you please add xxxxxx''s meeting on Friday in his calendar
+Friday=<TIMEX3 range="(2013-09-20-WXX-5,2013-09-20-WXX-5,P1D)" tid="t1" type="DATE" value="2013-09-20">Friday</TIMEX3>
+
+Can you please move me out of xxx?
+
+Will you correct and commit?
+
+Can we push our meeting to friday?
+friday=<TIMEX3 range="(2013-09-20-WXX-5,2013-09-20-WXX-5,P1D)" tid="t1" type="DATE" value="2013-09-20">friday</TIMEX3>
+
+Let me know what works and where is best.
+
+Please can you let me know :)
+
+Hi xxx, ���� xxxx 4pm work for you?
+4pm=<TIMEX3 range="(2013-09-17T16:00:00.000,2013-09-17T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-17T16">4pm</TIMEX3>
+
+Lets do it early morning tomorrow?
+early morning tomorrow=<TIMEX3 mod="EARLY" range="(2013-09-18T06:00:00.000,2013-09-18T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-18TMO">early morning tomorrow</TIMEX3>
+
+Can we catch up at 1:15pm?
+1:15pm=<TIMEX3 range="(2013-09-17T13:15:00.000,2013-09-17T13:15:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-17T13:15">1:15pm</TIMEX3>
+
+Can you please get it done for all the projects by xxx?
+
+Any way that I can mention it in the resume?
+
+Do you want to just meet all of them for a filter kaapi meetup?
+
+Can you give me the number of the person to contact for this.
+
+Can you do a speed test and check?
+
+Can we close the 1st version by end of this week?
+end of this week=<TIMEX3 mod="LATE" range="(2013-09-16,2013-09-22,P1W)" tid="t1" type="DATE" value="2013-W38">end of this week</TIMEX3>
+
+Can we schedule for tomorrow or day-after?
+tomorrow=<TIMEX3 range="(2013-09-19,2013-09-19,P1D)" tid="t1" type="DATE" value="2013-09-19">tomorrow</TIMEX3>
+
+My travel itinerary is confirmed and I will be arriving in xxxxxxxxx at 10 A.M. I would like to know if it is possible to meet you in between 3 P.M. - 6 P.M.
+10 A.M.=<TIMEX3 range="(2013-09-18T10:00:00.000,2013-09-18T10:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-18T10:00">10 A.M.</TIMEX3>
+3 P.M. - 6 P.M.=<TIMEX3 beginPoint="t2" endPoint="t3" range="(T15:00,T18:00,PT3H)" tid="t4" type="DURATION" value="PT3H">3 P.M. - 6 P.M.</TIMEX3>
+
+- do we setup multiple branches in code repositories as of today?
+today=<TIMEX3 range="(2013-09-18,2013-09-18,P1D)" tid="t1" type="DATE" value="2013-09-18">today</TIMEX3>
+
+Let me know a good time to connect (yyyyyyyyyy)
+
+So, I will be meeting you around 3:30 P.M. at your office ?
+3:30 P.M.=<TIMEX3 range="(2013-09-18T15:30:00.000,2013-09-18T15:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-18T15:30">3:30 P.M.</TIMEX3>
+
+Could you kindly call Airtel and let them know?
+
+xxxxxxx one small favor can you please check the alert times in the db?
+
+Can you send xxxxxx invite?
+
+xxxxxx, can you please add your dad''s f/b also to the sheet
+
+What time and where is the fabric event tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-19,2013-09-19,P1D)" tid="t1" type="DATE" value="2013-09-19">tomorrow</TIMEX3>
+
+Can we talk tomorrow around 1300hrs xxx xxxx (yyyyyyy xxxxx)?
+tomorrow=<TIMEX3 range="(2013-09-19,2013-09-19,P1D)" tid="t1" type="DATE" value="2013-09-19">tomorrow</TIMEX3>
+
+Anytime after yyy tomorrow am?
+tomorrow=<TIMEX3 range="(2013-09-19,2013-09-19,P1D)" tid="t1" type="DATE" value="2013-09-19">tomorrow</TIMEX3>
+
+xxxxxx, can we go over xxxxxx''s search f/b sometime
+
+Please let me know if you are looking for more details on xxxxxx xxxxxx.
+
+When can you provide the term sheet for the note?
+
+Ankit - Can you design it?
+
+Can you please plan accordingly?
+
+Can you pls help.
+
+Please let me know if this is fine Thanks
+
+Can we get xxx as part of the tool for launch?
+
+Please let me know whenever you are free today, we can talk.
+today=<TIMEX3 range="(2013-09-18,2013-09-18,P1D)" tid="t1" type="DATE" value="2013-09-18">today</TIMEX3>
+
+Tomorrow post lunch, lets say around 3:30 pm kinds, works for you guys?
+Tomorrow=<TIMEX3 range="(2013-09-19,2013-09-19,P1D)" tid="t1" type="DATE" value="2013-09-19">Tomorrow</TIMEX3>
+3:30 pm=<TIMEX3 range="(2013-09-18T15:30:00.000,2013-09-18T15:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-18T15:30">3:30 pm</TIMEX3>
+
+And how are you feeling today?
+today=<TIMEX3 range="(2013-09-18,2013-09-18,P1D)" tid="t1" type="DATE" value="2013-09-18">today</TIMEX3>
+
+xxxxx we try once?
+once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">once</TIMEX3>
+
+Can we please get the tracker details as well.
+
+Can you please check in solr if the name is messed up or is it the xx.
+
+Can you tell me if my email is boring or lengthy??
+
+Can we have the meeting at yyyyPM.
+
+Can you see if there is anything interesting in that for you - phone number of people you dont have in your contacts and would want to see?
+
+Hi xxxxxx, could we talk next Tuesday (24th) at 3pm?
+next Tuesday=<TIMEX3 range="(2013-09-24-WXX-2,2013-09-24-WXX-2,P1D)" tid="t1" type="DATE" value="2013-09-24">next Tuesday</TIMEX3>
+3pm=<TIMEX3 range="(2013-09-19T15:00:00.000,2013-09-19T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-19T15">3pm</TIMEX3>
+
+Do you want to talk to anyone from xxx?
+
+Can we meet today in the afternoon or tomorrow morning (11 AM)?
+today=<TIMEX3 range="(2013-09-19,2013-09-19,P1D)" tid="t1" type="DATE" value="2013-09-19">today</TIMEX3>
+afternoon=<TIMEX3 range="(2013-09-19T12:00:00.000,2013-09-19T18,PT6H)" tid="t2" type="TIME" value="2013-09-19TAF">afternoon</TIMEX3>
+tomorrow morning=<TIMEX3 range="(2013-09-20T06:00:00.000,2013-09-20T12:00,PT6H)" tid="t3" type="TIME" value="2013-09-20TMO">tomorrow morning</TIMEX3>
+11 AM=<TIMEX3 range="(2013-09-19T11:00:00.000,2013-09-19T11:00:59.999,PT1M)" tid="t4" type="TIME" value="2013-09-19T11:00">11 AM</TIMEX3>
+
+OK, so will you send them the details?
+
+Will you be up?
+
+Can we do it on Wednesday instead?
+Wednesday=<TIMEX3 range="(2013-09-18-WXX-3,2013-09-18-WXX-3,P1D)" tid="t1" type="DATE" value="2013-09-18">Wednesday</TIMEX3>
+
+This is one of the events.... Can you check if everything is ok?
+
+Please let me > know :) > > If I cannot see you tomorrow, we should meet up early next week!
+tomorrow=<TIMEX3 range="(2013-09-20,2013-09-20,P1D)" tid="t1" type="DATE" value="2013-09-20">tomorrow</TIMEX3>
+early next week=<TIMEX3 mod="EARLY" range="(2013-09-23,2013-09-29,P1W)" tid="t2" type="DATE" value="2013-W39">early next week</TIMEX3>
+
+Perhaps next week?
+next week=<TIMEX3 range="(2013-09-23,2013-09-29,P1W)" tid="t1" type="DATE" value="2013-W39">next week</TIMEX3>
+
+Can you just call xxxxx?
+
+hey dude - one of my portfolio companies need a big data guy who can be a consultant/contractor etc - Let me know if any one in your network fits the bill - if this is something you guys can help with, I''ll connect you directly with xxxxx xxxxxxxxx to take it further
+
+xxxxx we discuss tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-20,2013-09-20,P1D)" tid="t1" type="DATE" value="2013-09-20">tomorrow</TIMEX3>
+
+Just let us know about any convenient time.
+
+Please let me know which date would be most convenient for you and we can arrange an appointment accordingly.
+
+Can you ask her to register in the website?
+
+Could you read and do the following: 1) Give me feedback y) Put your thoughts or quotes if you AGREE or DISAGREE.
+
+Please do let us know how to take this forward.
+
+Should I come to your house tomorrow ?
+tomorrow=<TIMEX3 range="(2013-09-20,2013-09-20,P1D)" tid="t1" type="DATE" value="2013-09-20">tomorrow</TIMEX3>
+
+Could you give us a transparent image for the attachment.
+
+Sure, right after our 2PM meeting?
+2PM=<TIMEX3 range="(2013-09-20T14:00:00.000,2013-09-20T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-20T14">2PM</TIMEX3>
+
+Can you help me with the js?
+
+Can you send me better images?
+
+Do you want to postpone the call?
+
+Can I call you after 15 minutes ?
+15 minutes=<TIMEX3 range="(,,PT15M)" tid="t1" type="DURATION" value="PT15M">15 minutes</TIMEX3>
+
+Could you please share the consolidated feedback so that we can look at them & submit the latest build for testing?
+
+Can you connect me with Nikita and xxxxxx of xxxxxxxxxx.
+
+Can you share with me the report from MuMoments showing the account-wise list of opportunities whose close date is past due and has not been extended as of date.
+past=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">past</TIMEX3>
+
+Please let me know your thoughts,
+
+xxxxx we confirm Thursday yyyy at 1:30pm at xxx xxxx xxxxxx in xxxxxxxx xxxx?
+Thursday=<TIMEX3 range="(2013-09-19-WXX-4,2013-09-19-WXX-4,P1D)" tid="t1" type="DATE" value="2013-09-19">Thursday</TIMEX3>
+1:30pm=<TIMEX3 range="(2013-09-20T13:30:00.000,2013-09-20T13:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-20T13:30">1:30pm</TIMEX3>
+
+If it works for you, I would like to schedule for Wednesday yyyy at 18:00 CET (which is 9:00am PST).
+Wednesday=<TIMEX3 range="(2013-09-18-WXX-3,2013-09-18-WXX-3,P1D)" tid="t1" type="DATE" value="2013-09-18">Wednesday</TIMEX3>
+18:00=<TIMEX3 range="(2013-09-20T18:00:00.000,2013-09-20T18:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-20T18:00">18:00</TIMEX3>
+9:00am=<TIMEX3 range="(2013-09-20T09:00:00.000,2013-09-20T09:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-09-20T09:00">9:00am</TIMEX3>
+
+xxxxxxx: Let us know after you bring up the pane, xxxxxxx and I can try to populate the related info.
+
+Do you want to talk to them?
+
+Can you "exactly" tell me the name of the all mail folder in xxxxxxxx''s account
+
+Can you sign up on our website, so we can onboard you and fmget your feedback?
+
+xxxxx we go tomorrow morning tentatively start by 6am?
+tomorrow morning=<TIMEX3 range="(2013-09-22T06:00:00.000,2013-09-22T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-22TMO">tomorrow morning</TIMEX3>
+6am=<TIMEX3 range="(2013-09-21T06:00:00.000,2013-09-21T06:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-21T06">6am</TIMEX3>
+
+xxxxxxx- can you to meet xxxxxx as well on your trip?
+
+How are you placed next week Tues - xxxxx?
+next week=<TIMEX3 range="(2013-09-23,2013-09-29,P1W)" tid="t1" type="DATE" value="2013-W39">next week</TIMEX3>
+Tues=<TIMEX3 periodicity="P1W" tid="t2" type="SET" value="XXXX-WXX-2">Tues</TIMEX3>
+Thurs=<TIMEX3 range="(2013-09-19-WXX-4,2013-09-19-WXX-4,P1D)" tid="t3" type="DATE" value="2013-09-19">Thurs</TIMEX3>
+
+Can you please let me know when xxxxxxxx can add his account again?
+
+Please do resend.
+
+We can meet during the week of Oct 14th, if that works for you.
+the week of Oct 14th=<TIMEX3 alt_value="2013-10-14 INTERSECT P1W" anchorTimeID="t2" range="(2013-10-14 INTERSECT P1W,2013-10-14 INTERSECT P1W,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">the week of Oct 14th</TIMEX3>
+
+Hey, Let Me know if I have to send You the pics in J Peg format.
+
+Please let me know when all of you are free, so that we (me and yogesh) can start working on template for the website and you (aritra and shiv) can write concrete content for each webpage.
+
+Guys I''ll take a pass on this... Rough weather and we had an iit picnic today..... Are you all still meeting
+today=<TIMEX3 range="(2013-09-21,2013-09-21,P1D)" tid="t1" type="DATE" value="2013-09-21">today</TIMEX3>
+
+Can you move your call on Tuesday �� I donot see any other time of xx��s calendar.
+Tuesday=<TIMEX3 range="(2013-09-24-WXX-2,2013-09-24-WXX-2,P1D)" tid="t1" type="DATE" value="2013-09-24">Tuesday</TIMEX3>
+
+Can you send me more drafts?
+
+Please let us know your thoughts.
+
+Hey xxxx I was pulled into to work today But we can talk right now Can I call you now?
+today=<TIMEX3 range="(2013-09-22,2013-09-22,P1D)" tid="t1" type="DATE" value="2013-09-22">today</TIMEX3>
+right now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t2" type="DATE" value="PRESENT_REF">right now</TIMEX3>
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3>
+
+Would you mind meeting after my class?
+
+xxxx, Who can we swipe in for this thinking role?
+
+Checked on vatsan''s and mine it is fine - can you tell me which alert
+
+Can you please collate feedback and sit with me to convey to him tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-23,2013-09-23,P1D)" tid="t1" type="DATE" value="2013-09-23">tomorrow</TIMEX3>
+
+What is the objective of pitching this Thursday?
+this Thursday=<TIMEX3 range="(2013-09-19-WXX-4,2013-09-19-WXX-4,P1D)" tid="t1" type="DATE" value="2013-09-19">this Thursday</TIMEX3>
+
+did you get a chance to discuss on the xxx proposal?
+
+xxxxxx, could you share the document with me as well - I''m not sure I am looking at the right document (I am seeing a.
+
+Could you suggest or refer us people with relevant experience for this position?
+
+Can you please share the project plan for the website launch.
+
+Does y today work ?
+today=<TIMEX3 range="(2013-09-23,2013-09-23,P1D)" tid="t1" type="DATE" value="2013-09-23">today</TIMEX3>
+
+Could you please suggest more profiles from the team?
+
+- Please send across the NPC stuff So i can start preparing - Attached is a one pager introducing xxxxxx specifically targeted to enterprises.
+
+Can I discuss with you sometime today evening?
+today evening=<TIMEX3 range="(2013-09-23T18:00:00.000,2013-09-23T20,PT2H)" tid="t1" type="TIME" value="2013-09-23TEV">today evening</TIMEX3>
+
+Let me know if tomorrow morning works for you, breakfast or otherwise.
+tomorrow morning=<TIMEX3 range="(2013-09-24T06:00:00.000,2013-09-24T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-24TMO">tomorrow morning</TIMEX3>
+
+Do confirm this, so that I can close this with Rajinish.
+
+Please let me know if it will be possible to schedule a call either this week on Thursday/Friday or next week (Monday/Thursday/Friday).
+this week=<TIMEX3 range="(2013-09-23,2013-09-29,P1W)" tid="t1" type="DATE" value="2013-W39">this week</TIMEX3>
+next week=<TIMEX3 range="(2013-09-30,2013-10-06,P1W)" tid="t2" type="DATE" value="2013-W40">next week</TIMEX3>
+
+Kindly send us your best offer and delivery time for the following Sc herder xxxxxx xxxx
+
+Can you help find a resource who knows HL7, xxxxx, xx,.
+
+I have a small request, and wanted to speak to you, at your free time, please let me know when i can meet you.
+
+Can we have the training for xxxxxxx xxxxx xxxxxxxxx for tomorrow yyyyyyy x16:30.
+tomorrow=<TIMEX3 range="(2013-09-24,2013-09-24,P1D)" tid="t1" type="DATE" value="2013-09-24">tomorrow</TIMEX3>
+16:30=<TIMEX3 range="(2013-09-23T16:30:00.000,2013-09-23T16:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-23T16:30">16:30</TIMEX3>
+
+I am really sorry I am making you do this but can you please push this to tomorrow 7 pm?
+tomorrow 7 pm=<TIMEX3 range="(2013-09-24T19:00:00.000,2013-09-24T19:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-24T19:00">tomorrow 7 pm</TIMEX3>
+
+Does Thursday the 26th work?
+Thursday the 26th=<TIMEX3 range="(2013-09-26-WXX-4,2013-09-26-WXX-4,P1D)" tid="t1" type="DATE" value="2013-09-26">Thursday the 26th</TIMEX3>
+
+If this is fine will roll out all the letters to the team tomorrow.
+tomorrow=<TIMEX3 range="(2013-09-24,2013-09-24,P1D)" tid="t1" type="DATE" value="2013-09-24">tomorrow</TIMEX3>
+
+Please can you remove it.
+
+Can we find tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-24,2013-09-24,P1D)" tid="t1" type="DATE" value="2013-09-24">tomorrow</TIMEX3>
+
+xxxx please send me the details.
+
+Please confirm receipt of this mail & let me know if you need anything else.
+
+Would you be available to meet next week either on Tue or Wed afternoon?
+next week=<TIMEX3 range="(2013-09-30,2013-10-06,P1W)" tid="t1" type="DATE" value="2013-W40">next week</TIMEX3>
+Tue=<TIMEX3 range="(2013-09-24-WXX-2,2013-09-24-WXX-2,P1D)" tid="t2" type="DATE" value="2013-09-24">Tue</TIMEX3>
+Wed afternoon=<TIMEX3 range="(2013-09-25-WXX-3T12:00:00.000,2013-09-25-WXX-3T18,PT6H)" tid="t3" type="TIME" value="2013-09-25TAF">Wed afternoon</TIMEX3>
+
+Is it okay to schedule breakfast for this Friday at 8:30am?
+this Friday at 8:30am=<TIMEX3 range="(2013-09-27-WXX-5T08:30:00.000,2013-09-27-WXX-5T08:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-27T08:30">this Friday at 8:30am</TIMEX3>
+
+So, 6pm should work with xxxxx and Prabakar if you have no other meetings planned at that time.
+6pm=<TIMEX3 range="(2013-09-23T18:00:00.000,2013-09-23T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-23T18">6pm</TIMEX3>
+
+I would like to speak with you for a few minutes regarding this email.
+a few minutes=<TIMEX3 range="(,,PTXM)" tid="t1" type="DURATION" value="PTXM">a few minutes</TIMEX3>
+
+Please let me know if you''d like a final spreadsheet that identifies the folks who didn''t sho
+
+Can we get an conf room at your PA place 3:30 - 5:00 on Friday?
+3:30 - 5:00 on Friday=<TIMEX3 beginPoint="t1" endPoint="t2" range="(T03:30,XXXX-WXX-5T05:00,PT1H30M)" tid="t3" type="DURATION" value="PT1H30M">3:30 - 5:00 on Friday</TIMEX3>
+
+Can you spare some time to spend with me on that?
+
+Does next Tuesday (Oct 1) 10am work for you?
+next Tuesday=<TIMEX3 range="(2013-10-01-WXX-2,2013-10-01-WXX-2,P1D)" tid="t1" type="DATE" value="2013-10-01">next Tuesday</TIMEX3>
+Oct 1=<TIMEX3 range="(2013-10-01,2013-10-01,P1D)" tid="t2" type="DATE" value="2013-10-01">Oct 1</TIMEX3>
+10am=<TIMEX3 range="(2013-09-23T10:00:00.000,2013-09-23T10:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-09-23T10">10am</TIMEX3>
+
+If you do have time, could you please let me know if I can seek your advice regarding this.
+
+Can we see charting on how we are doing in the last 6 months ?
+the last 6 months=<TIMEX3 beginPoint="t1" endPoint="t0" range="(UNKNOWN,REF,P6M)" tid="t2" type="DURATION" value="P6M">the last 6 months</TIMEX3>
+
+Definitely, Can you explain more about the projectLike how the project is going to implement Sent from my xxxxxxxxxx yy smartphone.
+
+Additionally, can you please send me these documents
+
+Can we not strive to be different?
+
+Could we have a quick meeting one of these days to see how we can work out xxxxxxx for you.
+days=<TIMEX3 range="(,,PXD)" tid="t1" type="DURATION" value="PXD">days</TIMEX3>
+
+Can you help us there at the earliest?
+
+Let me know when is a good time to connect.
+
+Alternately, let me know if you want me to call you up and what time will be suitable for you.
+
+Actually, many of them I''ve sent you before, why don''t you take a look at them below, and let me know which ones you are interested in, and I''ll make the int
+
+Please let us know if you support this activity.
+
+Can you download this ad http://img.platform.seventynine.mobi/www/images/Pr365.mp4 and transcode this from apalya and send it back.
+
+xxxxxx, later this month, I might be in xxxxxxxxx for work as well, so perhaps we could meet and speak about this too.
+later this month=<TIMEX3 range="(2013-09-01,2013-09-30,P1M)" tid="t1" type="DATE" value="2013-09">later this month</TIMEX3>
+
+We would appreciate if you could send the same to us at the earliest today since 5:30pm is the absolute cut-off time for us to receive financials.
+today=<TIMEX3 range="(2013-09-24,2013-09-24,P1D)" tid="t1" type="DATE" value="2013-09-24">today</TIMEX3>
+5:30pm=<TIMEX3 range="(2013-09-24T17:30:00.000,2013-09-24T17:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-24T17:30">5:30pm</TIMEX3>
+
+Before that if you could explain what are you looking for in me.
+
+can we be n line?
+
+How about we try the following.
+
+How would yyyy pm your time tomorrow afternoon, 25 September, work for you?
+tomorrow afternoon, 25 September=<TIMEX3 range="(2013-09-25T12:00:00.000,2013-09-25T18,PT6H)" tid="t1" type="TIME" value="2013-09-25TAF">tomorrow afternoon, 25 September</TIMEX3>
+
+Hi guys, xxxxx is what I have so far... Please let me know the changes and edits you''d like to see
+
+Is there a number I can call you on?
+
+Can we get an additional hour for ITapp to talk to xx?
+hour=<TIMEX3 range="(,,PT1H)" tid="t1" type="DURATION" value="PT1H">hour</TIMEX3>
+
+So can we meet for that tomorrow morning, around 10 AM maybe.
+tomorrow morning=<TIMEX3 range="(2013-09-25T06:00:00.000,2013-09-25T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-25TMO">tomorrow morning</TIMEX3>
+10 AM=<TIMEX3 range="(2013-09-24T10:00:00.000,2013-09-24T10:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-24T10:00">10 AM</TIMEX3>
+
+Can you help them with their request?
+
+How does Thursday morning for me / Wednesday late evening for you sound?
+Thursday morning=<TIMEX3 range="(2013-09-26-WXX-4T06:00:00.000,2013-09-26-WXX-4T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-26TMO">Thursday morning</TIMEX3>
+Wednesday late evening=<TIMEX3 range="(2013-09-25-WXX-3T18:00:00.000,2013-09-25-WXX-3T20,PT2H)" tid="t2" type="TIME" value="2013-09-25TEV">Wednesday late evening</TIMEX3>
+
+Do you need to talk to him?
+
+Perhaps we could grab coffee in the next week or two?
+the next week=<TIMEX3 range="(2013-09-30,2013-10-06,P1W)" tid="t1" type="DATE" value="2013-W40">the next week</TIMEX3>
+
+Will you be able to get the paperwork signed both for seed and note from the Fabric managers and fund this week?
+this week=<TIMEX3 range="(2013-09-23,2013-09-29,P1W)" tid="t1" type="DATE" value="2013-W39">this week</TIMEX3>
+
+but could you share the what I could be leading there ?
+
+Can we do this tomorrow lunch ?
+this tomorrow=<TIMEX3 range="(2013-09-25,2013-09-25,P1D)" tid="t1" type="DATE" value="2013-09-25">this tomorrow</TIMEX3>
+
+Can you pls send me your signature panel with contact details.
+
+Please call me on my cell yyyyyyyyyy today evening at around 5PM.
+today evening=<TIMEX3 range="(2013-09-24T18:00:00.000,2013-09-24T20,PT2H)" tid="t1" type="TIME" value="2013-09-24TEV">today evening</TIMEX3>
+5PM.=<TIMEX3 range="(2013-09-24T17:00:00.000,2013-09-24T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-24T17">5PM.</TIMEX3>
+
+2) Can we meet at 6pm instead of 530pm today.
+6pm=<TIMEX3 range="(2013-09-24T18:00:00.000,2013-09-24T18:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-24T18">6pm</TIMEX3>
+530pm today=<TIMEX3 range="(2013-09-24T17:30:00.000,2013-09-24T17:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-24T17:30">530pm today</TIMEX3>
+
+> Please let me know when you can send to me.
+
+Can we catch up today sometime after yyyy on the phone?
+today=<TIMEX3 range="(2013-09-24,2013-09-24,P1D)" tid="t1" type="DATE" value="2013-09-24">today</TIMEX3>
+
+Let me know how I can help.
+
+xxxxx: Can you add these two minor issues to your list?
+
+How can you support?
+
+Can you Please share the new salary structure if xxxxxxx has sent.
+
+Can you please work with him and ensure that you give him all the relevant information he needs to market and promote the track.
+
+can you move the scroll bar after the widget?
+
+Please read it and give me your feedback.
+
+Can we please schedule for Friday 1:30pm xxx / 5pm IST.
+Friday 1:30pm=<TIMEX3 range="(2013-09-27-WXX-5T13:30:00.000,2013-09-27-WXX-5T13:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-27T13:30">Friday 1:30pm</TIMEX3>
+5pm=<TIMEX3 range="(2013-09-25T17:00:00.000,2013-09-25T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-25T17">5pm</TIMEX3>
+
+Can you please check the references and give me the go ahead to make this change?
+
+Do let me know if i can confirm you for the same.
+
+Can you help to devise this program and get xxxxxx and chargebee ( I am forgetting his name) to do this program for us during October.
+October=<TIMEX3 range="(2013-10-01,2013-10-31,P1M)" tid="t1" type="DATE" value="2013-10">October</TIMEX3>
+
+Would it be possible to meet after this and in which case would you be coming more into town later?
+
+Could you identify who had what item in a numbered list manner and reply back?
+
+Please update me on what you have been doing and whether any resolutions have been found for the xx issue.
+
+Please let me know if I can come down on Friday morning to MS accelerator.
+Friday morning=<TIMEX3 range="(2013-09-27-WXX-5T06:00:00.000,2013-09-27-WXX-5T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-27TMO">Friday morning</TIMEX3>
+
+Should we just set start time itself at 10:30 am so discussion does not have to be repeated?
+10:30 am=<TIMEX3 range="(2013-09-25T10:30:00.000,2013-09-25T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-25T10:30">10:30 am</TIMEX3>
+
+Could I request you (jointly) to write up a post which we can include in the next iSPIRIT newsletter?
+
+xxxxxxxx has just confirmed for 1st xxxx meeting in xxxxxxxxx ������ have you written to anyone else ?
+1st Oct.=<TIMEX3 range="(2013-10-01,2013-10-01,P1D)" tid="t1" type="DATE" value="2013-10-01">1st Oct.</TIMEX3>
+
+xxxxxx, if you let me know the date and number of people, I can ask xxxxx if it''s available or not
+
+Would 1:30 or 2pm that day at xxxx������s xxxxxx in xxxxxxxx work with your schedule?
+1:30=<TIMEX3 range="(2013-09-25T01:30:00.000,2013-09-25T01:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-25T01:30">1:30</TIMEX3>
+2pm=<TIMEX3 range="(2013-09-25T14:00:00.000,2013-09-25T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-25T14">2pm</TIMEX3>
+day=<TIMEX3 range="(,,P1D)" tid="t3" type="DURATION" value="P1D">day</TIMEX3>
+
+xxxxx we confirm Tuesday yyyy at 9:30am at xxxx������s xxxxxx in xxxxxxxx?
+Tuesday=<TIMEX3 range="(2013-09-24-WXX-2,2013-09-24-WXX-2,P1D)" tid="t1" type="DATE" value="2013-09-24">Tuesday</TIMEX3>
+9:30am=<TIMEX3 range="(2013-09-25T09:30:00.000,2013-09-25T09:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-25T09:30">9:30am</TIMEX3>
+
+I cannot get the live version on my CVS still so would you mind changing the following values on the live server tomorrow morning please?
+tomorrow morning=<TIMEX3 range="(2013-09-26T06:00:00.000,2013-09-26T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-26TMO">tomorrow morning</TIMEX3>
+
+Can I call and listen in on the conversation like I did the other day when you met the xxx engg manager.
+the other day=<TIMEX3 range="(2013-09-25,2013-09-25,P1D)" tid="t1" type="DATE" value="2013-09-25">the other day</TIMEX3>
+
+Please let me know if this works.
+
+3) Can you tell me how you figured out this?
+
+Can xxx fill that from tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-26,2013-09-26,P1D)" tid="t1" type="DATE" value="2013-09-26">tomorrow</TIMEX3>
+
+Sharing the backdrop design, let me know if this is good to go.
+
+Can we speak about this on priority?
+
+Just an orthogonal thought.... should we rollback to the old collector/indexer and onboard for today?
+today=<TIMEX3 range="(2013-09-25,2013-09-25,P1D)" tid="t1" type="DATE" value="2013-09-25">today</TIMEX3>
+
+Can you add yours and review it before it goes online?
+
+Pls let me know.
+
+Kindly confirm the same so that i can go ahead with filing of the return after payment of taxes.
+
+Let me know when we can have a call... easier sorted out that way
+
+Would like to have a chat regarding your entrepreneur journey.
+
+Would it be OK if I put your name as one of my references?
+
+Please let me know a convenient time when we can talk.
+
+Can we pls reschedule for tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-27,2013-09-27,P1D)" tid="t1" type="DATE" value="2013-09-27">tomorrow</TIMEX3>
+
+Would it be possible to meet on Monday ?
+Monday=<TIMEX3 range="(2013-09-23-WXX-1,2013-09-23-WXX-1,P1D)" tid="t1" type="DATE" value="2013-09-23">Monday</TIMEX3>
+
+Could you call at yyyyyyyyyyy?
+
+Then please let me know your thought of profit share.
+
+Kindly let us know your availability to take telephonic / F2F interviews for the same, so that we can schedule accordingly.
+
+Can we catch up on skype to discuss?
+
+Can we talk about this sometime today?
+today=<TIMEX3 range="(2013-09-26,2013-09-26,P1D)" tid="t1" type="DATE" value="2013-09-26">today</TIMEX3>
+
+If it makes sense, we can talk tomorrow at 3pm.
+tomorrow at 3pm.=<TIMEX3 range="(2013-09-27T15:00:00.000,2013-09-27T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-27T15">tomorrow at 3pm.</TIMEX3>
+
+Can you send me the reference letter you have?
+
+4Pm?
+4Pm=<TIMEX3 range="(2013-09-26T16:00:00.000,2013-09-26T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-26T16">4Pm</TIMEX3>
+
+Can we discuss over weekend or into next week?
+weekend=<TIMEX3 range="(2013-09-28,2013-09-29,P2D)" tid="t1" type="DATE" value="2013-W39-WE">weekend</TIMEX3>
+next week=<TIMEX3 range="(2013-09-30,2013-10-06,P1W)" tid="t2" type="DATE" value="2013-W40">next week</TIMEX3>
+
+Could we schedule post 11th?
+
+Let me know
+
+How are you occupied tomorrow?
+tomorrow=<TIMEX3 range="(2013-09-27,2013-09-27,P1D)" tid="t1" type="DATE" value="2013-09-27">tomorrow</TIMEX3>
+
+Would Tuesday yyyy at 3pm in the xxxxxxxx area work with your schedule?
+Tuesday=<TIMEX3 range="(2013-10-01-WXX-2,2013-10-01-WXX-2,P1D)" tid="t1" type="DATE" value="2013-10-01">Tuesday</TIMEX3>
+3pm=<TIMEX3 range="(2013-09-26T15:00:00.000,2013-09-26T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-26T15">3pm</TIMEX3>
+
+Can you come to pick me up?
+
+Let us know when we might see ya.
+
+Please let me know thanks,
+
+Let me know what time works best.
+
+Do you want to meet him?
+
+Let us know if you can take a crack at the above, else we will try to do this and send it across to you for comments.
+
+Are you okay with The Fabric covering yy% of xxxx''s costs beginning October 1
+beginning October 1=<TIMEX3 mod="EARLY" range="(2013-10-01,2013-10-01,P1D)" tid="t1" type="DATE" value="2013-10-01">beginning October 1</TIMEX3>
+
+Let me know when we can connect.
+
+Do we have the catch up meeting today at 11 am?
+today at 11 am=<TIMEX3 range="(2013-09-26T11:00:00.000,2013-09-26T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-09-26T11:00">today at 11 am</TIMEX3>
+
+Can we speak on Monday at xxx yy or so?
+Monday=<TIMEX3 range="(2013-09-23-WXX-1,2013-09-23-WXX-1,P1D)" tid="t1" type="DATE" value="2013-09-23">Monday</TIMEX3>
+
+If so, perhaps we can meet at my office?
+
+Would Monday morning work for you ?
+Monday morning=<TIMEX3 range="(2013-09-23-WXX-1T06:00:00.000,2013-09-23-WXX-1T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-23TMO">Monday morning</TIMEX3>
+
+Would next week work for you ?
+next week=<TIMEX3 range="(2013-09-30,2013-10-06,P1W)" tid="t1" type="DATE" value="2013-W40">next week</TIMEX3>
+
+Can you send a mail out to the speakers clarifying this change?
+
+Can you check and let me know what is the issue is it on the moodle side or on the articulate side?
+
+Could you send me links that will help me with the way DDGen will need to support register access macros to make it upstreamable?
+
+Can you quickly help us with this small change in the settings pane?
+
+Can you also add these tool tips to the header and footer bars (search filters)?
+
+Can we have an informal chat over a cup of coffee at the time of your convenience.
+
+For the release, is 5pm JST fine ?
+5pm=<TIMEX3 range="(2013-09-27T17:00:00.000,2013-09-27T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-09-27T17">5pm</TIMEX3>
+
+Please check and update (action items, projects, customer contacts/interactions, technical topics.
+
+Please call me tomorrow morning around noon.
+tomorrow morning=<TIMEX3 range="(2013-09-28T06:00:00.000,2013-09-28T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-28TMO">tomorrow morning</TIMEX3>
+noon=<TIMEX3 range="(2013-09-27T12:00:00.000,2013-09-27T12:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-09-27T12:00">noon</TIMEX3>
+
+Could you please check why this happened?
+
+Could you please share the course details for xxxxxxx that you are planning to start
+
+Please let us try to talk tomorrow morning?
+tomorrow morning=<TIMEX3 range="(2013-09-28T06:00:00.000,2013-09-28T12:00,PT6H)" tid="t1" type="TIME" value="2013-09-28TMO">tomorrow morning</TIMEX3>
+
+Can we put something with E-mirsal
+
+Can you check if the dumps directory is present?
+present=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">present</TIMEX3>
+
+Please integrate and let me know.
+
+How about showing mined phone numbers on the y alerts page, below the description?
+
+How can we go about it?
+
+Would you be free sometime this week?
+this week=<TIMEX3 range="(2013-09-23,2013-09-29,P1W)" tid="t1" type="DATE" value="2013-W39">this week</TIMEX3>
+
+Will your software not work on IE or xxxxxxx or xxxxxx?
+
+How about xxxxxxxxxxx?
+
+How can you expect me to give you the list within days for the whole year?
+days=<TIMEX3 range="(,,PXD)" tid="t1" type="DURATION" value="PXD">days</TIMEX3>
+the whole year=<TIMEX3 range="(2013-01-01,2013-12-31,P1Y)" tid="t2" type="DATE" value="2013">the whole year</TIMEX3>
+
+Let me know if you are free for half hour, we can discuss the budget and present it to xxxx and others.
+hour=<TIMEX3 range="(,,PT1H)" tid="t1" type="DURATION" value="PT1H">hour</TIMEX3>
+present=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t2" type="DATE" value="PRESENT_REF">present</TIMEX3>
+
+Can we please track them through trello?
+
+Will you be passing along the message regarding xxx VR xxxxxxxx to xxxxxxx or should I?
+
+Can you send all the salary and any other remainder expenses to the accountant?
+
+You have a call with xxxxxxx at that time �� can you move it?
+
+I was trying to reach you on the mentioned numbers ( yyyyyyyyyy / yyyyyyyyyy ) but could not get in touch in with you, kindly call me once the mail is reached.
+once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">once</TIMEX3>
+
+THE xxxxxxxxxx OF JAN AND FEB ARE COMPULSORY SO YOU MAY xxx TO FIND xxx IF YOU CAN POSTPONE YOUR TRAVEL TO 26TH JAN 2014 AND LET ME xxxx xxxxx
+JAN=<TIMEX3 range="(2014-01-01,2014-01-31,P1M)" tid="t1" type="DATE" value="2014-01">JAN</TIMEX3>
+FEB=<TIMEX3 range="(2014-02-01,2014-02-28,P1M)" tid="t2" type="DATE" value="2014-02">FEB</TIMEX3>
+MAY=<TIMEX3 range="(2013-05-01,2013-05-31,P1M)" tid="t3" type="DATE" value="2013-05">MAY</TIMEX3>
+26TH JAN 2014=<TIMEX3 range="(2014-01-26,2014-01-26,P1D)" tid="t4" type="DATE" value="2014-01-26">26TH JAN 2014</TIMEX3>
+
+Kindly send us the rate for the same ASAP as we have to submit the tender by yyyy PM.
+
+Can you send me a brief about the company and also any related information?
+
+Can you let me know the response for the points where I have asked so that I can respond before their day begins.
+day=<TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+
+Are we on for wed meeting?
+wed=<TIMEX3 range="(2013-10-02-WXX-3,2013-10-02-WXX-3,P1D)" tid="t1" type="DATE" value="2013-10-02">wed</TIMEX3>
+
+also in order to decide if I want code / designs can you send me a code sample your programmers did (some html + css + javascript will be great).
+
+Please let me know how to proceed with POC on this.
+
+Please let me know the amount.
+
+Can you please approve the membership.
+
+could you please let me know.
+
+Please test and let me know.
+
+Please do communicate whether your schedule permits to be present, I am so eagerly looking forward to having you over once again at xxxxxxx Saturday xxxxxxxxx.
+present=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">present</TIMEX3>
+once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t2" type="DATE" value="PAST_REF">once</TIMEX3>
+Saturday=<TIMEX3 range="(2013-09-28-WXX-6,2013-09-28-WXX-6,P1D)" tid="t3" type="DATE" value="2013-09-28">Saturday</TIMEX3>
+
+How about Friday?
+about Friday=<TIMEX3 range="(2013-09-27-WXX-5,2013-09-27-WXX-5,P1D)" tid="t1" type="DATE" value="2013-09-27">about Friday</TIMEX3>
+
+Friday will not work so pick nag other day.
+Friday=<TIMEX3 range="(2013-10-04-WXX-5,2013-10-04-WXX-5,P1D)" tid="t1" type="DATE" value="2013-10-04">Friday</TIMEX3>
+day=<TIMEX3 range="(,,P1D)" tid="t2" type="DURATION" value="P1D">day</TIMEX3>
+
+Can you send me profiles or even summaries so I can push them through?
+
+Thanks xxxxxx, I saw that... can you please help in adding description for day y plenaries.
+day=<TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+
+Could you perhaps elaborate on the model you speak about?
+
+Can we do something like this for the vertical thumbnails with horizontal images?
+
+xxxxxxx, please let me know your requirements and we can probably take it from there.
+
+How can we stand out?
+
+Can we chat about this today afternoon?
+about this today afternoon=<TIMEX3 range="(2013-09-30T12:00:00.000,2013-09-30T18,PT6H)" tid="t1" type="TIME" value="2013-09-30TAF">about this today afternoon</TIMEX3>
+
+xxxxxxxx, can you resend bank account details to vinod?
+
+Do you have availability to meet this Thursday yyyy at 3pm in the xxxxxxxxxxxxxxxxxx area?
+this Thursday=<TIMEX3 range="(2013-10-03-WXX-4,2013-10-03-WXX-4,P1D)" tid="t1" type="DATE" value="2013-10-03">this Thursday</TIMEX3>
+3pm=<TIMEX3 range="(2013-09-30T15:00:00.000,2013-09-30T15:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-09-30T15">3pm</TIMEX3>
+
+May I suggest Tuesday yyyy at 1pm?
+May=<TIMEX3 range="(2013-05-01,2013-05-31,P1M)" tid="t1" type="DATE" value="2013-05">May</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-10-01-WXX-2,2013-10-01-WXX-2,P1D)" tid="t2" type="DATE" value="2013-10-01">Tuesday</TIMEX3>
+1pm=<TIMEX3 range="(2013-09-30T13:00:00.000,2013-09-30T13:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-09-30T13">1pm</TIMEX3>
+
+Can we have a call on coming Monday (7th Oct) at 9:00 AM xxx.
+Monday=<TIMEX3 range="(2013-09-30-WXX-1,2013-09-30-WXX-1,P1D)" tid="t1" type="DATE" value="2013-09-30">Monday</TIMEX3>
+7th Oct=<TIMEX3 range="(2013-10-07,2013-10-07,P1D)" tid="t2" type="DATE" value="2013-10-07">7th Oct</TIMEX3>
+9:00 AM=<TIMEX3 range="(2013-09-30T09:00:00.000,2013-09-30T09:00:59.999,PT1M)" tid="t3" type="TIME" value="2013-09-30T09:00">9:00 AM</TIMEX3>
+
+Do you have availability on Wednesday yyyy in the morning or later afternoon?
+Wednesday=<TIMEX3 range="(2013-09-25-WXX-3,2013-09-25-WXX-3,P1D)" tid="t1" type="DATE" value="2013-09-25">Wednesday</TIMEX3>
+morning=<TIMEX3 range="(2013-09-30T06:00:00.000,2013-09-30T12:00,PT6H)" tid="t2" type="TIME" value="2013-09-30TMO">morning</TIMEX3>
+later afternoon=<TIMEX3 range="(2013-09-30T12:00:00.000,2013-09-30T18,PT6H)" tid="t3" type="TIME" value="2013-09-30TAF">later afternoon</TIMEX3>
+
+Can you share w/ me a conf call or office to call into?
+
+Is it ok if I can start working with you from October 10th.
+October 10th=<TIMEX3 range="(2013-10-10,2013-10-10,P1D)" tid="t1" type="DATE" value="2013-10-10">October 10th</TIMEX3>
+
+xxxxxx Can you please confirm her pay.
+
+can we now make a press-release or something?
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>
+
+Please can you send the files in zip format?
+
+Hi maybe friday?
+friday=<TIMEX3 range="(2013-10-04-WXX-5,2013-10-04-WXX-5,P1D)" tid="t1" type="DATE" value="2013-10-04">friday</TIMEX3>
+
+I would like to know, what does it mean when it displays TODAY yyyy(y)?
+TODAY=<TIMEX3 range="(2013-09-30,2013-09-30,P1D)" tid="t1" type="DATE" value="2013-09-30">TODAY</TIMEX3>
+
+I can also try xxxx xxxx; any other from other stints?
+
+Hello xxxxxxxxx, Can you please communicate to Pradeep/Maria to get permission for my visit today at xxx?
+today=<TIMEX3 range="(2013-09-30,2013-09-30,P1D)" tid="t1" type="DATE" value="2013-09-30">today</TIMEX3>
+
+xxxxxx: please let me know when to call shailaja so that I will be online then.
+
+Could we meet earlier tomorrow at 10:30AM at xxxxx.
+earlier tomorrow at 10:30AM=<TIMEX3 range="(2013-10-01T10:30:00.000,2013-10-01T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-01T10:30">earlier tomorrow at 10:30AM</TIMEX3>
+
+Can you send me?
+
+xxxxx, will you be attending the xxxxxx angel call today?
+today=<TIMEX3 range="(2013-09-30,2013-09-30,P1D)" tid="t1" type="DATE" value="2013-09-30">today</TIMEX3>
+
+Would like to know whether you were able to speak with xxxx in order to get back our laptop.
+
+I am free through most of tomorrow and would love for us to catch up if you are free.
+tomorrow=<TIMEX3 range="(2013-10-02,2013-10-02,P1D)" tid="t1" type="DATE" value="2013-10-02">tomorrow</TIMEX3>
+
+Can you attach a screen shot.
+
+Would Wednesday work for you?
+Wednesday=<TIMEX3 range="(2013-10-02-WXX-3,2013-10-02-WXX-3,P1D)" tid="t1" type="DATE" value="2013-10-02">Wednesday</TIMEX3>
+
+xxxxxx can we shoot for the first version by this weekend to have the graph by trend and region as I show in this PPT page y?
+this weekend=<TIMEX3 range="(2013-10-05,2013-10-06,P2D)" tid="t1" type="DATE" value="2013-W40-WE">this weekend</TIMEX3>
+
+Can we toggle the related pane globally, not per email?
+
+Please let me know, if a face to face meeting next week, will work for you to take this forward.
+next week=<TIMEX3 range="(2013-10-07,2013-10-13,P1W)" tid="t1" type="DATE" value="2013-W41">next week</TIMEX3>
+
+Can we do Thursday?
+Thursday=<TIMEX3 range="(2013-10-03-WXX-4,2013-10-03-WXX-4,P1D)" tid="t1" type="DATE" value="2013-10-03">Thursday</TIMEX3>
+
+Please install the plugin and give me feedback.
+
+Is that make sense, would you prefer xxxxx call?
+
+Can you please check the below user id has been mapped correctly in xxxxxxxxx.
+
+Does 4:30 pm xxxxxxx today (Tue) work?
+4:30 pm=<TIMEX3 range="(2013-10-01T16:30:00.000,2013-10-01T16:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-01T16:30">4:30 pm</TIMEX3>
+today=<TIMEX3 range="(2013-10-01,2013-10-01,P1D)" tid="t2" type="DATE" value="2013-10-01">today</TIMEX3>
+Tue=<TIMEX3 range="(2013-10-01-WXX-2,2013-10-01-WXX-2,P1D)" tid="t3" type="DATE" value="2013-10-01">Tue</TIMEX3>
+
+How about Thu?
+about Thu=<TIMEX3 range="(2013-10-03-WXX-4,2013-10-03-WXX-4,P1D)" tid="t1" type="DATE" value="2013-10-03">about Thu</TIMEX3>
+
+Could you please try for xxxxxx immediately?
+
+May I suggest Friday yyyy at 1pm?
+May=<TIMEX3 range="(2013-05-01,2013-05-31,P1M)" tid="t1" type="DATE" value="2013-05">May</TIMEX3>
+Friday=<TIMEX3 range="(2013-10-04-WXX-5,2013-10-04-WXX-5,P1D)" tid="t2" type="DATE" value="2013-10-04">Friday</TIMEX3>
+1pm=<TIMEX3 range="(2013-10-01T13:00:00.000,2013-10-01T13:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-10-01T13">1pm</TIMEX3>
+
+Can you please add a rate card (same as FP&A group - 8 hours onsite, 9 hours offshore will do) to HD_Information_Technology subgroup?
+8 hours=<TIMEX3 range="(,,PT8H)" tid="t1" type="DURATION" value="PT8H">8 hours</TIMEX3>
+9 hours=<TIMEX3 range="(,,PT9H)" tid="t2" type="DURATION" value="PT9H">9 hours</TIMEX3>
+
+Can we send out the links today?
+today=<TIMEX3 range="(2013-10-01,2013-10-01,P1D)" tid="t1" type="DATE" value="2013-10-01">today</TIMEX3>
+
+Can you please tell me how many code files are made up on single page in Sulekha/Indiaproperty/Sulekha/Snapdeal/Rediff/Indiamart.
+
+Good to be connected to you Could you send me more details for me to understand this better?
+
+pls confirm the numbers in this mail.... _____________________________________________ Ezetap has come back with a solution to meet our offer.
+
+can you look at this one - both seem to be getting us to the desired yyyy% with yyy M at 16M....what has changed?
+
+Please send us the following required data for finalization of your personal return :
+
+Can we talk tomorrow morning - sent invite.
+tomorrow morning=<TIMEX3 range="(2013-10-03T06:00:00.000,2013-10-03T12:00,PT6H)" tid="t1" type="TIME" value="2013-10-03TMO">tomorrow morning</TIMEX3>
+
+Can we send it out to xxxxxx, xxxxx, xxxxxx?
+
+xxxxxx are we going from office tomorrow?
+tomorrow=<TIMEX3 range="(2013-10-03,2013-10-03,P1D)" tid="t1" type="DATE" value="2013-10-03">tomorrow</TIMEX3>
+
+Could you please call and confirm tomorrow morning that you will be coming.
+tomorrow morning=<TIMEX3 range="(2013-10-03T06:00:00.000,2013-10-03T12:00,PT6H)" tid="t1" type="TIME" value="2013-10-03TMO">tomorrow morning</TIMEX3>
+
+If so, please send me you xxxxx name for our call tomorrow.
+tomorrow=<TIMEX3 range="(2013-10-03,2013-10-03,P1D)" tid="t1" type="DATE" value="2013-10-03">tomorrow</TIMEX3>
+
+Let me know how the seed funding and the feedback goes, we''ve done some tax and accounting research on this kind of funding if you ever need feedback
+
+Please give me your number, and I shall call you today.
+today=<TIMEX3 range="(2013-10-02,2013-10-02,P1D)" tid="t1" type="DATE" value="2013-10-02">today</TIMEX3>
+
+tomorrow 9 AM xxx work for everyone?
+tomorrow 9 AM=<TIMEX3 range="(2013-10-03T09:00:00.000,2013-10-03T09:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-03T09:00">tomorrow 9 AM</TIMEX3>
+
+xxxx, Can you please ask xxxxxx to shortlist from these resumes?
+
+Can you pl qiucly connect me to these two folks(xxxxxx & xxxxx)?
+
+So why would it remain the same?
+
+Can you please help me with this?
+
+Please confirm so that xxxxxxxxxx can be updated.
+
+Please let me know best number to reach you and I will call you.
+
+Can you please consider for a full time employment in your company.
+
+Please confirm on the same?
+
+Let me know your inputs.
+
+xxxxx we visit them post lunch?
+
+Can you please talk to xxxxxxxxx from yyyyyyyy on what his requirements are.
+
+Can you also ask xxxxxxx guys when they can come for measurements?
+
+Please let me know what this is.
+
+Can you please check with them?
+
+Hi xxxxxxx & xxxxx, Let me know as when can we get on a skype call to discuss
+
+Can we catch in the evening at 6PM as hareesh went out for client meeting?
+evening=<TIMEX3 range="(2013-10-03T18:00:00.000,2013-10-03T20,PT2H)" tid="t1" type="TIME" value="2013-10-03TEV">evening</TIMEX3>
+6PM=<TIMEX3 range="(2013-10-03T18:00:00.000,2013-10-03T18:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-10-03T18">6PM</TIMEX3>
+
+5pm?
+5pm=<TIMEX3 range="(2013-10-03T17:00:00.000,2013-10-03T17:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-10-03T17">5pm</TIMEX3>
+
+Please note the below mail from our factory & please confirm its availability & arrange to send the best quote for the same at the earliest.
+
+Gentle reminder :-) - can you please get me y, and y?
+
+Let me know when you back in town and if I can pop by your office to meet with you briefly.
+
+Can you review this?
+
+Please send me header image in size yyy (W) x yyy (H) pl, so that it will be easy for us to promote the event.
+
+Does it mean that while xxxxxx is showing yy results for the keyword and Scibler is showing y results: Can we say xxxxxx xxxxx metric is yyyyy?
+
+Are you available at 2pm.
+2pm.=<TIMEX3 range="(2013-10-03T14:00:00.000,2013-10-03T14:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-10-03T14">2pm.</TIMEX3>
+
+Can we do this sometime next week.
+next week=<TIMEX3 range="(2013-10-07,2013-10-13,P1W)" tid="t1" type="DATE" value="2013-W41">next week</TIMEX3>
+
+Can we have a skype video call with him tomorrow afternoon sometime between y - 5pm?
+tomorrow afternoon=<TIMEX3 range="(2013-10-04T12:00:00.000,2013-10-04T18,PT6H)" tid="t1" type="TIME" value="2013-10-04TAF">tomorrow afternoon</TIMEX3>
+5pm=<TIMEX3 range="(2013-10-03T17:00:00.000,2013-10-03T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-10-03T17">5pm</TIMEX3>
+
+Sathish please make a subdomain xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Please let me know what information you need in order to point the domain to our new site xxxxxxxxxxxxxxxxx Thanks, xxxxxxx
+
+If not, please let me know your availability for next week.
+next week=<TIMEX3 range="(2013-10-07,2013-10-13,P1W)" tid="t1" type="DATE" value="2013-W41">next week</TIMEX3>
+
+I wanted to check in and see if either of the dates I proposed next week might work on your end.
+next week=<TIMEX3 range="(2013-10-07,2013-10-13,P1W)" tid="t1" type="DATE" value="2013-W41">next week</TIMEX3>
+
+Is there a number that I can call you at?
+
+Or, if it''s more convenient for you to meet in the xxxx xxxx area, please suggest some times the following week
+the following week=<TIMEX3 range="(2013-10-07,2013-10-13,P1W)" tid="t1" type="DATE" value="2013-W41">the following week</TIMEX3>
+
+Hi xxxx, is it possible to do this Oct 10th around 4:30PM in xxxxxxxx?
+this Oct=<TIMEX3 range="(2013-10-01,2013-10-31,P1M)" tid="t1" type="DATE" value="2013-10">this Oct</TIMEX3>
+4:30PM=<TIMEX3 range="(2013-10-03T16:30:00.000,2013-10-03T16:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-10-03T16:30">4:30PM</TIMEX3>
+
+Can you let me know if you can make it.
+
+Can we bypass signup for "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"?
+
+Tomorrow EOD?
+Tomorrow=<TIMEX3 range="(2013-10-04,2013-10-04,P1D)" tid="t1" type="DATE" value="2013-10-04">Tomorrow</TIMEX3>
+
+Can I come to office tomorrow ?
+tomorrow=<TIMEX3 range="(2013-10-04,2013-10-04,P1D)" tid="t1" type="DATE" value="2013-10-04">tomorrow</TIMEX3>
+
+Can you send me a list of opportunities with past close date in xxxxxxxxx as on date.
+past=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">past</TIMEX3>
+
+Please send me the details of your terms of working with us, as well as the fees for both the retailer-ship and successive modes of agreement.
+
+Can you take care of this and let me know once it is done?
+once=<TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t1" type="DATE" value="PAST_REF">once</TIMEX3>
+
+Could you please let me know if you need any specific info?
+
+Hi, I have been getting bitbucket URLs from guys but i need read permission to confirm the transition, guys are unable to do it themselves as they do not have required permission to do so, can you please add my account so that i would be able to read these repos, i am including links for the repo:
+
+Will you let xxxxxxx know directly?
+
+Dear xxxxxxxxx, Its good to see response from your side, please let me know further steps in your hiring process.
+
+Kindly let me know if we can schedule a call
+
+xxxxx we proceed to create a prototype course bundle with badges and leaderboard based on this info?
+
+Can you please let me know the contents of the page that will be displayed when the customer has either successfully completed the transaction or failed.
+
+Could one of you please spend some time guiding him?
+
+Can you invite xxxx xxxxxxx on assembla (TXM mobile).
+
+Would Tuesday work?
+Tuesday=<TIMEX3 range="(2013-10-08-WXX-2,2013-10-08-WXX-2,P1D)" tid="t1" type="DATE" value="2013-10-08">Tuesday</TIMEX3>
+
+Of November or October?
+November=<TIMEX3 range="(2013-11-01,2013-11-30,P1M)" tid="t1" type="DATE" value="2013-11">November</TIMEX3>
+October=<TIMEX3 range="(2013-10-01,2013-10-31,P1M)" tid="t2" type="DATE" value="2013-10">October</TIMEX3>
+
+Can you clarify the reason for this ?
+
+Please give me a call x yyyyyyyyyyyy at anytime convenient for you.
+
+Could you specify what exactly should be improved in the new user interface.
+
+Are you available to meet in the xxxxxxxx area on Monday yyyy at 4:30pm?
+Monday=<TIMEX3 range="(2013-10-07-WXX-1,2013-10-07-WXX-1,P1D)" tid="t1" type="DATE" value="2013-10-07">Monday</TIMEX3>
+4:30pm=<TIMEX3 range="(2013-10-04T16:30:00.000,2013-10-04T16:30:59.999,PT1M)" tid="t2" type="TIME" value="2013-10-04T16:30">4:30pm</TIMEX3>
+
+Could you please take a look at the attached write-up for xxxxxx, which I will be looking at with fresh eyes tomorrow?
+tomorrow=<TIMEX3 range="(2013-10-05,2013-10-05,P1D)" tid="t1" type="DATE" value="2013-10-05">tomorrow</TIMEX3>
+
+Can we start to expand rapidly?
+
+xxx, please let me know whether pattern recognition people can apply.
+
+Pls can we go for a Conference call discussion with Jaineel.
+
+Can you please update the number of xxxxx in our website to yyyyyyyyyyyyy?
+
+Please say me the venue.
+
+Can you please let us know the bottleneck?
+
+Can you please check the Tour once.Also let me know your gmail id
+
+Could you schedule discussions with the following candidates ?
+
+Could you schedule discussions with both xxxxx xxxxx and xxxxxx ?
+
+Please advise the next steps?
+
+Could you suggest a place and time for this afternoon ?
+this afternoon=<TIMEX3 range="(2013-10-05T12:00:00.000,2013-10-05T18,PT6H)" tid="t1" type="TIME" value="2013-10-05TAF">this afternoon</TIMEX3>
+
+Can you set aside some time to describe the new indexer/collector?
+
+Can you remove the hypen?
+
+Let me know what best name we can get for them.
+
+xxxxxxxxx: please let me know when you are available to discuss your venture.
+
+Please do let me know if this is fine.
+
+Can you see what this is.
+
+Seems worthwhile to be there instead of on the phone ... can you give me pick me up to go there?
+
+Can you please call Vatsan before starting with the old schema?
+
+Can you please send me the location to set for the following users?
+
+Can we speak at 5:00 PM?
+5:00 PM=<TIMEX3 range="(2013-10-06T17:00:00.000,2013-10-06T17:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-06T17:00">5:00 PM</TIMEX3>
+
+Can you take us through how and which are these programmes?
+
+Hi xxxxx, Is the call tomorrow(Oct8), Tue yy AM?I also got another invite from you for for today morning Please confirm.
+tomorrow=<TIMEX3 range="(2013-10-07,2013-10-07,P1D)" tid="t1" type="DATE" value="2013-10-07">tomorrow</TIMEX3>
+Tue=<TIMEX3 range="(2013-10-08-WXX-2,2013-10-08-WXX-2,P1D)" tid="t2" type="DATE" value="2013-10-08">Tue</TIMEX3>
+today morning=<TIMEX3 range="(2013-10-06T06:00:00.000,2013-10-06T12:00,PT6H)" tid="t3" type="TIME" value="2013-10-06TMO">today morning</TIMEX3>
+
+Can you please send me the job descriptions ?
+
+Can you have a look at the document attached and let me know what your estimate would be (cost and time)?
+
+Wednesday is fine, please confirm and let me know what time i need to come at.
+Wednesday=<TIMEX3 range="(2013-10-09-WXX-3,2013-10-09-WXX-3,P1D)" tid="t1" type="DATE" value="2013-10-09">Wednesday</TIMEX3>
+
+xxxxx we meet at 1030am then tomorrow?
+1030am=<TIMEX3 range="(2013-10-07T10:30:00.000,2013-10-07T10:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-07T10:30">1030am</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-10-08,2013-10-08,P1D)" tid="t2" type="DATE" value="2013-10-08">tomorrow</TIMEX3>
+
+Hey, Can we talk on skype now?
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>
+
+Can we have the demo at 4 PM tomorrow ?
+4 PM tomorrow=<TIMEX3 range="(2013-10-08T16:00:00.000,2013-10-08T16:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-08T16:00">4 PM tomorrow</TIMEX3>
+
+I have drained the queue... can you check?
+
+Can you check with xxxxxx, if still he has not replied.
+
+Can we get in touch with Zepo, xxxxxxxx outcome and online xxxxxx?
+
+That aside, can I confirm with you that he can come over tomorrow morning 9:30am, if it does not rain tonight & tomorrow morning?
+tomorrow morning 9:30am=<TIMEX3 range="(2013-10-08T09:30:00.000,2013-10-08T09:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-08T09:30">tomorrow morning 9:30am</TIMEX3>
+tonight=<TIMEX3 range="(2013-10-07T19:00:00.000,2013-10-07T05,PT-14H)" tid="t2" type="TIME" value="2013-10-07TNI">tonight</TIMEX3>
+tomorrow morning=<TIMEX3 range="(2013-10-08T06:00:00.000,2013-10-08T12:00,PT6H)" tid="t3" type="TIME" value="2013-10-08TMO">tomorrow morning</TIMEX3>
+
+Also please tell me the updated total hours for this option
+hours=<TIMEX3 range="(,,PTXH)" tid="t1" type="DURATION" value="PTXH">hours</TIMEX3>
+
+Can you please make introductions for us to take this forward?
+
+Hey xxxx, sorry didn''t get a chance to see this earlier - could you please share again so I can have a loo
+
+If you see my e-mail before your leave home, can we meet tomorrow 11 AM - instead of today?
+tomorrow 11 AM=<TIMEX3 range="(2013-10-08T11:00:00.000,2013-10-08T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-08T11:00">tomorrow 11 AM</TIMEX3>
+today=<TIMEX3 range="(2013-10-07,2013-10-07,P1D)" tid="t2" type="DATE" value="2013-10-07">today</TIMEX3>
+
+Can you please check mapping-config.
+
+Please send across PDF
+
+Dear sir, I have forwarded my resume to mailid xxxxxxxxxxxxxxxxxxxxxxxxxx please have a look on the same and let me know if I am eligible for the posting
+
+Can you please share with me the details of the course / students and their backgrounds before we decide on visiting your campus for placements.
+
+Can you please resend?
+
+Let me know what other ideas you have.
+
+Please send us the flight number, and the time of arrival.
+
+Do you have availability on:
+
+Are you available tomorrow (Tuesday yyyy) at 10am at xxxx''s xxxxxx in xxxxxxxx
+tomorrow=<TIMEX3 range="(2013-10-08,2013-10-08,P1D)" tid="t1" type="DATE" value="2013-10-08">tomorrow</TIMEX3>
+Tuesday=<TIMEX3 range="(2013-10-08-WXX-2,2013-10-08-WXX-2,P1D)" tid="t2" type="DATE" value="2013-10-08">Tuesday</TIMEX3>
+10am=<TIMEX3 range="(2013-10-07T10:00:00.000,2013-10-07T10:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-10-07T10">10am</TIMEX3>
+
+Can we move my Friday appointment with xxx xxxxxxx to 11:45 pm and I can stay on for my massage appointment at 12:15 with xxxxxx?
+Friday=<TIMEX3 range="(2013-10-11-WXX-5,2013-10-11-WXX-5,P1D)" tid="t1" type="DATE" value="2013-10-11">Friday</TIMEX3>
+11:45 pm=<TIMEX3 range="(2013-10-07T23:45:00.000,2013-10-07T23:45:59.999,PT1M)" tid="t2" type="TIME" value="2013-10-07T23:45">11:45 pm</TIMEX3>
+12:15=<TIMEX3 range="(2013-10-07T12:15:00.000,2013-10-07T12:15:59.999,PT1M)" tid="t3" type="TIME" value="2013-10-07T12:15">12:15</TIMEX3>
+
+Does Wed yyyy pm xxxxxxx look feasible?
+Wed=<TIMEX3 range="(2013-10-09-WXX-3,2013-10-09-WXX-3,P1D)" tid="t1" type="DATE" value="2013-10-09">Wed</TIMEX3>
+
+I would like to meet you for yy mts or so and get your feedback.
+
+Did want to talk to you this morning but decided to ping you later since you were heading out for your next meeting.
+this morning=<TIMEX3 range="(2013-10-07T06:00:00.000,2013-10-07T12:00,PT6H)" tid="t1" type="TIME" value="2013-10-07TMO">this morning</TIMEX3>
+
+If yes, can one of you put a word to her, and I can start working with her?
+
+Please try the following steps and let me know if you are able to Switch the payment method:
+
+Please let me know a convenient time for us to get on a call & explore potential synergies for mutual growth.
+
+Please answer the following questions so that I can collect your inputs for putting together the new marketing collateral for xxxxxxxx
+
+I hope that you have managed to make progress your side, you want to talk later today or tomorrow?
+later today=<TIMEX3 range="(2013-10-07,2013-10-07,P1D)" tid="t1" type="DATE" value="2013-10-07">later today</TIMEX3>
+tomorrow=<TIMEX3 range="(2013-10-08,2013-10-08,P1D)" tid="t2" type="DATE" value="2013-10-08">tomorrow</TIMEX3>
+
+Can you check for similar resumes and call them for interview tomorrow?
+tomorrow=<TIMEX3 range="(2013-10-08,2013-10-08,P1D)" tid="t1" type="DATE" value="2013-10-08">tomorrow</TIMEX3>
+
+Could you please let me know of some other time I could call you.
+
+What time on Friday?
+Friday=<TIMEX3 range="(2013-10-11-WXX-5,2013-10-11-WXX-5,P1D)" tid="t1" type="DATE" value="2013-10-11">Friday</TIMEX3>
+
+Can we not just prevent it from firewall?
+
+Thanks xxxxxx, shall we chat this Friday at 10am?
+this Friday at 10am=<TIMEX3 range="(2013-10-11-WXX-5T10:00:00.000,2013-10-11-WXX-5T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-10-11T10">this Friday at 10am</TIMEX3>
+
+And will you be available to take new project from Tuesday?
+Tuesday=<TIMEX3 range="(2013-10-08-WXX-2,2013-10-08-WXX-2,P1D)" tid="t1" type="DATE" value="2013-10-08">Tuesday</TIMEX3>
+
+Can we use stunner web template?
+
+Can we talk tomorrow ?
+tomorrow=<TIMEX3 range="(2013-10-09,2013-10-09,P1D)" tid="t1" type="DATE" value="2013-10-09">tomorrow</TIMEX3>
+
+As discussed on phone, please do confirm on xxxxxxx xxx''s joining at the earliest
+
+xxxxxxx, On target to lock down requirements by Wednesday?
+Wednesday=<TIMEX3 range="(2013-10-09-WXX-3,2013-10-09-WXX-3,P1D)" tid="t1" type="DATE" value="2013-10-09">Wednesday</TIMEX3>
+
+Can we do the call tomorrow morning at 9am or in the evening at 5pm?
+tomorrow morning at 9am=<TIMEX3 range="(2013-10-09T09:00:00.000,2013-10-09T09:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-10-09T09">tomorrow morning at 9am</TIMEX3>
+evening=<TIMEX3 range="(2013-10-08T18:00:00.000,2013-10-08T20,PT2H)" tid="t2" type="TIME" value="2013-10-08TEV">evening</TIMEX3>
+5pm=<TIMEX3 range="(2013-10-08T17:00:00.000,2013-10-08T17:59:59.999,PT1H)" tid="t3" type="TIME" value="2013-10-08T17">5pm</TIMEX3>
+
+Are you coming to office tomorrow :)
+tomorrow=<TIMEX3 range="(2013-10-09,2013-10-09,P1D)" tid="t1" type="DATE" value="2013-10-09">tomorrow</TIMEX3>
+
+They are asking you to call them and provide an existing credit card number?!
+
+Do you want to send out an intro email and give me his phone?
+
+Else Saturday early night ?
+Saturday early night=<TIMEX3 range="(2013-10-12-WXX-6T19:00:00.000,2013-10-12-WXX-6T05,PT-14H)" tid="t1" type="TIME" value="2013-10-12TNI">Saturday early night</TIMEX3>
+
+xxxx it''s ok to meet in the later part of next week
+next week=<TIMEX3 range="(2013-10-14,2013-10-20,P1W)" tid="t1" type="DATE" value="2013-W42">next week</TIMEX3>
+
+We������re out next weekend but perhaps the 27th?
+next weekend=<TIMEX3 range="(2013-10-19,2013-10-20,P2D)" tid="t1" type="DATE" value="2013-W42-WE">next weekend</TIMEX3>
+
+xxxxx I ask xxxxxxx to call you direct?
+
+Also, who do we plan to onboard today?
+today=<TIMEX3 range="(2013-10-08,2013-10-08,P1D)" tid="t1" type="DATE" value="2013-10-08">today</TIMEX3>
+
+What type of curtain cloth will you be providing?
+
+Please update xxxx.
+
+Can you please suggest how i can debug and fix this issue?
+
+In fact please update the sheet we use for xx expense planning with a new row for this.
+
+Can I call you at 4pm today?
+4pm today=<TIMEX3 range="(2013-10-08T16:00:00.000,2013-10-08T16:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-10-08T16">4pm today</TIMEX3>
+
+Do we want to go ahead, or postpone it to tomorrow?
+tomorrow=<TIMEX3 range="(2013-10-09,2013-10-09,P1D)" tid="t1" type="DATE" value="2013-10-09">tomorrow</TIMEX3>
+
+Please ping me in your free time to discuss about this issue.
+
+Also, with regard to xxxxxx mail, please let us know our way forward with Gitgrow blogs.
+
+Please give me an xxx on fixing this, so that I can convey the same to xxxxx & xx.
+
+Can we please reschedule for tomorrow or day after?
+tomorrow=<TIMEX3 range="(2013-10-09,2013-10-09,P1D)" tid="t1" type="DATE" value="2013-10-09">tomorrow</TIMEX3>
+day=<TIMEX3 range="(,,P1D)" tid="t2" type="DURATION" value="P1D">day</TIMEX3>
+
+Please mail me the xx xx.
+
+How about tomorrow around 2pm?
+about tomorrow=<TIMEX3 range="(2013-10-10,2013-10-10,P1D)" tid="t1" type="DATE" value="2013-10-10">about tomorrow</TIMEX3>
+2pm=<TIMEX3 range="(2013-10-09T14:00:00.000,2013-10-09T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-10-09T14">2pm</TIMEX3>
+
+can we talk today around 4 pm, if possible.
+today=<TIMEX3 range="(2013-10-09,2013-10-09,P1D)" tid="t1" type="DATE" value="2013-10-09">today</TIMEX3>
+4 pm=<TIMEX3 range="(2013-10-09T16:00:00.000,2013-10-09T16:00:59.999,PT1M)" tid="t2" type="TIME" value="2013-10-09T16:00">4 pm</TIMEX3>
+
+Do forward it to xxxxxxx and mark me on CC so I can follow up with him?
+
+how about 1130am on friday?
+about 1130am on friday=<TIMEX3 range="(2013-10-11-WXX-5T11:30:00.000,2013-10-11-WXX-5T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-11T11:30">about 1130am on friday</TIMEX3>
+
+Can you please separate out the following logos and send the hi-res jpegs of these ?
+
+Let me know which profile suits your skill set.
+
+by the hour?
+the hour=<TIMEX3 range="(2013-10-09TXX:00:00.000,2013-10-09TXX:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-10-09TXX">the hour</TIMEX3>
+
+xxxxx when can you please have Mani finish the social hues website?
+
+Can you please delete the subgroups xxxx has listed below and make the changes he requested?
+
+Please feel free to update me on your meeting with xxx at your earliest convenience.
+
+Are you available at 1:30pm
+1:30pm=<TIMEX3 range="(2013-10-09T13:30:00.000,2013-10-09T13:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-09T13:30">1:30pm</TIMEX3>
+
+Perhaps these two available candidates can send an email to xxxx referring your name and she will co-ordinate with them?
+
+Let''s meet on thursday (10am) if that still works for you
+thursday=<TIMEX3 range="(2013-10-10-WXX-4,2013-10-10-WXX-4,P1D)" tid="t1" type="DATE" value="2013-10-10">thursday</TIMEX3>
+10am=<TIMEX3 range="(2013-10-09T10:00:00.000,2013-10-09T10:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-10-09T10">10am</TIMEX3>
+
+Do you still have the sewing machine if so, I would like to pick it up either tomm or friday!
+friday=<TIMEX3 range="(2013-10-11-WXX-5,2013-10-11-WXX-5,P1D)" tid="t1" type="DATE" value="2013-10-11">friday</TIMEX3>
+
+Can we please continue till xxxxxxxx ramps up?
+
+Could you please let me know if the interview could be rescheduled to Friday at 2 PM?
+Friday at 2 PM=<TIMEX3 range="(2013-10-11-WXX-5T14:00:00.000,2013-10-11-WXX-5T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-11T14:00">Friday at 2 PM</TIMEX3>
+
+Are you available on Tuesday yyyyy at 2pm in xxxxxxxx?
+Tuesday=<TIMEX3 range="(2013-10-15-WXX-2,2013-10-15-WXX-2,P1D)" tid="t1" type="DATE" value="2013-10-15">Tuesday</TIMEX3>
+2pm=<TIMEX3 range="(2013-10-09T14:00:00.000,2013-10-09T14:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-10-09T14">2pm</TIMEX3>
+
+Can we meet over Skype/phone sometime today or tomorrow afternoon?
+today=<TIMEX3 range="(2013-10-09,2013-10-09,P1D)" tid="t1" type="DATE" value="2013-10-09">today</TIMEX3>
+tomorrow afternoon=<TIMEX3 range="(2013-10-10T12:00:00.000,2013-10-10T18,PT6H)" tid="t2" type="TIME" value="2013-10-10TAF">tomorrow afternoon</TIMEX3>
+
+Tomorrow, when we''re all back in the office, we can start to look at the calendar, but perhaps it''s wisest to wait for you to let us know that you''ve safely arrived xxxxxx
+Tomorrow=<TIMEX3 range="(2013-10-10,2013-10-10,P1D)" tid="t1" type="DATE" value="2013-10-10">Tomorrow</TIMEX3>
+
+MoM from the xxxx Call - Are we closing this Friday?
+this Friday=<TIMEX3 range="(2013-10-11-WXX-5,2013-10-11-WXX-5,P1D)" tid="t1" type="DATE" value="2013-10-11">this Friday</TIMEX3>
+
+Can we wait until tomorrow?
+tomorrow=<TIMEX3 range="(2013-10-10,2013-10-10,P1D)" tid="t1" type="DATE" value="2013-10-10">tomorrow</TIMEX3>
+
+Could you send the schedule for other candidates ?
+
+May I request that you block time after Monday weekly call for F&B discussion?
+May=<TIMEX3 range="(2013-05-01,2013-05-31,P1M)" tid="t1" type="DATE" value="2013-05">May</TIMEX3>
+Monday=<TIMEX3 range="(2013-10-07-WXX-1,2013-10-07-WXX-1,P1D)" tid="t2" type="DATE" value="2013-10-07">Monday</TIMEX3>
+weekly=<TIMEX3 freq="P1X" periodicity="P1W" quant="EVERY" tid="t3" type="SET" value="P1W">weekly</TIMEX3>
+
+Please respond asap.
+
+Please pick a spot.
+
+PO is being processed - can you give me an estimate as to the number of days it will take to deliver the whitepaper?
+days=<TIMEX3 range="(,,PXD)" tid="t1" type="DURATION" value="PXD">days</TIMEX3>
+
+Can we have a call today to discuss?
+today=<TIMEX3 range="(2013-10-10,2013-10-10,P1D)" tid="t1" type="DATE" value="2013-10-10">today</TIMEX3>
+
+As discussed, please share your CV to discuss in further with xxxxxx xxxxxxx roles and keep you posted on next steps.
+
+xxxxx - Can you please make the following changes for the attached IDOS image.
+
+do u hav any cv''s i can fwd the
+
+Can you get me these papers today?
+today=<TIMEX3 range="(2013-10-10,2013-10-10,P1D)" tid="t1" type="DATE" value="2013-10-10">today</TIMEX3>
+
+Please review and let me know your thoughts.
+
+sorry to trouble you �� can u take a look antd let me know what this is.
+
+How about 11:30 am tomorrow (fri)?
+about 11:30 am tomorrow=<TIMEX3 range="(2013-10-11T11:30:00.000,2013-10-11T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2013-10-11T11:30">about 11:30 am tomorrow</TIMEX3>
+fri=<TIMEX3 range="(2013-10-11-WXX-5,2013-10-11-WXX-5,P1D)" tid="t2" type="DATE" value="2013-10-11">fri</TIMEX3>
+
+Could you please share your availability for next week?
+next week=<TIMEX3 range="(2013-10-14,2013-10-20,P1W)" tid="t1" type="DATE" value="2013-W42">next week</TIMEX3>
+
+Would Tuesday yyyyy at 5pm in xxxxxxxx work with your schedule?
+Tuesday=<TIMEX3 range="(2013-10-15-WXX-2,2013-10-15-WXX-2,P1D)" tid="t1" type="DATE" value="2013-10-15">Tuesday</TIMEX3>
+5pm=<TIMEX3 range="(2013-10-10T17:00:00.000,2013-10-10T17:59:59.999,PT1H)" tid="t2" type="TIME" value="2013-10-10T17">5pm</TIMEX3>
+
+Can you please check what''s happening
+
+Can you please publish it tomorrow and send the URL to me and xxxxxxx?
+tomorrow=<TIMEX3 range="(2013-10-11,2013-10-11,P1D)" tid="t1" type="DATE" value="2013-10-11">tomorrow</TIMEX3>
+
+Did you already call xxxxxxx
+

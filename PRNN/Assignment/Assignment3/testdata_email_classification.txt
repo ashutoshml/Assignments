@@ -1,0 +1,313 @@
+ I am hoping we can finish the indexer transition by the weekend.
+the weekend=<TIMEX3 range="(2014-12-27,2014-12-28,P2D)" tid="t1" type="DATE" value="2014-W52-WE">the weekend</TIMEX3>
+
+By next week is vague.
+next week=<TIMEX3 range="(2008-03-03,2008-03-09,P1W)" tid="t1" type="DATE" value="2008-W10">next week</TIMEX3>
+
+This is a bit hectic...but I think we can cover all these in one day if we leave early Sunday... maybe around y or y.
+one day=<TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">one day</TIMEX3>
+early Sunday=<TIMEX3 mod="EARLY" range="(2014-12-28-WXX-7,2014-12-28-WXX-7,P1D)" tid="t2" type="DATE" value="2014-12-28">early Sunday</TIMEX3>
+
+We start the next tournament at xxx next month.
+next month=<TIMEX3 range="(2008-03-01,2008-03-31,P1M)" tid="t1" type="DATE" value="2008-03">next month</TIMEX3>
+
+By the way, I forgot to mention that the deadline given for filing the protest is November 16th.
+November 16th=<TIMEX3 range="(2007-11-16,2007-11-16,P1D)" tid="t1" type="DATE" value="2007-11-16">November 16th</TIMEX3>
+
+I am to discuss with him on Saturday.
+Saturday=<TIMEX3 range="(2008-03-01-WXX-6,2008-03-01-WXX-6,P1D)" tid="t1" type="DATE" value="2008-03-01">Saturday</TIMEX3>
+
+xxxxxxxxx has confirmed to report bug within this week.
+this week=<TIMEX3 range="(2008-02-25,2008-03-02,P1W)" tid="t1" type="DATE" value="2008-W09">this week</TIMEX3>
+
+I was curious if we can meet this week to take it forward.
+this week=<TIMEX3 range="(2014-01-20,2014-01-26,P1W)" tid="t1" type="DATE" value="2014-W04">this week</TIMEX3>
+
+We could do tomorrow - does yyyyy tomorrow work?
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+tomorrow=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t2" type="DATE" value="2014-01-21">tomorrow</TIMEX3>
+
+By now most of you have had (or are scheduled to have today or tomorrow) the first detailed review of your slides.
+now=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>
+today=<TIMEX3 range="(2008-02-29,2008-02-29,P1D)" tid="t2" type="DATE" value="2008-02-29">today</TIMEX3>
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t3" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+We can create a new DB for Jagatguru with the logins on Monday (if you have time, we can do it today as well).
+Monday=<TIMEX3 range="(2014-12-29-WXX-1,2014-12-29-WXX-1,P1D)" tid="t1" type="DATE" value="2014-12-29">Monday</TIMEX3>
+today=<TIMEX3 range="(2014-12-25,2014-12-25,P1D)" tid="t2" type="DATE" value="2014-12-25">today</TIMEX3>
+
+Nice to meet with you too, Would you have time to get together next week ?
+next week=<TIMEX3 range="(2013-10-14,2013-10-20,P1W)" tid="t1" type="DATE" value="2013-W42">next week</TIMEX3>
+
+So, let me just wish both of you and your loved ones the very best of health and happiness during this holiday season and throughout 2015 - and let''s plan our conversation in early January.
+2015=<TIMEX3 range="(2015-01-01,2015-12-31,P1Y)" tid="t1" type="DATE" value="2015">2015</TIMEX3>
+early January=<TIMEX3 mod="EARLY" range="(2015-01-01,2015-01-31,P1M)" tid="t2" type="DATE" value="2015-01">early January</TIMEX3>
+
+Will call from one of the above ids today.
+today=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">today</TIMEX3>
+
+You call her and tell that we are fine.
+
+Also Paytm it''s still at yy - are you sure that we will hit yy when we send the report on Monday
+Monday=<TIMEX3 range="(2008-03-03-WXX-1,2008-03-03-WXX-1,P1D)" tid="t1" type="DATE" value="2008-03-03">Monday</TIMEX3>
+
+Could you please advise on where to hold this meeting?
+
+I am ok with the Sunday outing to xxxxx mist.
+Sunday=<TIMEX3 range="(2014-01-26-WXX-7,2014-01-26-WXX-7,P1D)" tid="t1" type="DATE" value="2014-01-26">Sunday</TIMEX3>
+
+Let me know what works for next week?
+next week=<TIMEX3 range="(2013-10-14,2013-10-20,P1W)" tid="t1" type="DATE" value="2013-W42">next week</TIMEX3>
+
+Good catch - can you change the text as follows:
+
+Let me know if you are available today from 12:00 - 1:00 pm.
+today=<TIMEX3 range="(2013-10-10,2013-10-10,P1D)" tid="t1" type="DATE" value="2013-10-10">today</TIMEX3>
+from 12:00 - 1:00 pm=<TIMEX3 beginPoint="t2" endPoint="t3" range="(T12:00,T13:00,PT1H)" tid="t4" type="DURATION" value="PT1H">from 12:00 - 1:00 pm</TIMEX3>
+
+By the way, where is the venue for xxxxxx xxxxxxxxxxxx with xxxxxxxxxx xxxxxxxxxx in xxx xxx xxx on 10 July.
+10 July=<TIMEX3 range="(2008-07-10,2008-07-10,P1D)" tid="t1" type="DATE" value="2008-07-10">10 July</TIMEX3>
+
+By tomorrow, xxxxxxxx will receive an e-mail from ROC along with Incorporation certificate.
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+yy, yyy you should receive it on Mon xxxxx.
+Mon=<TIMEX3 range="(2014-12-29-WXX-1,2014-12-29-WXX-1,P1D)" tid="t1" type="DATE" value="2014-12-29">Mon</TIMEX3>
+
+Would thursday 11 AM work for you?
+thursday 11 AM=<TIMEX3 range="(2014-01-23-WXX-4T11:00:00.000,2014-01-23-WXX-4T11:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-23T11:00">thursday 11 AM</TIMEX3>
+
+We have added the below domains in the safe sender�������s list, kindly send a test mail to the user tomorrow.
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+We seek forward to meet at 11am
+11am=<TIMEX3 range="(2014-01-21T11:00:00.000,2014-01-21T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-21T11">11am</TIMEX3>
+
+xxxxxxxxx xxxx IN AND AROUND THE xxxxxx | MARCH 2014
+MARCH 2014=<TIMEX3 range="(2014-03-01,2014-03-31,P1M)" tid="t1" type="DATE" value="2014-03">MARCH 2014</TIMEX3>
+
+Will meet you tomorrow.
+tomorrow=<TIMEX3 range="(2014-01-22,2014-01-22,P1D)" tid="t1" type="DATE" value="2014-01-22">tomorrow</TIMEX3>
+
+Can you please share the report from xxxxxxxxx as of date.
+
+Saturday what time suits you?
+Saturday=<TIMEX3 range="(2014-01-18-WXX-6,2014-01-18-WXX-6,P1D)" tid="t1" type="DATE" value="2014-01-18">Saturday</TIMEX3>
+
+I may be available tomorrow (Wednesday) night to come and look.
+tomorrow=<TIMEX3 range="(2014-01-22,2014-01-22,P1D)" tid="t1" type="DATE" value="2014-01-22">tomorrow</TIMEX3>
+Wednesday=<TIMEX3 range="(2014-01-22-WXX-3,2014-01-22-WXX-3,P1D)" tid="t2" type="DATE" value="2014-01-22">Wednesday</TIMEX3>
+night=<TIMEX3 range="(2014-01-21T19:00:00.000,2014-01-21T05,PT-14H)" tid="t3" type="TIME" value="2014-01-21TNI">night</TIMEX3>
+
+Join us on 20th August 2014 at 3 P.M. (IST) [xxxxxxx Time xxxx as per your Country]
+20th August 2014 at 3 P.M.=<TIMEX3 range="(2014-08-20T15:00:00.000,2014-08-20T15:00:59.999,PT1M)" tid="t1" type="TIME" value="2014-08-20T15:00">20th August 2014 at 3 P.M.</TIMEX3>
+
+I am left with only yyy weeks here and hence I will continue to live in the studio even after my wife comes this week.
+weeks=<TIMEX3 range="(,,PXW)" tid="t1" type="DURATION" value="PXW">weeks</TIMEX3>
+this week=<TIMEX3 range="(2008-02-25,2008-03-02,P1W)" tid="t2" type="DATE" value="2008-W09">this week</TIMEX3>
+
+Also can we get this done for xxxxxxxxxxx?
+
+CONTEST: Tell xx Your xxxx xxxxx of xxxxxxx xxxx, and Be Entered to Win $yy This Week
+This Week=<TIMEX3 range="(2008-02-25,2008-03-02,P1W)" tid="t1" type="DATE" value="2008-W09">This Week</TIMEX3>
+
+Please let me know what would be a good day and time for us to meet.
+
+xx request for July:
+July=<TIMEX3 range="(2008-07-01,2008-07-31,P1M)" tid="t1" type="DATE" value="2008-07">July</TIMEX3>
+
+Sure let''s get the NDA executed and plan on meeting up week of Feb 3rd if possible
+week of Feb 3rd=<TIMEX3 alt_value="2014-02-03 INTERSECT P1W" anchorTimeID="t2" range="(2014-02-03 INTERSECT P1W,2014-02-03 INTERSECT P1W,)" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">week of Feb 3rd</TIMEX3>
+
+Same time tomorrow works.
+tomorrow=<TIMEX3 range="(2014-01-22,2014-01-22,P1D)" tid="t1" type="DATE" value="2014-01-22">tomorrow</TIMEX3>
+
+We will meet today to discuss about the app.
+today=<TIMEX3 range="(2014-01-21,2014-01-21,P1D)" tid="t1" type="DATE" value="2014-01-21">today</TIMEX3>
+
+Can you add a support link "Support" beside contact in the footer?
+
+Sometime around 10am?
+10am=<TIMEX3 range="(2014-01-21T10:00:00.000,2014-01-21T10:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-21T10">10am</TIMEX3>
+
+Calendar shows from 7 may Ramnath
+7 may=<TIMEX3 range="(2008-05-07,2008-05-07,P1D)" tid="t1" type="DATE" value="2008-05-07">7 may</TIMEX3>
+
+Do you want to meet at the xxx
+
+It''ll help me plan my official meetings and other last minute hurdles.Please let me know before Monday.
+last minute=<TIMEX3 range="(2014-12-26TXX:XX:00.000,2014-12-26TXX:XX:59.999,PT1M)" tid="t1" type="TIME" value="2014-12-26TXX">last minute</TIMEX3>
+Monday=<TIMEX3 range="(2014-12-29-WXX-1,2014-12-29-WXX-1,P1D)" tid="t2" type="DATE" value="2014-12-29">Monday</TIMEX3>
+
+I had discussed this with Akhila and she is also thinking along the same lines, maybe we can include her in our discussion on Tuesday (in the week of 5th).
+Tuesday=<TIMEX3 range="(2014-12-30-WXX-2,2014-12-30-WXX-2,P1D)" tid="t1" type="DATE" value="2014-12-30">Tuesday</TIMEX3>
+the week=<TIMEX3 range="(2014-12-22,2014-12-28,P1W)" tid="t2" type="DATE" value="2014-W52">the week</TIMEX3>
+
+Call for xxxxxx ������� JUNE 2014 xxxxx (Volume yy Issue yy)
+JUNE 2014=<TIMEX3 range="(2014-06-01,2014-06-30,P1M)" tid="t1" type="DATE" value="2014-06">JUNE 2014</TIMEX3>
+
+Call with phanish tomorrow.
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+If at all we can get on call tomorrow that surely would be more than helpful.
+tomorrow=<TIMEX3 range="(2014-12-28,2014-12-28,P1D)" tid="t1" type="DATE" value="2014-12-28">tomorrow</TIMEX3>
+
+Tuesday and Wednesday are pretty open at the moment.
+Tuesday=<TIMEX3 range="(2008-02-26-WXX-2,2008-02-26-WXX-2,P1D)" tid="t1" type="DATE" value="2008-02-26">Tuesday</TIMEX3>
+Wednesday=<TIMEX3 range="(2008-03-05-WXX-3,2008-03-05-WXX-3,P1D)" tid="t2" type="DATE" value="2008-03-05">Wednesday</TIMEX3>
+
+If I am too late for January pickup, I can make February pickup work.
+January=<TIMEX3 range="(2015-01-01,2015-01-31,P1M)" tid="t1" type="DATE" value="2015-01">January</TIMEX3>
+February=<TIMEX3 range="(2015-02-01,2015-02-28,P1M)" tid="t2" type="DATE" value="2015-02">February</TIMEX3>
+
+I will be back in office on Wednesday, please let me know if it is OK.
+Wednesday=<TIMEX3 range="(2014-12-31-WXX-3,2014-12-31-WXX-3,P1D)" tid="t1" type="DATE" value="2014-12-31">Wednesday</TIMEX3>
+
+call me at yyyy pm tomorrow
+tomorrow=<TIMEX3 range="(2014-01-22,2014-01-22,P1D)" tid="t1" type="DATE" value="2014-01-22">tomorrow</TIMEX3>
+
+Calls were failing at the start of the day.
+the start of the day=<TIMEX3 mod="EARLY" range="(2008-02-29,2008-02-29,P1D)" tid="t1" type="DATE" value="2008-02-29">the start of the day</TIMEX3>
+
+Can we connect sometime next week?
+next week=<TIMEX3 range="(2013-10-14,2013-10-20,P1W)" tid="t1" type="DATE" value="2013-W42">next week</TIMEX3>
+
+xxxx here on Tuesday evening.
+Tuesday evening=<TIMEX3 range="(2008-02-26-WXX-2T18:00:00.000,2008-02-26-WXX-2T20,PT2H)" tid="t1" type="TIME" value="2008-02-26TEV">Tuesday evening</TIMEX3>
+
+how is code getting generated today - what are we going to change it to?
+today=<TIMEX3 range="(2013-10-11,2013-10-11,P1D)" tid="t1" type="DATE" value="2013-10-11">today</TIMEX3>
+
+When we meet tomorrow, I can tell you some of the other ways in which I can represent the data.
+tomorrow=<TIMEX3 range="(2014-12-30,2014-12-30,P1D)" tid="t1" type="DATE" value="2014-12-30">tomorrow</TIMEX3>
+
+Camera proj x TPV : What is the update post April end.
+April end=<TIMEX3 mod="LATE" range="(2008-04-01,2008-04-30,P1M)" tid="t1" type="DATE" value="2008-04">April end</TIMEX3>
+
+Let me know when you are free.
+
+Are we on for the 11am call?
+11am=<TIMEX3 range="(2014-01-21T11:00:00.000,2014-01-21T11:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-21T11">11am</TIMEX3>
+
+Tuesday works.
+Tuesday=<TIMEX3 range="(2014-01-21-WXX-2,2014-01-21-WXX-2,P1D)" tid="t1" type="DATE" value="2014-01-21">Tuesday</TIMEX3>
+
+We can discuss this, if needed, when we meet on Friday.
+Friday=<TIMEX3 range="(2015-01-02-WXX-5,2015-01-02-WXX-5,P1D)" tid="t1" type="DATE" value="2015-01-02">Friday</TIMEX3>
+
+And we can nail it down tomorrow
+tomorrow=<TIMEX3 range="(2014-12-30,2014-12-30,P1D)" tid="t1" type="DATE" value="2014-12-30">tomorrow</TIMEX3>
+
+Please send your passport size photo as soon as possible.
+
+Can I call and listen in on the conversation like I did the other day when you met the xxx engg manager.
+the other day=<TIMEX3 range="(2008-02-29,2008-02-29,P1D)" tid="t1" type="DATE" value="2008-02-29">the other day</TIMEX3>
+
+Hi, how about next Friday 3pm?
+about next Friday 3pm=<TIMEX3 range="(2013-10-18-WXX-5T15:00:00.000,2013-10-18-WXX-5T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2013-10-18T15">about next Friday 3pm</TIMEX3>
+
+18 June early morning (YGN --> NPT) 20 June evening (NPT -->YGN)
+18 June early morning=<TIMEX3 range="(2008-06-18T06:00:00.000,2008-06-18T12:00,PT6H)" tid="t1" type="TIME" value="2008-06-18TMO">18 June early morning</TIMEX3>
+20 June evening=<TIMEX3 range="(2008-06-20T18:00:00.000,2008-06-20T20,PT2H)" tid="t2" type="TIME" value="2008-06-20TEV">20 June evening</TIMEX3>
+
+Can I call up xxxxxx and setup an interview with him tomorrow?
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+We will share with you some country examples end of next week.
+end of next week=<TIMEX3 mod="LATE" range="(2008-03-03,2008-03-09,P1W)" tid="t1" type="DATE" value="2008-W10">end of next week</TIMEX3>
+
+I am out of station till saturday.
+saturday=<TIMEX3 range="(2008-03-01-WXX-6,2008-03-01-WXX-6,P1D)" tid="t1" type="DATE" value="2008-03-01">saturday</TIMEX3>
+
+Can we do the call at 3pm.
+3pm.=<TIMEX3 range="(2014-01-21T15:00:00.000,2014-01-21T15:59:59.999,PT1H)" tid="t1" type="TIME" value="2014-01-21T15">3pm.</TIMEX3>
+
+The goal is to have clarity in what we plan to do, not just to get buy-in from xxxxx, but also to ensure that you & I are on the same page so we can present this at the next board meeting (btw, plan ~Jan 20, after local elections).
+present=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">present</TIMEX3>
+Jan 20=<TIMEX3 range="(2015-01-20,2015-01-20,P1D)" tid="t2" type="DATE" value="2015-01-20">Jan 20</TIMEX3>
+
+I will do my best to finish it before May 7 then.
+May 7=<TIMEX3 range="(2008-05-07,2008-05-07,P1D)" tid="t1" type="DATE" value="2008-05-07">May 7</TIMEX3>
+
+We give you the quotation with drawing tomorrow.
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+Can someone help him tomorrow?
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+My calculations suggest we should plan to launch in the 3rd week of Jan -- say 19th January (Friday).
+the 3rd week of Jan=<TIMEX3 range="(2014-01-13,2014-01-19,P1W)" tid="t1" type="DATE" value="2014-W03">the 3rd week of Jan</TIMEX3>
+19th January=<TIMEX3 range="(2015-01-19,2015-01-19,P1D)" tid="t2" type="DATE" value="2015-01-19">19th January</TIMEX3>
+Friday=<TIMEX3 range="(2015-01-02-WXX-5,2015-01-02-WXX-5,P1D)" tid="t3" type="DATE" value="2015-01-02">Friday</TIMEX3>
+
+I will be available for this weekend interviews from 9am to 3 p.m.
+this weekend=<TIMEX3 range="(2008-03-01,2008-03-02,P2D)" tid="t1" type="DATE" value="2008-W09-WE">this weekend</TIMEX3>
+from 9am to 3 p.m.=<TIMEX3 beginPoint="t2" endPoint="t3" range="(T09,T15:00,PT6H)" tid="t4" type="DURATION" value="PT6H">from 9am to 3 p.m.</TIMEX3>
+
+Will do a few tests tomorrow morning and then send the onboarding doc.
+tomorrow morning=<TIMEX3 range="(2008-03-01T06:00:00.000,2008-03-01T12:00,PT6H)" tid="t1" type="TIME" value="2008-03-01TMO">tomorrow morning</TIMEX3>
+
+Can u send the time line of the features by today?
+today=<TIMEX3 range="(2008-02-29,2008-02-29,P1D)" tid="t1" type="DATE" value="2008-02-29">today</TIMEX3>
+
+Overall - we can target updating your server on Monday (12th Jan) with the product change and the embedded content.
+Monday=<TIMEX3 range="(2015-01-05-WXX-1,2015-01-05-WXX-1,P1D)" tid="t1" type="DATE" value="2015-01-05">Monday</TIMEX3>
+12th Jan=<TIMEX3 range="(2015-01-12,2015-01-12,P1D)" tid="t2" type="DATE" value="2015-01-12">12th Jan</TIMEX3>
+
+How about putting it in the settings page to start with?
+
+Can we do slightly later, say yyyy pm?
+
+I���d like to order and need it to be delivered by Saturday to following address, please let me know if it is possible.
+Saturday=<TIMEX3 range="(2014-12-27-WXX-6,2014-12-27-WXX-6,P1D)" tid="t1" type="DATE" value="2014-12-27">Saturday</TIMEX3>
+
+xxxx - Please create a lead enrich e-mail id for me.
+
+xxxx, we need to run only trend campaigns for xxxxxxxxx (may be tomorrow onwards) with separate budget and performance xxx.
+tomorrow=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">tomorrow</TIMEX3>
+
+Middle of next week we should be set.
+Middle of next week=<TIMEX3 mod="MID" range="(2015-01-05,2015-01-11,P1W)" tid="t1" type="DATE" value="2015-W02">Middle of next week</TIMEX3>
+
+Low- fidelity wireframe By Wednesday 5 xxxx for Search interface on xxxx xxxx
+Wednesday 5 P.M.=<TIMEX3 range="(2008-02-27-WXX-3T17:00:00.000,2008-02-27-WXX-3T17:00:59.999,PT1M)" tid="t1" type="TIME" value="2008-02-27T17:00">Wednesday 5 P.M.</TIMEX3>
+
+I�������m going to let the developers know to go ahead and make it live for tomorrow morning.
+tomorrow morning=<TIMEX3 range="(2008-03-01T06:00:00.000,2008-03-01T12:00,PT6H)" tid="t1" type="TIME" value="2008-03-01TMO">tomorrow morning</TIMEX3>
+
+Assuming the xxx would take yyy days, we should be able to launch the website in the week of *12th January.
+days=<TIMEX3 range="(,,PXD)" tid="t1" type="DURATION" value="PXD">days</TIMEX3>
+the week=<TIMEX3 range="(2014-12-29,2015-01-04,P1W)" tid="t2" type="DATE" value="2015-W01">the week</TIMEX3>
+12th January=<TIMEX3 range="(2015-01-12,2015-01-12,P1D)" tid="t3" type="DATE" value="2015-01-12">12th January</TIMEX3>
+
+We will start at 11:30am next week Mon for the full team meeting.
+11:30am next week Mon=<TIMEX3 range="(2014-01-27-W05-1T11:30:00.000,2014-01-27-W05-1T11:30:59.999,PT1M)" tid="t1" type="TIME" value="2014-01-27T11:30">11:30am next week Mon</TIMEX3>
+
+Tell them that we�������ll be updating it over the coming days.
+the coming days=<TIMEX3 range="(2008-03-01,2008-03-01,P1D)" tid="t1" type="DATE" value="2008-03-01">the coming days</TIMEX3>
+
+I am currently out of the country and can re-connect when I am back after Jan 30.
+currently=<TIMEX3 range="(PRESENT_REF,PRESENT_REF,)" tid="t1" type="DATE" value="PRESENT_REF">currently</TIMEX3>
+Jan 30=<TIMEX3 range="(2014-01-30,2014-01-30,P1D)" tid="t2" type="DATE" value="2014-01-30">Jan 30</TIMEX3>
+
+Can we have a call on Monday, as I will be busy with a couple of proposals for next 2 days.
+Monday=<TIMEX3 range="(2008-03-03-WXX-1,2008-03-03-WXX-1,P1D)" tid="t1" type="DATE" value="2008-03-03">Monday</TIMEX3>
+next 2 days=<TIMEX3 alt_value="~((2008-02-29,2008-03-02,P2D):P2D IN (2008-02-29,2008-03-04,P4D))" range="(2008-02-29,2008-03-04,P4D)" tid="t2" type="DATE">next 2 days</TIMEX3>
+
+I like to have quote on Tuesday or Wednesday.
+Tuesday=<TIMEX3 range="(2013-10-08-WXX-2,2013-10-08-WXX-2,P1D)" tid="t1" type="DATE" value="2013-10-08">Tuesday</TIMEX3>
+Wednesday=<TIMEX3 range="(2013-10-16-WXX-3,2013-10-16-WXX-3,P1D)" tid="t2" type="DATE" value="2013-10-16">Wednesday</TIMEX3>
+
+Can we have the Steps data through July 4th like the other tables?
+July 4th=<TIMEX3 range="(2008-07-04,2008-07-04,P1D)" tid="t1" type="DATE" value="2008-07-04">July 4th</TIMEX3>
+
+Let me know if I should invite them to office on Monday to survey the places for other suggestions.
+Monday=<TIMEX3 range="(2015-01-05-WXX-1,2015-01-05-WXX-1,P1D)" tid="t1" type="DATE" value="2015-01-05">Monday</TIMEX3>
+
+Greetings I plan to be there in the valley between Feb 15th and Feb 25th and would love to meet you to explain progress and also see whether we can have the partnership.
+Feb 15th=<TIMEX3 range="(2014-02-15,2014-02-15,P1D)" tid="t1" type="DATE" value="2014-02-15">Feb 15th</TIMEX3>
+Feb 25th=<TIMEX3 range="(2014-02-25,2014-02-25,P1D)" tid="t2" type="DATE" value="2014-02-25">Feb 25th</TIMEX3>
+
+Can we meet next mon-weds aug yyyyy in b''lore - on the bylines of the xxx xxxx ideally or in xx city nearby - xxxxxxx, xxxx G and I should all be there
+aug=<TIMEX3 range="(2008-08-01,2008-08-31,P1M)" tid="t1" type="DATE" value="2008-08">aug</TIMEX3>
+
