@@ -1,3 +1,16 @@
+snippet argparse "Argparse" b
+parser = argparse.ArgumentParser(description="${1:description}")
+
+args = parser.parse_args()
+endsnippet
+
+snippet addargs "Add parser argument" b
+parser.add_argument('${1:var_name}',
+					type=${2:type},
+					required=${3:True},
+					help='${3:help}')
+endsnippet
+
 snippet tfimp "Tensorflow trainers" b
 import numpy as np
 import tensorflow as tf
