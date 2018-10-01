@@ -1,63 +1,72 @@
-snippet argparse "Argparse" b
+snippet tfargparse "Argparse" b
 parser = argparse.ArgumentParser(description="${1:description}")
+
+parser.add_argument('--use_gpu',
+					type=int,
+					required=True,
+					help='Specify the gpu to use')
+
+parser.add_argument('-gpuf',
+					'--gpu_fraction',
+					type=float,
+					default=1.0,
+					help='Fraction of GPU memory to be allocated')
+
+parser.add_argument('-agg',
+					'--allow_gpu_growth',
+					action="store_true",
+					help='Allow GPU memory growth, when needed')
+
+parser.add_argument('--seed',
+					type=int,
+					default=1123,
+					help='Default seed to set')
+
+parser.add_argument('--log_path',
+					type=str,
+					required=True,
+					help='Log Path')
 
 args = parser.parse_args()
 endsnippet
 
 snippet addargs "Add parser argument" b
-parser.add_argument('${1:var_name}',
+parser.add_argument('--${1:var_name}',
 					type=${2:type},
-					required=${3:True},
-					help='${3:help}')
+					action=${3:"store_true"},
+					required=${4:True},
+					help='${5:help}')
 endsnippet
 
-snippet tfimp "Tensorflow trainers" b
+snippet tfimp "Tensorflow essential imports" b
 import numpy as np
 import tensorflow as tf
 import os, glob, gzip, time
-import gensim
 import logging
+import argparse
 
 from datetime import datetime
 from collections import OrderedDict
 from collections import namedtuple
-flags = tf.flags
 
-flags.DEFINE_integer("use_gpu", ${1:3}, "GPU to use")
-flags.DEFINE_float("gpu_fraction", ${2:1.0}, "Fraction of GPU memory to be allocated")
-flags.DEFINE_boolean("allow_gpu_growth", ${3:True}, "If you want to allow memory growth in gpu, when needed")
-flags.DEFINE_integer("seed", 1122, "Default seed to set")
-flags.DEFINE_string("log_path", "${4:log_path_directory}", "Logger path")
+np.random.seed(123)
+endsnippet
 
-FLAGS = flags.FLAGS
+snippet gpuenviron "Set GPU environment" b
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-os.environ["CUDA_VISIBLE_DEVICES"]=str(FLAGS.use_gpu)
-np.random.seed(FLAGS.seed)
+os.environ["CUDA_VISIBLE_DEVICES"]=str(${1:0}))
+endsnippet
 
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
-formatter = logging.Formatter("%(asctime)s | %(levelname)s | %(name)s | %(message)s")
-
-file_handler = logging.FileHandler(os.path.join(${5:args.logfolder}, ${6:args.logfile}))
-file_handler.setLevel(logging.DEBUG)
-file_handler.setFormatter(formatter)
-
-stream_handler = logging.StreamHandler()
-stream_handler.setLevel(logging.INFO)
-stream_handler.setFormatter(formatter)
-
-logger.addHandler(file_handler)
-logger.addHandler(stream_handler)
-
+snippet tfmain "Main function for tensorflow" b
 def main():
-	gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=FLAGS.gpu_fraction)
+	gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=${1:1.0})
 	config = tf.ConfigProto(gpu_options=gpu_options)
-	config.gpu_options.allow_growth = FLAGS.allow_gpu_growth
+	config.gpu_options.allow_growth = ${2:True}
 
 	saver = tf.train.Saver(max_to_keep=None)
 	merged = tf.summary.merge_all()
-	val_writer = tf.summary.FileWriter(os.path.join(FLAGS.log_path, "val"))
-	train_writer = tf.summary.FileWriter(os.path.join(FLAGS.log_path, "train"))
+	val_writer = tf.summary.FileWriter(os.path.join(${3:log_dir}, "val"))
+	train_writer = tf.summary.FileWriter(os.path.join(${3:log_dir}, "train"))
 
 	with tf.Session(config=config) as sess:
 		sess.run(tf.global_variables_initializer())
@@ -65,47 +74,19 @@ def main():
 
 		print "TRAINING STARTED..."
 
-		for i in range(${7:epochs}):
-			batch = ${8:Dataset.next_batch}
+		for i in range(${4:epochs}):
+			batch = ${5:Dataset.next_batch}
 
 
 			train_writer.add_summary()
-			save_file_path = os.path.join(FLAGS.log_path, "checkpoint", "${9:model_name}")
-			saver.save(sess, save_file_path, global_step = ${10:i})
+			save_file_path = os.path.join(args.log_path, "checkpoint", "${6:model_name}")
+			saver.save(sess, save_file_path, global_step = ${7:i})
 
 if __name__ == "__main__":
 	main()
 endsnippet
 
 snippet tfArch "Tensorflow Architecture basic" b
-import math
-
-import numpy as np
-import tensorflow as tf
-import os, glob, gzip, time
-import gensim
-import logging
-
-from datetime import datetime
-from collections import OrderedDict
-from collections import namedtuple
-
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
-formatter = logging.Formatter("%(asctime)s | %(levelname)s | %(name)s | %(message)s")
-
-# Update the line below
-file_handler = logging.FileHandler(os.path.join(args.logfolder, args.logfile))
-file_handler.setLevel(logging.DEBUG)
-file_handler.setFormatter(formatter)
-
-stream_handler = logging.StreamHandler()
-stream_handler.setLevel(logging.INFO)
-stream_handler.setFormatter(formatter)
-
-logger.addHandler(file_handler)
-logger.addHandler(stream_handler)
-
 class ${1:ARCHITECTURE}:
 
 	OPTIMIZERS = {
@@ -181,7 +162,6 @@ class ${1:ARCHITECTURE}:
 		return input_feed
 endsnippet
 
-
 snippet tfplace "Placeholder" b
 ${1:Var_name} = tf.placeholder(tf.${2:float32}, (None, ${3:300}), name="$1")
 endsnippet
@@ -226,4 +206,30 @@ stream_handler.setFormatter(formatter)
 
 logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
+endsnippet
+
+snippet tfimpseq2seq "Imports for sequence to sequence" b
+import tensorflow as tf
+import tensorflow.contrib.seq2seq as seq2seq
+
+from tensorflow.python.ops.rnn_cell import GRUCell
+from tensorflow.python.ops.rnn_cell import LSTMCell
+from tensorflow.python.ops.rnn_cell import MultiRNNCell
+from tensorflow.python.ops.rnn_cell import DropoutWrapper, ResidualWrapper
+
+from tensorflow.python.ops import array_ops
+from tensorflow.python.ops import control_flow_ops
+from tensorflow.python.framework import constant_op
+from tensorflow.python.framework import dtypes
+from tensorflow.python.layers.core import Dense
+from tensorflow.python.util import nest
+
+from tensorflow.contrib.seq2seq.python.ops import attention_wrapper
+from tensorflow.contrib.seq2seq.python.ops import beam_search_decoder
+endsnippet
+
+snippet jobl "Joblib functionality" b
+from joblib import Parallel, delayed
+
+Parallel(n_jobs=${1:20})(delayed(${2:func_name}) for ${3:i} in range(${4:list_name}))
 endsnippet
