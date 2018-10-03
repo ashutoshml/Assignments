@@ -1,0 +1,271 @@
+snippet tfargparse "Argparse" b
+parser = argparse.ArgumentParser(description="${1:description}")
+
+parser.add_argument('--use_gpu',
+					type=int,
+					required=True,
+					help='Specify the gpu to use')
+
+parser.add_argument('-gpuf',
+					'--gpu_fraction',
+					type=float,
+					default=1.0,
+					help='Fraction of GPU memory to be allocated')
+
+parser.add_argument('-agg',
+					'--allow_gpu_growth',
+					action="store_true",
+					help='Allow GPU memory growth, when needed')
+
+parser.add_argument('--seed',
+					type=int,
+					default=1123,
+					help='Default seed to set')
+
+parser.add_argument('--log_path',
+					type=str,
+					required=True,
+					help='Log Path')
+
+parser.add_argument('--use_dropout',
+                    action="store_true",
+                    help='Use dropout in each rnn cell')
+
+parser.add_argument('--dropout_rate',
+                    type=float,
+                    default=0.3,
+                    help='Dropout probability for input/output/state units (0.0: no dropout)')
+
+parser.add_argument('-lr',
+                    '--learning_rate',
+                    type=float,
+                    default=0.0002,
+                    help='Learning rate')
+
+parser.add_argument('--max_gradient_norm',
+                    type=float,
+                    default=1.0,
+                    help='Clip gradients to this norm')
+
+parser.add_argument('--batch_size',
+                    type=int,
+                    default=128,
+                    help='Batch size')
+
+parser.add_argument('--max_epochs',
+                    type=int,
+                    default=10,
+                    help='Maximum # of training epochs')
+
+parser.add_argument('-opt',
+                    '--optimizer',
+                    type=str,
+                    default='adam',
+                    help='Optimizer for training: (adadelta, adam, rmsprop)')
+
+args = parser.parse_args()
+endsnippet
+
+snippet addargs "Add parser argument" b
+parser.add_argument('--${1:var_name}',
+					type=${2:type},
+					action=${3:"store_true"},
+					required=${4:True},
+					help='${5:help}')
+endsnippet
+
+snippet tfimp "Tensorflow essential imports" b
+import numpy as np
+import tensorflow as tf
+import os, glob, gzip, time
+import logging
+import argparse
+
+from datetime import datetime
+from collections import OrderedDict
+from collections import namedtuple
+
+np.random.seed(123)
+endsnippet
+
+snippet gpuenviron "Set GPU environment" b
+os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+os.environ["CUDA_VISIBLE_DEVICES"]=str(${1:0}))
+endsnippet
+
+snippet tfmain "Main function for tensorflow" b
+def main():
+	gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=${1:1.0})
+	config = tf.ConfigProto(gpu_options=gpu_options)
+	config.gpu_options.allow_growth = ${2:True}
+
+	saver = tf.train.Saver(max_to_keep=None)
+	merged = tf.summary.merge_all()
+	val_writer = tf.summary.FileWriter(os.path.join(${3:log_dir}, "val"))
+	train_writer = tf.summary.FileWriter(os.path.join(${3:log_dir}, "train"))
+
+	with tf.Session(config=config) as sess:
+		sess.run(tf.global_variables_initializer())
+		train_writer.add_graph(sess.graph)
+
+		print "TRAINING STARTED..."
+
+		for i in range(${4:epochs}):
+			batch = ${5:Dataset.next_batch}
+
+
+			train_writer.add_summary()
+			save_file_path = os.path.join(args.log_path, "checkpoint", "${6:model_name}")
+			saver.save(sess, save_file_path, global_step = ${7:i})
+
+if __name__ == "__main__":
+	main()
+endsnippet
+
+snippet tfArch "Tensorflow Architecture basic" b
+class ${1:ARCHITECTURE}:
+
+	OPTIMIZERS = {
+			"adam":tf.train.AdamOptimizer,
+			"adadelta":tf.train.AdadeltaOptimizer,
+			"rmsprop":tf.train.RMSPropOptimizer,
+			"sgd":tf.train.GradientDescentOptimizer
+	}
+
+	def __init__(self, config):
+		# Fill this
+		self.build_model()
+
+	def initialize_placeholders(self):
+		pass
+
+	def build_model(self):
+		logger.info("Building Model ...")
+		self.initialize_placeholder()
+		pass
+
+	def init_loss(self):
+		pass
+
+	def init_optimizer(self):
+		logger.info("Setting optimizer")
+		trainable_params = tf.trainable_variables()
+		self.opt = self.optimizer(learning_rate=self.learning_rate)
+
+		grads = tf.gradients(self.loss, trainable_params)
+		clip_grads, _ = tf.clip_by_global_norm(grads, self.max_grad_norm)
+
+		self.updates = self.opt.apply_gradients(zip(clip_grads, trainable_params),global_step=self.global_step)
+
+	def save(self, sess, path, var_list=None, global_step=None):
+		saver = tf.train.Saver(var_list)
+		save_path = saver.save(sess, save_path=path, global_step=global_step)
+		logger.info("Model saved at {}".format(save_path))
+
+	def restore(self, sess, path, var_list=None):
+		saver = tf.train.Saver(var_list)
+		saver.restore(sess, save_path=path)
+		logger.info("Model restored from {}".format(path))
+
+	def train(self, sess, ${2:inputs, outputs}):
+		input_feed = self.check_feeds($2)
+		output_feed = [${3:outputs}]
+		# Keep prob dropout
+		outputs = sess.run(output_feed, input_feed)
+		return outputs
+
+	def eval(self, sess, ${4:inputs, outputs}):
+		input_feed = self.check_feeds($4)
+		output_feed = [${5:outputs}]
+		# No dropout here
+		outputs = sess.run(output_feed, input_feed)
+		return outputs
+
+	def predict(self, sess, ${6:inputs}):
+		input_feed = self.check_feeds($6)
+		output_feed = [${7:logits}]
+		# No dropout
+		outputs = sess.run(output_feed, input_feed)
+		return outputs
+
+	def check_feeds(self, ${8:inputs}):
+		# Sanity check for input data like shape, etc.
+		input_feed = {}
+
+		# Fill input_feed
+		input_feed[${9:Someplaceholder.name}] = ${10:inputs}
+
+		return input_feed
+endsnippet
+
+snippet tfplace "Placeholder" b
+${1:Var_name} = tf.placeholder(tf.${2:float32}, (None, ${3:300}), name="$1")
+endsnippet
+
+snippet tfns "Namescope" b
+with tf.name_scope("${1:name}"):
+	${2:something_here"}
+endsnippet
+
+snippet tfsc "Scalar summary" b
+tf.summary.scalar("${1:loss}", $1)
+endsnippet
+
+snippet tfhist "Histogram summary" b
+tf.summary.histogram(${1:parameter}, $1)
+endsnippet
+
+snippet tfvar "tf Variable" b
+${1:W} = tf.Variable(${2:tf.random_normal()}, ${3:start_end}, name="W_{${4:1}}")
+endsnippet
+
+snippet tfrun "session runner" b
+${1:vars} = sess.run([${2:fetch_var}], feed_dict={${3:feed_dictionary}})
+endsnippet
+
+snippet tfsumadd "Add summary" b
+${1:writer_file}.add_summary(summary,${2:i})
+endsnippet
+
+snippet loggert "Add logger statements" b
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+formatter = logging.Formatter("%(asctime)s | %(levelname)s | %(name)s | %(message)s")
+
+file_handler = logging.FileHandler(os.path.join(${1:args.logfolder}, ${2:args.logfile}))
+file_handler.setLevel(logging.DEBUG)
+file_handler.setFormatter(formatter)
+
+stream_handler = logging.StreamHandler()
+stream_handler.setLevel(logging.INFO)
+stream_handler.setFormatter(formatter)
+
+logger.addHandler(file_handler)
+logger.addHandler(stream_handler)
+endsnippet
+
+snippet tfimpseq2seq "Imports for sequence to sequence" b
+import tensorflow as tf
+import tensorflow.contrib.seq2seq as seq2seq
+
+from tensorflow.python.ops.rnn_cell import GRUCell
+from tensorflow.python.ops.rnn_cell import LSTMCell
+from tensorflow.python.ops.rnn_cell import MultiRNNCell
+from tensorflow.python.ops.rnn_cell import DropoutWrapper, ResidualWrapper
+
+from tensorflow.python.ops import array_ops
+from tensorflow.python.ops import control_flow_ops
+from tensorflow.python.framework import constant_op
+from tensorflow.python.framework import dtypes
+from tensorflow.python.layers.core import Dense
+from tensorflow.python.util import nest
+
+from tensorflow.contrib.seq2seq.python.ops import attention_wrapper
+from tensorflow.contrib.seq2seq.python.ops import beam_search_decoder
+endsnippet
+
+snippet jobl "Joblib functionality" b
+from joblib import Parallel, delayed
+
+Parallel(n_jobs=${1:20})(delayed(${2:func_name}) for ${3:i} in range(${4:list_name}))
+endsnippet
