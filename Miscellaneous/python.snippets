@@ -31,7 +31,8 @@ parser.add_argument('--use_dropout',
                     action="store_true",
                     help='Use dropout in each rnn cell')
 
-parser.add_argument('--dropout_rate',
+parser.add_argument('-dprate',
+                    '--dropout_rate'
                     type=float,
                     default=0.3,
                     help='Dropout probability for input/output/state units (0.0: no dropout)')
@@ -268,4 +269,214 @@ snippet jobl "Joblib functionality" b
 from joblib import Parallel, delayed
 
 Parallel(n_jobs=${1:20})(delayed(${2:func_name}) for ${3:i} in range(${4:list_name}))
+endsnippet
+
+snippet tfmaintrain "Main run file for tensorflow architectures" b
+import os, math, logging
+import time, json
+import random, argparse
+from datetime import datetime
+from pprint import pprint
+
+from collections import OrderedDict
+
+import numpy as np
+import tensorflow as tf
+
+from ..models.${1:model_file_name} import ${2:model_name}
+
+def build_parser():
+	parser = argparse.ArgumentParser(description="Run model")
+
+	# Mode specifications
+    parser.add_argument("--mode",
+                        type=str, default="train", choices=['train', 'decode'],
+                        help="Modes: train, decode")
+    parser.add_argument("--dataset",
+                        type=str, default="quora", choices=['quora', 'mscoco', 'twitter'],
+                        help="Dataset to use")
+    parser.add_argument("--run_name",
+                        type=str, required=True,
+                        help="Enter the run name")
+
+	# Device Configuration
+    parser.add_argument('--use_gpu',
+                        type=int, required=True,
+                        help='Specify the gpu to use')
+    parser.add_argument('-gpuf', '--gpu_fraction',
+                        type=float, default=1.0,
+                        help='Fraction of GPU memory to be allocated')
+    parser.add_argument('-agg', '--allow_gpu_growth',
+                        action="store_true",
+                        help='Allow GPU memory growth, when needed')
+    parser.add_argument('--seed',
+                        type=int, default=1123,
+                        help='Default seed to set')
+    parser.add_argument('--log_path',
+                        type=str, required=True,
+                        help='Log Path')
+    parser.add_argument('--allow_soft_placement',
+                        action="store_true",
+                        help='Allow device soft placement')
+    parser.add_argument('--log_device_placement',
+                        action="store_true",
+                        help='Log placement of ops on devices')
+    parser.add_argument('--model_dir',
+                        type=str, default='model/',
+                        help='Path to save model checkpoints')
+    parser.add_argument("--log_folder",
+                        type=str, default="Logs",
+                        help="Logger path to capture the stream outputs")
+    parser.add_argument("-log_fmt", "--logger_format",
+                        type=str, default="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+                        help="Specify format of the logger")
+    parser.add_argument("--log_file",
+                        type=str, default="log_",
+                        help="Log file name")
+    parser.add_argument("-date_fmt", "--dateformat",
+                        type=str, default="%Y-%m-%d_%H:%M:%S",
+                        help="Format of the date")
+
+	# Training parameters
+    parser.add_argument('-shuffle', '--shuffle_each_epoch',
+                        action="store_true",
+                        help='Shuffle training dataset for each epoch')
+    parser.add_argument('-sbl', '--sort_by_length',
+                        action="store_true",
+                        help='Sort pre-fetched minibatches by their target sequence lengths')
+    parser.add_argument('-use_dp', '--use_dropout',
+                        action="store_true",
+                        help='Use dropout in each rnn cell')
+    parser.add_argument('-dprate', '--dropout_rate',
+                        type=float, default=0.3,
+                        help='Dropout probability for input/output/state units (0.0: no dropout)')
+    parser.add_argument('-lr', '--learning_rate',
+                        type=float, default=0.0002,
+                        help='Learning rate')
+    parser.add_argument('--max_gradient_norm',
+                        type=float, default=1.0,
+                        help='Clip gradients to this norm')
+    parser.add_argument('--batch_size',
+                        type=int, default=32,
+                        help='Batch size')
+    parser.add_argument('--max_epochs',
+                        type=int, default=10,
+                        help='Maximum # of training epochs')
+    parser.add_argument('-opt', '--optimizer',
+                        type=str, default='adam', choices=['adam', 'adadelta', 'sgd', 'rmsprop'],
+                        help='Optimizer for training: (adadelta, adam, rmsprop, sgd)')
+
+	return parser
+
+def read_files(args):
+    raise NotImplementedError("Read files not implemented")
+
+def create_model(session, args, logger):
+    config  = args
+    logger.info(json.dumps(vars(args),
+                           sort_keys=True,
+                           indent=4))
+
+    model   = ${3:model_name}(config, args.mode, logger)
+
+    # ckpt = tf.train.get_checkpoint_state(args.model_dir)
+    ckpt = tf.train.get_checkpoint_state(os.path.join(args.model_dir,
+                                                      args.run_name,
+                                                      'train',
+                                                      'checkpoint'))
+
+    if ckpt and tf.train.checkpoint_exists(ckpt.model_checkpoint_path):
+        logger.info('Reloading model parameters..')
+        model.restore(session, ckpt.model_checkpoint_path)
+    else:
+        if not os.path.exists(args.model_dir):
+            os.makedirs(args.model_dir)
+        logger.info('Created new model parameters..')
+        session.run(tf.global_variables_initializer())
+
+    return model
+
+def validation(args, model, sess, i, logger):
+	raise NotImplementedError("Validation code not implemented")
+
+def fit(args, model, sess, i, logger):
+	raise NotImplementedError("Validation code not implemented")
+
+def start_function(args, logger):
+	# Load parallel data to train
+    logger.info('Loading training data..')
+
+    # Gpu Configurations
+    gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=args.gpu_fraction)
+    gpu_config  = tf.ConfigProto(gpu_options=gpu_options)
+    gpu_config.gpu_options.allow_growth = args.allow_gpu_growth
+
+	seq2seq_cvae_model_path = os.path.join(args.model_dir, args.run_name)
+    train_writer = tf.summary.FileWriter(os.path.join(seq2seq_cvae_model_path, "train"))
+    val_writer = tf.summary.FileWriter(os.path.join(seq2seq_cvae_model_path, "val"))
+
+    with tf.Session(config=gpu_config) as sess:
+        model = create_model(sess, args, logger)
+
+        if model.global_epoch_step.eval() >= args.max_epochs:
+            logger.info("training complete curr_epoch: {},max_epoch:{}".format(
+                model.global_epoch_step.eval(), args.max_epochs))
+            sys.exit()
+
+        train_writer.add_graph(sess.graph)
+        val_writer.add_graph(sess.graph)
+
+        logger.info("TRAINING STARTED...")
+        min_loss = 1e8
+        ebnum = 0
+
+        for i in range(1, args.max_epochs+1):
+
+            epoch_loss_train = fit(args, model, sess, i, logger, train_data, w2id, id2w, train_writer)
+            save_file_path = os.path.join(seq2seq_cvae_model_path,
+                                          'train',
+                                          "checkpoint",
+                                          'autoencoder')
+
+            # Validation check
+            epoch_loss_val = validation(args, model, sess, i, logger, dev_data, w2id, id2w, val_writer)
+
+
+            # Save Model only when less than min_loss
+            if epoch_loss_val < min_loss:
+                model.save(sess, save_file_path, global_step=model.global_epoch_step)
+                min_loss = epoch_loss_val;
+            else:
+                logger.info('Not saving model since eval loss exceeded min loss')
+            model.global_epoch_step_op.eval()
+
+
+            if model.global_epoch_step.eval() >= args.max_epochs:
+                logger.info("Training complete curr_epoch: {} max_epoch:{}".format(model.global_epoch_step.eval(),
+                                                                                   args.max_epochs))
+                sys.exit()
+
+
+def main():
+    parser = build_parser()
+    args = parser.parse_args()
+
+    np.random.seed(args.seed)
+    os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+    os.environ["CUDA_VISIBLE_DEVICES"] = str(args.use_gpu)
+
+ 	log_folder_name = os.path.join(args.log_folder, args.run_name)
+    if not os.path.exists(log_folder_name):
+        os.makedirs(log_folder_name)
+
+    logger = get_logger(__name__,
+                        args.logger_format,
+                        logging.INFO,
+                        os.path.join(log_folder_name,
+                                     'autoencoder.log'))
+
+    start_function(args, logger)
+
+if __name__ == "__main__":
+	tf.app.run()
 endsnippet
