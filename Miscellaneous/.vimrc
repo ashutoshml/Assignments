@@ -47,7 +47,7 @@ Plug 'ervandew/supertab'
 Plug 'Valloric/YouCompleteMe'
 " Plug 'scrooloose/syntastic'
 " Plug 'airblade/vim-gitgutter'
-" Plug 'jistr/vim-nerdtree-tabs'
+Plug 'jistr/vim-nerdtree-tabs'
 " Plug 'Raimondi/delimitMate'
 " Plug 'tpope/vim-fugitive'
 
@@ -187,10 +187,11 @@ set number
 
 let no_buffers_menu=1
 if !exists('g:not_finish_vimplug')
-  colorscheme wombat256
+  colorscheme Tomorrow-Night-Bright
 endif
 
 set mousemodel=popup
+" set termguicolors
 set t_Co=256
 set guioptions=egmrti
 set gfn=Monospace\ 10
@@ -284,12 +285,17 @@ let g:NERDTreeChDirMode=2
 let g:NERDTreeIgnore=['\.rbc$', '\~$', '\.pyc$', '\.db$', '\.sqlite$', '__pycache__']
 let g:NERDTreeSortOrder=['^__\.py$', '\/$', '*', '\.swp$', '\.bak$', '\~$']
 let g:NERDTreeShowBookmarks=1
-let g:nerdtree_tabs_focus_on_files=1
 let g:NERDTreeMapOpenInTabSilent = '<RightMouse>'
 let g:NERDTreeWinSize = 50
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc,*.db,*.sqlite
 nnoremap <silent> <F2> :NERDTreeFind<CR>
-nnoremap <silent> <F3> :NERDTreeToggle<CR>
+nnoremap <silent> <F3> :NERDTreeTabsToggle<CR>
+
+"" NERDTreeTabs configuration
+let g:nerdtree_tabs_open_on_new_tab=1
+let g:nerdtree_tabs_focus_on_files=1
+let g:nerdtree_tabs_autoclose=1
+let g:nerdtree_tabs_open_on_console_startup=1
 
 "" grep.vim
 nnoremap <silent> <leader>f :Rgrep<CR>
@@ -532,7 +538,7 @@ set foldnestmax=10
 set nofoldenable
 set foldlevel=2
 
-" Syntastic 
+" Syntastic
 let g:syntastic_mode_map = { 'mode': 'passive', 'active_filetypes': [],'passive_filetypes': [] }
 nnoremap <C-w>E :SyntasticCheck<CR> :SyntasticToggleMode<CR>
 """*****************************************************************************
